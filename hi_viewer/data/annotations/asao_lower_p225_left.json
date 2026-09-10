@@ -1,0 +1,662 @@
+[
+  {
+    "id": "anno-asao_lower_p225_left-00",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "○安志藩"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "○安志藩（あんじはん）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Maru-marker opening the entry for Anji domain (Harima province, 10,000 koku)."
+      },
+      {
+        "purpose": "identifying",
+        "value": "安志藩丸印"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p225_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2548,1311,108,562"
+      }
+    }
+  },
+  {
+    "id": "anno-asao_lower_p225_left-01",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "知事　一人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "知事　一人"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Domain governor (han-chiji): 1 person."
+      },
+      {
+        "purpose": "identifying",
+        "value": "安志知事"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p225_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2420,1224,95,585"
+      }
+    }
+  },
+  {
+    "id": "anno-asao_lower_p225_left-02",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "大參事　一人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "大参事　一人"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Senior councillor (daisanji): 1 person."
+      },
+      {
+        "purpose": "identifying",
+        "value": "安志大參事"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p225_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2287,1223,91,583"
+      }
+    }
+  },
+  {
+    "id": "anno-asao_lower_p225_left-03",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "權大參事　二人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "権大参事　二人"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Acting senior councillor (gon-daisanji): 2 persons."
+      },
+      {
+        "purpose": "identifying",
+        "value": "安志權大參事"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p225_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2150,1222,91,586"
+      }
+    }
+  },
+  {
+    "id": "anno-asao_lower_p225_left-04",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "少參事　二人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "少参事　二人"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Junior councillor (shosanji): 2 persons."
+      },
+      {
+        "purpose": "identifying",
+        "value": "安志少參事"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p225_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2014,1223,90,587"
+      }
+    }
+  },
+  {
+    "id": "anno-asao_lower_p225_left-05",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "兵隊　一小隊　役員トモ六十人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "兵隊　一小隊　役員とも六十人"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Troops: one platoon, sixty men including officers."
+      },
+      {
+        "purpose": "identifying",
+        "value": "安志兵隊"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p225_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1749,1243,219,707"
+      }
+    }
+  },
+  {
+    "id": "anno-asao_lower_p225_left-06",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "○淺尾藩"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "○浅尾藩（あさおはん）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Maru-marker opening the entry for Asao domain (Bitchu province, 10,000 koku)."
+      },
+      {
+        "purpose": "identifying",
+        "value": "淺尾藩丸印"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p225_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1601,1306,107,564"
+      }
+    }
+  },
+  {
+    "id": "anno-asao_lower_p225_left-07",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "知事　一人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "知事　一人"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Domain governor (han-chiji): 1 person. No incumbent's name is printed in this column."
+      },
+      {
+        "purpose": "identifying",
+        "value": "淺尾知事"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p225_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1478,967,90,578"
+      }
+    }
+  },
+  {
+    "id": "anno-asao_lower_p225_left-08",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "大參事　一人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "大参事　一人"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Senior councillor (daisanji): 1 person."
+      },
+      {
+        "purpose": "identifying",
+        "value": "淺尾大參事"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p225_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1345,967,89,581"
+      }
+    }
+  },
+  {
+    "id": "anno-asao_lower_p225_left-09",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "垪和瀨平"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "垪和瀬平（はが せへい）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Name of the senior councillor: Haga Sehei."
+      },
+      {
+        "purpose": "identifying",
+        "value": "淺尾大參事氏名"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p225_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1332,1972,93,586"
+      }
+    }
+  },
+  {
+    "id": "anno-asao_lower_p225_left-10",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "權大參事　二人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "権大参事　二人"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Acting senior councillor (gon-daisanji): 2 persons."
+      },
+      {
+        "purpose": "identifying",
+        "value": "淺尾權大參事"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p225_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1211,965,89,583"
+      }
+    }
+  },
+  {
+    "id": "anno-asao_lower_p225_left-11",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "角田圓治"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "角田円治（かくた えんじ）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Name of an acting senior councillor: Kakuta Enji."
+      },
+      {
+        "purpose": "identifying",
+        "value": "淺尾權大參事氏名"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p225_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1203,1972,82,587"
+      }
+    }
+  },
+  {
+    "id": "anno-asao_lower_p225_left-12",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "少參事　一人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "少参事　一人"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Junior councillor (shosanji): 1 person."
+      },
+      {
+        "purpose": "identifying",
+        "value": "淺尾少參事"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p225_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1093,967,79,581"
+      }
+    }
+  },
+  {
+    "id": "anno-asao_lower_p225_left-13",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "高田筑母"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "高田筑母（たかだ ちくぼ）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Name of the junior councillor: Takada Chikubo."
+      },
+      {
+        "purpose": "identifying",
+        "value": "淺尾少參事氏名"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p225_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1073,1968,87,591"
+      }
+    }
+  },
+  {
+    "id": "anno-asao_lower_p225_left-14",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "權少參事　二人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "権少参事　二人"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Acting junior councillor (gon-shosanji): 2 persons. The count 二人 is set one half-column to the right of the four-glyph label and slightly lower, so the box spans both."
+      },
+      {
+        "purpose": "identifying",
+        "value": "淺尾權少參事"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p225_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:947,967,145,613"
+      }
+    }
+  },
+  {
+    "id": "anno-asao_lower_p225_left-15",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "箕輪喜多務"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "箕輪喜多務（みのわ きたむ）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Name of an acting junior councillor: Minowa Kitamu."
+      },
+      {
+        "purpose": "identifying",
+        "value": "淺尾權少參事氏名"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p225_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:934,1967,93,592"
+      }
+    }
+  },
+  {
+    "id": "anno-asao_lower_p225_left-16",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "公議人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "公議人（こうぎにん）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Kogijin — the domain's representative to the Kogisho, the public deliberative assembly. Printed in small type at the head of the three name columns that follow."
+      },
+      {
+        "purpose": "identifying",
+        "value": "淺尾公議人役名"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p225_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1271,2751,62,201"
+      }
+    }
+  },
+  {
+    "id": "anno-asao_lower_p225_left-17",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "垪和締藏"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "垪和締蔵（はが ていぞう）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "First name listed under the kogijin heading: Haga Teizo."
+      },
+      {
+        "purpose": "identifying",
+        "value": "淺尾公議人氏名一"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p225_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1194,2897,76,592"
+      }
+    }
+  },
+  {
+    "id": "anno-asao_lower_p225_left-18",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "上田麿三"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "上田麿三（うえだ まろぞう）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Second name listed under the kogijin heading: Ueda Marozo. The third character is heavily inked; its upper two-thirds is 麻, and the bottom component reads as 呂, giving 麿."
+      },
+      {
+        "purpose": "identifying",
+        "value": "淺尾公議人氏名二"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p225_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1061,2898,89,583"
+      }
+    }
+  },
+  {
+    "id": "anno-asao_lower_p225_left-19",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "武藤新吾"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "武藤新吾（むとう しんご）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Third name listed under the kogijin heading: Muto Shingo."
+      },
+      {
+        "purpose": "identifying",
+        "value": "淺尾公議人氏名三"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p225_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:925,2897,92,590"
+      }
+    }
+  },
+  {
+    "id": "anno-asao_lower_p225_left-20",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "藩制一覽表第九（安志、淺尾）"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "藩制一覧表第九（安志、浅尾）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Running header: Hansei ichiran, Fascicle Nine (Anji, Asao). Provenance line naming the fascicle and the two domains printed on this leaf."
+      },
+      {
+        "purpose": "identifying",
+        "value": "柱藩制一覽表第九"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p225_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:822,1222,77,707"
+      }
+    }
+  },
+  {
+    "id": "anno-asao_lower_p225_left-21",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "四百二十七"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "四百二十七（427）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Printed book-page number in the bottom margin: 427."
+      },
+      {
+        "purpose": "identifying",
+        "value": "丁付四百二十七"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p225_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:806,3069,72,267"
+      }
+    }
+  }
+]

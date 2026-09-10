@@ -1,0 +1,902 @@
+[
+  {
+    "id": "anno-tsurumai_lower_p192_right-00",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "藩制一覽表第九（鶴舞、鶴牧）"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "藩制一覧表　第九（鶴舞・鶴牧）（はんせいいちらんひょう　だいきゅう）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Running header: Survey of Domain Institutions, fascicle 9 (Tsurumai, Tsurumaki). Provenance for the leaf, naming the two domains whose entries appear on it."
+      },
+      {
+        "purpose": "identifying",
+        "value": "藩制一覽表第九標題"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p192_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2174,1258,76,703"
+      }
+    }
+  },
+  {
+    "id": "anno-tsurumai_lower_p192_right-01",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "三百六十"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "三百六十（さんびゃくろくじゅう）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Printed book-page number in the bottom margin: 360."
+      },
+      {
+        "purpose": "identifying",
+        "value": "丁付三百六十"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p192_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2153,3099,69,213"
+      }
+    }
+  },
+  {
+    "id": "anno-tsurumai_lower_p192_right-02",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "杉村克己　權大參事"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "杉村克己　権大参事（すぎむら かつみ　ごんだいさんじ）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Sugimura Katsumi — acting senior councillor (gon-dai-sanji), reading conjectural. A name-then-office appointment entry belonging to Tsuchiura domain. It stands to the right of the ○鶴舞藩 marker, so it belongs to the previous domain, whose officials list runs across the preceding page (p. 359, lower_p191_left) and ends there in the same form, 奧田切瑳　大參事."
+      },
+      {
+        "purpose": "identifying",
+        "value": "土浦杉村克己權大參事"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p192_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2038,1138,96,920"
+      }
+    }
+  },
+  {
+    "id": "anno-tsurumai_lower_p192_right-03",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "一色　杉村　赤尾　新　佐々　右依願被免本官候事"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "一色・杉村・赤尾・新・佐々　右願いに依り本官を免ぜられ候事（みぎねがいにより ほんかんをめんぜられそうろうこと）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Isshiki, Sugimura, Akao, Shin and Sasa — the above were relieved of their present offices at their own request. The five surnames print in the right-hand run and the statement in the left-hand run beside them; 右 (\"the right\") points back at the names. Tsuchiura domain's entry ends here."
+      },
+      {
+        "purpose": "identifying",
+        "value": "土浦依願免官附記"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p192_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2008,2146,124,947"
+      }
+    }
+  },
+  {
+    "id": "anno-tsurumai_lower_p192_right-04",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "○鶴舞藩"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "○鶴舞藩（つるまいはん）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Maru-marker opening the entry for Tsurumai domain (Kazusa province). Everything to its left down to the next marker is Tsurumai's; everything to its right is Tsuchiura's."
+      },
+      {
+        "purpose": "identifying",
+        "value": "鶴舞藩丸印"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p192_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1892,1343,107,561"
+      }
+    }
+  },
+  {
+    "id": "anno-tsurumai_lower_p192_right-05",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "大參事　二人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "大参事　二人（だいさんじ　ににん）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Senior councillors (dai-sanji): 2 persons. Two names follow in the same column, matching the figure."
+      },
+      {
+        "purpose": "identifying",
+        "value": "鶴舞大參事員數"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p192_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1773,1002,92,581"
+      }
+    }
+  },
+  {
+    "id": "anno-tsurumai_lower_p192_right-06",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "奧山脩"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "奥山脩（おくやま おさむ）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Senior councillor: Okuyama Osamu (reading conjectural)."
+      },
+      {
+        "purpose": "identifying",
+        "value": "鶴舞大參事奧山脩"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p192_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1765,1756,86,418"
+      }
+    }
+  },
+  {
+    "id": "anno-tsurumai_lower_p192_right-07",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "伏谷惇"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "伏谷惇（ふしたに あつし）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Senior councillor: Fushitani Atsushi (reading conjectural). Second and last of the two men under 大參事 二人."
+      },
+      {
+        "purpose": "identifying",
+        "value": "鶴舞大參事伏谷惇"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p192_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1757,2348,85,414"
+      }
+    }
+  },
+  {
+    "id": "anno-tsurumai_lower_p192_right-08",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "權大參事　四人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "権大参事　四人（ごんだいさんじ　よにん）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Acting senior councillors (gon-dai-sanji): 4 persons. Three names fill this column and the fourth wraps into the column to its left, so the figure reconciles."
+      },
+      {
+        "purpose": "identifying",
+        "value": "鶴舞權大參事員數"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p192_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1645,999,89,583"
+      }
+    }
+  },
+  {
+    "id": "anno-tsurumai_lower_p192_right-09",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "多川弘"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "多川弘（たがわ ひろし）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Acting senior councillor: Tagawa Hiroshi (reading conjectural)."
+      },
+      {
+        "purpose": "identifying",
+        "value": "鶴舞權大參事多川弘"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p192_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1639,1757,79,416"
+      }
+    }
+  },
+  {
+    "id": "anno-tsurumai_lower_p192_right-10",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "近藤寶"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "近藤宝（こんどう たから）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Acting senior councillor: Kondō Takara (reading conjectural)."
+      },
+      {
+        "purpose": "identifying",
+        "value": "鶴舞權大參事近藤寶"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p192_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1630,2347,84,415"
+      }
+    }
+  },
+  {
+    "id": "anno-tsurumai_lower_p192_right-11",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "安部井尙"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "安部井尚（あべい ひさし）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Acting senior councillor: Abei Hisashi (reading conjectural). Third of the four; the fourth is printed at the head of the next column to the left."
+      },
+      {
+        "purpose": "identifying",
+        "value": "鶴舞權大參事安部井尙"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p192_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1622,2934,84,412"
+      }
+    }
+  },
+  {
+    "id": "anno-tsurumai_lower_p192_right-12",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "坂主靜　公議人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "坂主静　公議人（さか しゅせい　こうぎにん）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Acting senior councillor: Saka Shusei (reading conjectural), with 公議人 printed beneath in smaller type — he also served as the domain's delegate to the Kōgisho (public assembly). The name occupies its own column because the list of four acting senior councillors wraps here."
+      },
+      {
+        "purpose": "identifying",
+        "value": "鶴舞權大參事坂主靜"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p192_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1504,1754,84,618"
+      }
+    }
+  },
+  {
+    "id": "anno-tsurumai_lower_p192_right-13",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "少參事　二人（一人）"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "少参事　二人（一人）（しょうさんじ）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Junior councillors (shō-sanji): printed as 2 persons, with a smaller 一人 (1 person) set beside it to the right as a correction — no brackets are printed, but the second figure is in smaller type. One name (Terada Toyoya) follows before the next heading, so 1 is the true count."
+      },
+      {
+        "purpose": "identifying",
+        "value": "鶴舞少參事員數"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p192_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1378,1002,134,580"
+      }
+    }
+  },
+  {
+    "id": "anno-tsurumai_lower_p192_right-14",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "寺田豐哉"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "寺田豊哉（てらだ とよや）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Junior councillor: Terada Toyoya (reading conjectural). The only name under this heading."
+      },
+      {
+        "purpose": "identifying",
+        "value": "鶴舞少參事寺田豐哉"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p192_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1371,1759,82,414"
+      }
+    }
+  },
+  {
+    "id": "anno-tsurumai_lower_p192_right-15",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "權少參事　二人（四人）"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "権少参事　二人（四人）（ごんしょうさんじ）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Acting junior councillors (gon-shō-sanji): printed as 2 persons, with a smaller 四人 (4 persons) set beside it to the right as a correction. Three names fill this column and a fourth wraps into the column to its left, so 4 is the true count."
+      },
+      {
+        "purpose": "identifying",
+        "value": "鶴舞權少參事員數"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p192_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1243,998,134,582"
+      }
+    }
+  },
+  {
+    "id": "anno-tsurumai_lower_p192_right-16",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "山口均"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "山口均（やまぐち ひとし）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Acting junior councillor: Yamaguchi Hitoshi (reading conjectural)."
+      },
+      {
+        "purpose": "identifying",
+        "value": "鶴舞權少參事山口均"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p192_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1234,1755,79,412"
+      }
+    }
+  },
+  {
+    "id": "anno-tsurumai_lower_p192_right-17",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "佐藤想內"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "佐藤想内（さとう そうない）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Acting junior councillor: Satō Sōnai (reading conjectural)."
+      },
+      {
+        "purpose": "identifying",
+        "value": "鶴舞權少參事佐藤想內"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p192_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1225,2344,87,415"
+      }
+    }
+  },
+  {
+    "id": "anno-tsurumai_lower_p192_right-18",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "小出隣"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "小出隣（こいで ちかし）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Acting junior councillor: Koide Chikashi (reading conjectural). Third of the four; the fourth heads the next column to the left."
+      },
+      {
+        "purpose": "identifying",
+        "value": "鶴舞權少參事小出隣"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p192_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1218,2934,83,414"
+      }
+    }
+  },
+  {
+    "id": "anno-tsurumai_lower_p192_right-19",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "屋代長"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "屋代長（やしろ ちょう）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Acting junior councillor: Yashiro Chō (reading conjectural). Fourth of the four, printed in its own column because the list wraps."
+      },
+      {
+        "purpose": "identifying",
+        "value": "鶴舞權少參事屋代長"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p192_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1104,1754,83,415"
+      }
+    }
+  },
+  {
+    "id": "anno-tsurumai_lower_p192_right-20",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "兵隊　七百三十九人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "兵隊　七百三十九人（へいたい　ななひゃくさんじゅうきゅうにん）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Troops: 739 men. Tsurumai's military strength, printed after its officials and standing to the right of the next domain's marker."
+      },
+      {
+        "purpose": "identifying",
+        "value": "鶴舞兵隊人員"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p192_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:977,1000,90,835"
+      }
+    }
+  },
+  {
+    "id": "anno-tsurumai_lower_p192_right-21",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "○鶴牧藩"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "○鶴牧藩（つるまきはん）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Maru-marker opening the entry for Tsurumaki domain (Kazusa province). Everything to its left is Tsurumaki's; the troop figure to its right still belongs to Tsurumai."
+      },
+      {
+        "purpose": "identifying",
+        "value": "鶴牧藩丸印"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p192_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:827,1341,106,558"
+      }
+    }
+  },
+  {
+    "id": "anno-tsurumai_lower_p192_right-22",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "大參事　二人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "大参事　二人（だいさんじ　ににん）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Senior councillors (dai-sanji): 2 persons. Two names follow in the same column, matching the figure."
+      },
+      {
+        "purpose": "identifying",
+        "value": "鶴牧大參事員數"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p192_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:706,1000,90,582"
+      }
+    }
+  },
+  {
+    "id": "anno-tsurumai_lower_p192_right-23",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "荒木左膳"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "荒木左膳（あらき さぜん）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Senior councillor: Araki Sazen (reading conjectural)."
+      },
+      {
+        "purpose": "identifying",
+        "value": "鶴牧大參事荒木左膳"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p192_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:692,2008,89,580"
+      }
+    }
+  },
+  {
+    "id": "anno-tsurumai_lower_p192_right-24",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "豐田謙藏"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "豊田謙蔵（とよだ けんぞう）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Senior councillor: Toyoda Kenzō (reading conjectural). Second and last of the two."
+      },
+      {
+        "purpose": "identifying",
+        "value": "鶴牧大參事豐田謙藏"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p192_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:682,2932,90,585"
+      }
+    }
+  },
+  {
+    "id": "anno-tsurumai_lower_p192_right-25",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "權大參事　五人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "権大参事　五人（ごんだいさんじ　ごにん）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Acting senior councillors (gon-dai-sanji): 5 persons. Four are named before the page ends — two in this column and two in the column at the far left — so the fifth continues on the following leaf."
+      },
+      {
+        "purpose": "identifying",
+        "value": "鶴牧權大參事員數"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p192_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:572,999,90,584"
+      }
+    }
+  },
+  {
+    "id": "anno-tsurumai_lower_p192_right-26",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "井上八郎右衞門"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "井上八郎右衛門（いのうえ はちろうえもん）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Acting senior councillor: Inoue Hachirōemon."
+      },
+      {
+        "purpose": "identifying",
+        "value": "鶴牧權大參事井上八郎右衞門"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p192_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:557,2009,91,582"
+      }
+    }
+  },
+  {
+    "id": "anno-tsurumai_lower_p192_right-27",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "本田新平"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "本田新平（ほんだ しんぺい）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Acting senior councillor: Honda Shinpei."
+      },
+      {
+        "purpose": "identifying",
+        "value": "鶴牧權大參事本田新平"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p192_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:548,2931,90,579"
+      }
+    }
+  },
+  {
+    "id": "anno-tsurumai_lower_p192_right-28",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "山上左仲"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "山上左仲（やまがみ さちゅう）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Acting senior councillor: Yamagami Sachū (reading conjectural). Third of the five, printed at the head of the leftmost column because the list wraps."
+      },
+      {
+        "purpose": "identifying",
+        "value": "鶴牧權大參事山上左仲"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p192_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:429,2009,86,584"
+      }
+    }
+  },
+  {
+    "id": "anno-tsurumai_lower_p192_right-29",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "佐久間丈右衞門"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "佐久間丈右衛門（さくま じょうえもん）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Acting senior councillor: Sakuma Jōemon. Fourth of the five named here; the fifth falls on the next page."
+      },
+      {
+        "purpose": "identifying",
+        "value": "鶴牧權大參事佐久間丈右衞門"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p192_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:421,2930,86,585"
+      }
+    }
+  }
+]

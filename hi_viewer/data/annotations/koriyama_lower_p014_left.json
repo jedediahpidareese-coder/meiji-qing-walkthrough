@@ -1,0 +1,872 @@
+[
+  {
+    "id": "anno-koriyama_lower_p014_left-00",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "受領一斗六升八合"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "受領　一斗六升八合（〇・一六八石）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Received: 1 to 6 shō 8 gō (0.168 koku)"
+      },
+      {
+        "purpose": "identifying",
+        "value": "明源寺受領"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p014_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2610,1086,89,666"
+      }
+    }
+  },
+  {
+    "id": "anno-koriyama_lower_p014_left-01",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "同"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "同（前項に同じ）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Ditto — same location as the preceding entry"
+      },
+      {
+        "purpose": "identifying",
+        "value": "明源寺所在地"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p014_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2627,2335,59,64"
+      }
+    }
+  },
+  {
+    "id": "anno-koriyama_lower_p014_left-02",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "明源寺"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "明源寺（みょうげんじ）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Myōgen-ji (temple)"
+      },
+      {
+        "purpose": "identifying",
+        "value": "明源寺名"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p014_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2603,2922,77,580"
+      }
+    }
+  },
+  {
+    "id": "anno-koriyama_lower_p014_left-03",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "正税米　四升"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "正税米　四升（〇・〇四石）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Regular tax in rice: 4 shō (0.04 koku)"
+      },
+      {
+        "purpose": "identifying",
+        "value": "明源寺正税米"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p014_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2477,1173,89,500"
+      }
+    }
+  },
+  {
+    "id": "anno-koriyama_lower_p014_left-04",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "受領二十五石"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "受領　二十五石"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Received: 25 koku"
+      },
+      {
+        "purpose": "identifying",
+        "value": "寶幢院受領"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p014_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2346,1086,89,501"
+      }
+    }
+  },
+  {
+    "id": "anno-koriyama_lower_p014_left-05",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "江州高島郡海津中小路寺町"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "近江国高島郡海津中小路寺町"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Ōmi province, Takashima district, Kaizu Nakakōji Teramachi"
+      },
+      {
+        "purpose": "identifying",
+        "value": "寶幢院所在地"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p014_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2324,2339,119,408"
+      }
+    }
+  },
+  {
+    "id": "anno-koriyama_lower_p014_left-06",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "寶幢院"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "宝幢院（ほうどういん）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Hōdō-in (temple)"
+      },
+      {
+        "purpose": "identifying",
+        "value": "寶幢院名"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p014_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2336,2921,85,582"
+      }
+    }
+  },
+  {
+    "id": "anno-koriyama_lower_p014_left-07",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "正税　二十石"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "正税　二十石"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Regular tax: 20 koku"
+      },
+      {
+        "purpose": "identifying",
+        "value": "寶幢院正税"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p014_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2212,1173,88,498"
+      }
+    }
+  },
+  {
+    "id": "anno-koriyama_lower_p014_left-08",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "受領五石"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "受領　五石"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Received: 5 koku"
+      },
+      {
+        "purpose": "identifying",
+        "value": "大崎寺受領"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p014_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2080,1087,85,333"
+      }
+    }
+  },
+  {
+    "id": "anno-koriyama_lower_p014_left-09",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "江州高島郡中村町"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "近江国高島郡中村町"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Ōmi province, Takashima district, Nakamura-chō"
+      },
+      {
+        "purpose": "identifying",
+        "value": "大崎寺所在地"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p014_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2054,2341,118,337"
+      }
+    }
+  },
+  {
+    "id": "anno-koriyama_lower_p014_left-10",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "大崎寺"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "大崎寺（おおさきじ）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Ōsaki-ji (temple)"
+      },
+      {
+        "purpose": "identifying",
+        "value": "大崎寺名"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p014_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2069,2921,82,583"
+      }
+    }
+  },
+  {
+    "id": "anno-koriyama_lower_p014_left-11",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "正税　四石"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "正税　四石"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Regular tax: 4 koku"
+      },
+      {
+        "purpose": "identifying",
+        "value": "大崎寺正税"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p014_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1946,1174,89,412"
+      }
+    }
+  },
+  {
+    "id": "anno-koriyama_lower_p014_left-12",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "受領一石九斗"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "受領　一石九斗（一・九石）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Received: 1 koku 9 to (1.9 koku)"
+      },
+      {
+        "purpose": "identifying",
+        "value": "宗正寺受領"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p014_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1811,1087,89,497"
+      }
+    }
+  },
+  {
+    "id": "anno-koriyama_lower_p014_left-13",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "同中小路町"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "同（近江国高島郡）中小路町"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Ditto [Ōmi province, Takashima district], Nakakōji-chō"
+      },
+      {
+        "purpose": "identifying",
+        "value": "宗正寺所在地"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p014_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1783,2344,119,269"
+      }
+    }
+  },
+  {
+    "id": "anno-koriyama_lower_p014_left-14",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "宗正寺"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "宗正寺（そうしょうじ）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Sōshō-ji (temple)"
+      },
+      {
+        "purpose": "identifying",
+        "value": "宗正寺名"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p014_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1799,2923,88,581"
+      }
+    }
+  },
+  {
+    "id": "anno-koriyama_lower_p014_left-15",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "正租　一石八斗"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "正租　一石八斗（一・八石）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Regular land rent: 1 koku 8 to (1.8 koku)"
+      },
+      {
+        "purpose": "identifying",
+        "value": "宗正寺正租"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p014_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1673,1172,89,579"
+      }
+    }
+  },
+  {
+    "id": "anno-koriyama_lower_p014_left-16",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "受領百六十石六斗二升七合"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "受領　百六十石六斗二升七合（一六〇・六二七石）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Received: 160 koku 6 to 2 shō 7 gō (160.627 koku)"
+      },
+      {
+        "purpose": "identifying",
+        "value": "成菩提院受領"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p014_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1534,1088,90,1004"
+      }
+    }
+  },
+  {
+    "id": "anno-koriyama_lower_p014_left-17",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "江州坂田郡柏原村"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "近江国坂田郡柏原村"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Ōmi province, Sakata district, Kashiwabara village"
+      },
+      {
+        "purpose": "identifying",
+        "value": "成菩提院所在地"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p014_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1513,2348,121,338"
+      }
+    }
+  },
+  {
+    "id": "anno-koriyama_lower_p014_left-18",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "成菩提院"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "成菩提院（じょうぼだいいん）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Jōbodai-in (temple)"
+      },
+      {
+        "purpose": "identifying",
+        "value": "成菩提院名"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p014_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1527,2931,87,578"
+      }
+    }
+  },
+  {
+    "id": "anno-koriyama_lower_p014_left-19",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "正租　五十九石三斗五升六合七勺六才"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "正租　五十九石三斗五升六合七勺六才（五九・三五六七六石）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Regular land rent: 59 koku 3 to 5 shō 6 gō 7 shaku 6 sai (59.35676 koku)"
+      },
+      {
+        "purpose": "identifying",
+        "value": "成菩提院正租"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p014_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1406,1177,91,1417"
+      }
+    }
+  },
+  {
+    "id": "anno-koriyama_lower_p014_left-20",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "受領六石五斗一升"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "受領　六石五斗一升（六・五一石）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Received: 6 koku 5 to 1 shō (6.51 koku)"
+      },
+      {
+        "purpose": "identifying",
+        "value": "法樂寺受領"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p014_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1275,1090,87,669"
+      }
+    }
+  },
+  {
+    "id": "anno-koriyama_lower_p014_left-21",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "和州式下郡黒田村"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "大和国式下郡黒田村"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Yamato province, Shikige district, Kuroda village"
+      },
+      {
+        "purpose": "identifying",
+        "value": "法樂寺所在地"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p014_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1254,2342,118,340"
+      }
+    }
+  },
+  {
+    "id": "anno-koriyama_lower_p014_left-22",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "法樂寺"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "法楽寺（ほうらくじ）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Hōraku-ji (temple)"
+      },
+      {
+        "purpose": "identifying",
+        "value": "法樂寺名"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p014_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1268,2929,85,582"
+      }
+    }
+  },
+  {
+    "id": "anno-koriyama_lower_p014_left-23",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "正税　五石八斗五升九合"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "正税　五石八斗五升九合（五・八五九石）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Regular tax: 5 koku 8 to 5 shō 9 gō (5.859 koku)"
+      },
+      {
+        "purpose": "identifying",
+        "value": "法樂寺正税"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p014_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1147,1178,89,919"
+      }
+    }
+  },
+  {
+    "id": "anno-koriyama_lower_p014_left-24",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "受領三石四升"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "受領　三石四升（三・〇四石）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Received: 3 koku 4 shō (3.04 koku)"
+      },
+      {
+        "purpose": "identifying",
+        "value": "洞泉寺受領"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p014_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1017,1090,84,500"
+      }
+    }
+  },
+  {
+    "id": "anno-koriyama_lower_p014_left-25",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "和州添下郡郡山洞泉寺町"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "大和国添下郡郡山洞泉寺町"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Yamato province, Soenoshimo district, Kōriyama Tōsenji-chō"
+      },
+      {
+        "purpose": "identifying",
+        "value": "洞泉寺所在地"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p014_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:992,2345,121,409"
+      }
+    }
+  },
+  {
+    "id": "anno-koriyama_lower_p014_left-26",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "洞泉寺"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "洞泉寺（とうせんじ）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Tōsen-ji (temple)"
+      },
+      {
+        "purpose": "identifying",
+        "value": "洞泉寺名"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p014_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1010,2929,83,584"
+      }
+    }
+  },
+  {
+    "id": "anno-koriyama_lower_p014_left-27",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "藩制一覽表第六（郡山）"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "藩制一覧表　第六（郡山）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Han Institutions at a Glance, Fascicle 6 (Kōriyama) — running header"
+      },
+      {
+        "purpose": "identifying",
+        "value": "柱題藩制一覽表第六郡山"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p014_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:895,1263,71,576"
+      }
+    }
+  },
+  {
+    "id": "anno-koriyama_lower_p014_left-28",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "五"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "五（丁付）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Printed page number: 5"
+      },
+      {
+        "purpose": "identifying",
+        "value": "版心丁付五"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p014_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:894,3096,65,61"
+      }
+    }
+  }
+]

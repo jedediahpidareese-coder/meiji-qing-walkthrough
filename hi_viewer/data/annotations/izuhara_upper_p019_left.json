@@ -1,0 +1,572 @@
+[
+  {
+    "id": "anno-izuhara_upper_p019_left-00",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "一米百八拾八石四斗六升五合四勺壹才"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "一、米 百八十八石四斗六升五合四勺一才"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Item: rice, 188 koku 4 to 6 sho 5 go 4 shaku 1 sai. The note in the next column identifies this as the allowance shared by forty-one interpreters and town officials."
+      },
+      {
+        "purpose": "identifying",
+        "value": "通辨町役給米"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p019_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2613,1121,116,1397"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p019_left-01",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "但朝鮮國通辨之者并町役共四拾壹人給米相與候分尤渡方異同有"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "但し、朝鮮國通辨の者ならびに町役、共に四十一人へ給米相與へ候分。尤も渡し方異同これ有り"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Note: this is the portion of rice granted to forty-one men in all, the Korean-language interpreters together with the town officials, though the manner of delivery varies. (The sentence finishes in the next column.)"
+      },
+      {
+        "purpose": "identifying",
+        "value": "但書朝鮮國通辨給米"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p019_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2460,1430,126,2346"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p019_left-02",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "之事"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "の事"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Continuation of the preceding note: 之事, completing 尤渡方異同有之事 — 'though there are differences in the manner of delivery.'"
+      },
+      {
+        "purpose": "identifying",
+        "value": "但書朝鮮國通辨給米續"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p019_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2371,1426,84,165"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p019_left-03",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "合米四千六百拾五石六斗五升八合壹勺九才"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "合米 四千六百十五石六斗五升八合一勺九才"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Total rice: 4,615 koku 6 to 5 sho 8 go 1 shaku 9 sai."
+      },
+      {
+        "purpose": "identifying",
+        "value": "合米"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p019_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2217,1093,120,1586"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p019_left-04",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "合／錢貳萬七千六百七拾九貫九百四拾八文／金ニシテ貳千七百六拾七兩九合九勺四才"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "合 錢 二万七千六百七十九貫九百四十八文／金にして 二千七百六十七兩九合九勺四才"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Total copper cash: 27,679 kan 948 mon; reckoned in gold, 2,767.994 ryo. The single 合 heads a double-column gloss whose right run gives the cash sum and left run its gold equivalent; the two agree at exactly ten kan to the ryo (27,679.948 divided by 10 = 2,767.9948, the printed figure truncating the last place). After 兩 the glyphs 合/勺/才 are tenths, hundredths and thousandths of a ryo, not koku sub-units."
+      },
+      {
+        "purpose": "identifying",
+        "value": "合錢"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p019_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2068,1172,148,1314"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p019_left-05",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "合金貳千兩"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "合金 二千兩"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Total gold: 2,000 ryo."
+      },
+      {
+        "purpose": "identifying",
+        "value": "合金"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p019_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2075,2768,84,415"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p019_left-06",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "合丹木千四百五拾斤"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "合丹木 千四百五十斤"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Total sappanwood: 1,450 catties."
+      },
+      {
+        "purpose": "identifying",
+        "value": "合丹木"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p019_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1961,1172,104,751"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p019_left-07",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "合大豆貳拾俵"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "合大豆 二十俵"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Total soybeans: 20 bales."
+      },
+      {
+        "purpose": "identifying",
+        "value": "合大豆"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p019_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1934,2764,94,501"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p019_left-08",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "合木綿百五拾疋"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "合木綿 百五十疋"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Total cotton cloth: 150 bolts."
+      },
+      {
+        "purpose": "identifying",
+        "value": "合木綿"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p019_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1836,1174,95,579"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p019_left-09",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "合銅千斤"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "合銅 千斤"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Total copper: 1,000 catties."
+      },
+      {
+        "purpose": "identifying",
+        "value": "合銅"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p019_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1803,2767,89,331"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p019_left-10",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "參判使入費"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "參判使入費"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Expenses of the Sanpanshi, the envoy of vice-ministerial rank in the Tsushima-Korea embassy traffic. Section heading for the three items that follow."
+      },
+      {
+        "purpose": "identifying",
+        "value": "參判使入費"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p019_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1704,1254,91,417"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p019_left-11",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "一木綿四百五拾尺"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "一、木綿 四百五十尺"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Item: cotton cloth, 450 shaku."
+      },
+      {
+        "purpose": "identifying",
+        "value": "參判使入費木綿"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p019_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1561,1108,100,647"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p019_left-12",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "一米六拾貳石壹斗三合七勺八才"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "一、米 六十二石一斗三合七勺八才"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Item: rice, 62 koku 1 to 3 go 7 shaku 8 sai. The sho place is skipped, so it is zero."
+      },
+      {
+        "purpose": "identifying",
+        "value": "參判使入費米"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p019_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1426,1104,100,1148"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p019_left-13",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "百カ"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "百ヵ"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Editorial conjecture in small type: perhaps 百. It stands to the right of the cash figure in the next column, level with the first 拾 in that figure, proposing 三千三百四拾四貫 in place of the printed 三千三拾四拾四貫."
+      },
+      {
+        "purpose": "identifying",
+        "value": "校訂註百ヵ"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p019_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1377,1501,47,104"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p019_left-14",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "一錢三千三拾四拾四貫七百四拾八文"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "一、錢 三千三百四十四貫七百四十八文（印刷は「三千三拾四拾四貫」、校訂註「百ヵ」による）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Item: copper cash, 3,344 kan 748 mon. The numeral as printed reads 三千三拾四拾四貫, which is malformed; the 1928 editor's marginal 百ヵ beside the first 拾 emends it to 三千三百四拾四貫, and the parsed value follows that emendation."
+      },
+      {
+        "purpose": "identifying",
+        "value": "參判使入費錢"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p019_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1281,1102,94,1318"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p019_left-15",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "但參判使在館中諸入費且往來入用共平均ニシテ如斯"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "但し、參判使在館中の諸入費、且つ往來入用共、平均にして斯くの如し"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Note: the sundry expenses of the Sanpanshi while resident at the Japan House, together with the outlays for the journey out and back, come to the above as an average."
+      },
+      {
+        "purpose": "identifying",
+        "value": "但書參判使入費"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p019_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1123,1412,123,1926"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p019_left-16",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "小譯"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "小譯"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Junior interpreter. Section heading in the leftmost column, read last; its entries continue on the following leaf."
+      },
+      {
+        "purpose": "identifying",
+        "value": "小譯"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p019_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1038,1243,82,162"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p019_left-17",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "藩制一覽表第一（嚴原）"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "藩制一覧表 第一（厳原）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Running header: Table of Domain Institutions, Fascicle One (Izuhara). Provenance line naming the fascicle and the domain whose return this leaf belongs to."
+      },
+      {
+        "purpose": "identifying",
+        "value": "柱題藩制一覽表第一嚴原"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p019_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:909,1326,82,577"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p019_left-18",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "十三"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "十三"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Printed page number in the bottom margin: 13."
+      },
+      {
+        "purpose": "identifying",
+        "value": "丁付十三"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p019_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:883,3168,62,113"
+      }
+    }
+  }
+]

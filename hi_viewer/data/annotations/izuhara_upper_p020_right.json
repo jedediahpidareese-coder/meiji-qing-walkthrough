@@ -1,0 +1,482 @@
+[
+  {
+    "id": "anno-izuhara_upper_p020_right-00",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "藩制一覽表第一（嚴原）"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "はんせいいちらんひょう だいいち（いづはら）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Table of Domain Institutions, Fascicle One (Izuhara)"
+      },
+      {
+        "purpose": "identifying",
+        "value": "藩制一覽表第一（嚴原）柱"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p020_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2210,1338,75,578"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p020_right-01",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "十四"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "じゅうよん"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Printed book page 14"
+      },
+      {
+        "purpose": "identifying",
+        "value": "丁付十四"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p020_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2195,3173,70,119"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p020_right-02",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "〃木綿四百五拾疋"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "木綿 四百五十疋"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Cotton cloth: 450 hiki (bolts)"
+      },
+      {
+        "purpose": "identifying",
+        "value": "判事贈木綿"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p020_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2079,1183,92,651"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p020_right-03",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "判事に相與候分"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "判事に相与え候分"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "The portion granted to the hanji (判事), the judicial officer"
+      },
+      {
+        "purpose": "identifying",
+        "value": "判事ニ相與候分（註）"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p020_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2069,1925,92,585"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p020_right-04",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "〃米三石五斗三升三合三勺三才"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "米 三石五斗三升三合三勺三才"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Rice: 3.53333 koku"
+      },
+      {
+        "purpose": "identifying",
+        "value": "小通事贈米"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p020_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1944,1182,92,1156"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p020_right-05",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "精米六俵ニシテ　小通事に右同斷"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "精米六俵にして、小通事に右同断"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "This being six bales of polished rice; to the junior interpreter (shō-tsūji), the same as above"
+      },
+      {
+        "purpose": "identifying",
+        "value": "精米六俵小通事右同斷（註）"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p020_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1805,1336,96,1259"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p020_right-06",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "〃錢八百九拾九貫六百八拾七文"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "銭 八百九十九貫六百八十七文"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Cash: 899 kan 687 mon (899,687 mon)"
+      },
+      {
+        "purpose": "identifying",
+        "value": "在館中諸入費錢"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p020_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1673,1179,101,1156"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p020_right-07",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "但參判使在館中諸入費平均ニシテ如斯"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "但し、参判使在館中の諸入費、平均にして斯くの如し"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Provided: this is the average of the various expenses incurred while the sanpanshi envoy was resident at the trading house (the Wakan at Pusan)"
+      },
+      {
+        "purpose": "identifying",
+        "value": "參判使在館中諸入費平均（註）"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p020_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1533,1418,99,1425"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p020_right-08",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "〃米拾九石壹斗八升八合八勺八才"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "米 十九石一斗八升八合八勺八才"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Rice: 19.18888 koku"
+      },
+      {
+        "purpose": "identifying",
+        "value": "人夫飯米"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p020_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1405,1177,97,1249"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p020_right-09",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "〃錢五百八拾九貫六拾壹文"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "銭 五百八十九貫六十一文"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Cash: 589 kan 61 mon (589,061 mon)"
+      },
+      {
+        "purpose": "identifying",
+        "value": "人夫賃銀錢"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p020_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1275,1175,96,990"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p020_right-10",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "但參判使渡込ニ付別段五拾人夫差渡候者に賃銀飯米相與候分如"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "但し、参判使渡り込みに付き、別段五十人夫差し渡し候者に賃銀・飯米相与え候分、斯くの如し"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Provided: for the sanpanshi envoy's crossing over, fifty labourers were dispatched in addition; this is the wage-silver and ration rice given to them (continues)"
+      },
+      {
+        "purpose": "identifying",
+        "value": "參判使渡込五拾人夫（註）"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p020_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1121,1414,112,2340"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p020_right-11",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "斯"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "斯"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "...thus (the closing glyph of the preceding note, wrapped into this column)"
+      },
+      {
+        "purpose": "identifying",
+        "value": "參判使渡込五拾人夫註續"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p020_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1010,1412,87,82"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p020_right-12",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "〃米貳拾四石七斗四升五合四勺六才"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "米 二十四石七斗四升五合四勺六才"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Rice: 24.74546 koku"
+      },
+      {
+        "purpose": "identifying",
+        "value": "水夫飯米"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p020_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:868,1175,99,1327"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p020_right-13",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "但參判使乘船貳號船曳小隼頭漕船水夫飯米之分如斯"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "但し、参判使乗船・弐号船・曳小隼・頭漕船の水夫飯米の分、斯くの如し"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Provided: this is the ration rice for the boatmen of the sanpanshi envoy's passenger vessel, the No. 2 ship, the small Hayabusa tow-boat and the lead rowing boat"
+      },
+      {
+        "purpose": "identifying",
+        "value": "參判使乘船水夫飯米（註）"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p020_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:721,1414,108,1927"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p020_right-14",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "〃同拾四石六斗三升六合壹勺壹才"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "同（米） 十四石六斗三升六合一勺一才"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Ditto (rice): 14.63611 koku"
+      },
+      {
+        "purpose": "identifying",
+        "value": "同拾四石六斗三升六合壹勺壹才"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p020_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:600,1176,99,1241"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p020_right-15",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "〃錢千五百四拾六貫文"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "銭 千五百四十六貫文"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Cash: 1,546 kanmon (1,546,000 mon)"
+      },
+      {
+        "purpose": "identifying",
+        "value": "錢千五百四拾六貫文"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p020_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:473,1177,89,823"
+      }
+    }
+  }
+]

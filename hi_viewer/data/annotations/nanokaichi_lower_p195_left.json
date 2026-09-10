@@ -1,0 +1,572 @@
+[
+  {
+    "id": "anno-nanokaichi_lower_p195_left-00",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "大參事　石原定安　青山直道"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "大参事　石原定安　青山直道"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Senior councillor (daisanji): Ishihara Sadayasu; Aoyama Naomichi"
+      },
+      {
+        "purpose": "identifying",
+        "value": "大參事（苗木）"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p195_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2602,993,90,2170"
+      }
+    }
+  },
+  {
+    "id": "anno-nanokaichi_lower_p195_left-01",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "權大參事　土岐正紀　棚橋朝成"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "権大参事　土岐正紀　棚橋朝成"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Acting senior councillor (gon-daisanji): Toki Masanori; Tanahashi Tomonari"
+      },
+      {
+        "purpose": "identifying",
+        "value": "權大參事（苗木）"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p195_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2469,992,87,2178"
+      }
+    }
+  },
+  {
+    "id": "anno-nanokaichi_lower_p195_left-02",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "少參事　曾我祐申　水野忠鼎"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "少参事　曽我祐申　水野忠鼎"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Junior councillor (shosanji): Soga Yūshin; Mizuno Tadakane (given-name readings conjectural)"
+      },
+      {
+        "purpose": "identifying",
+        "value": "少參事（苗木）"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p195_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2340,996,72,2173"
+      }
+    }
+  },
+  {
+    "id": "anno-nanokaichi_lower_p195_left-03",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "（一ニ小池煒）"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "（一に小池煒）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Compiler's note printed beside the 少參事 name: one copy reads Koike I. (The fourth glyph is small warichu type and is the least certain reading on the page.)"
+      },
+      {
+        "purpose": "identifying",
+        "value": "少參事校異註（一ニ小池煒）（苗木藩分）"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p195_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2414,1445,53,376"
+      }
+    }
+  },
+  {
+    "id": "anno-nanokaichi_lower_p195_left-04",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "（一ニ宮地貴巳トシ土岐ナシ）"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "（一に宮地貴巳とし土岐なし）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Compiler's note, tied by a rule to the 權大參事 column: one copy gives the name as Miyaji Takami and has no Toki."
+      },
+      {
+        "purpose": "identifying",
+        "value": "權大參事校異註（一ニ宮地貴巳）（苗木藩分）"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p195_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2335,3172,137,485"
+      }
+    }
+  },
+  {
+    "id": "anno-nanokaichi_lower_p195_left-05",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "權少參事　土岐正武　中根清償"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "権少参事　土岐正武　中根清償"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Acting junior councillor (gon-shosanji): Toki Masatake; Nakane Kiyoyasu (given-name readings conjectural)"
+      },
+      {
+        "purpose": "identifying",
+        "value": "權少參事（苗木）"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p195_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2203,995,90,2177"
+      }
+    }
+  },
+  {
+    "id": "anno-nanokaichi_lower_p195_left-06",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "塚本忠安　藤田政治"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "塚本忠安　藤田政治"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Acting junior councillors, continuation column (the office label is not repeated): Tsukamoto Tadayasu; Fujita Masaharu"
+      },
+      {
+        "purpose": "identifying",
+        "value": "權少參事次列（苗木）"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p195_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2073,1666,83,1505"
+      }
+    }
+  },
+  {
+    "id": "anno-nanokaichi_lower_p195_left-07",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "兵隊　一小隊"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "兵隊　一小隊"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Troops: one company (shotai)"
+      },
+      {
+        "purpose": "identifying",
+        "value": "兵隊（苗木）"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p195_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1941,998,82,580"
+      }
+    }
+  },
+  {
+    "id": "anno-nanokaichi_lower_p195_left-08",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "（一ニ宮地正武トアリ土岐ナシ　右留守官届書午三月届）"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "（一に宮地正武とあり土岐なし　右留守官届書午三月届）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Compiler's note, tied by a rule to 土岐正武 in the 權少參事 column: one copy has Miyaji Masatake and no Toki; the foregoing comes from the resident officer's report, filed in the third month of the horse year (Meiji 3, 1870)."
+      },
+      {
+        "purpose": "identifying",
+        "value": "權少參事校異註（一ニ宮地正武）（苗木藩分）"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p195_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1920,2271,118,1003"
+      }
+    }
+  },
+  {
+    "id": "anno-nanokaichi_lower_p195_left-09",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "生兵　五十人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "生兵　五十人"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Raw recruits: fifty men"
+      },
+      {
+        "purpose": "identifying",
+        "value": "生兵（苗木）"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p195_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1807,1001,84,575"
+      }
+    }
+  },
+  {
+    "id": "anno-nanokaichi_lower_p195_left-10",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "精選シテ隊列に加へ漸次二小隊ト爲ス"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "精選して隊列に加へ漸次二小隊と為す"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Interlinear note on the recruits: picked men are added to the ranks, and by degrees these are to be formed into two companies."
+      },
+      {
+        "purpose": "identifying",
+        "value": "生兵註記（苗木）"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p195_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1788,1586,118,599"
+      }
+    }
+  },
+  {
+    "id": "anno-nanokaichi_lower_p195_left-11",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "○七日市藩"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "○七日市藩"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Domain marker: Nanokaichi domain. Everything printed to the right of this marker belongs to the previous domain (Naegi); everything to its left belongs to Nanokaichi."
+      },
+      {
+        "purpose": "identifying",
+        "value": "藩名標識（○七日市藩）"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p195_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1661,1337,102,604"
+      }
+    }
+  },
+  {
+    "id": "anno-nanokaichi_lower_p195_left-12",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "大參事　海野三治"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "大参事　海野三治"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Senior councillor (daisanji): Unno Sanji"
+      },
+      {
+        "purpose": "identifying",
+        "value": "大參事七日市"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p195_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1544,1005,88,1587"
+      }
+    }
+  },
+  {
+    "id": "anno-nanokaichi_lower_p195_left-13",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "權大參事　横尾随翁　森　謳齋"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "権大参事　横尾随翁　森謳斎"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Acting senior councillor (gon-daisanji): Yokoo Zuiō; Mori Ōsai"
+      },
+      {
+        "purpose": "identifying",
+        "value": "權大參事七日市"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p195_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1406,1005,92,2509"
+      }
+    }
+  },
+  {
+    "id": "anno-nanokaichi_lower_p195_left-14",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "保坂一於里"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "保坂一於里"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Acting senior councillor, continuation column (the office label is not repeated): Hosaka Kazuori"
+      },
+      {
+        "purpose": "identifying",
+        "value": "權大參事次列（七日市）"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p195_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1278,2013,83,581"
+      }
+    }
+  },
+  {
+    "id": "anno-nanokaichi_lower_p195_left-15",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "公議人　海野三雄"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "公議人　海野三雄"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Public assembly delegate (koginin): Unno Mitsuo"
+      },
+      {
+        "purpose": "identifying",
+        "value": "公議人（七日市）"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p195_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1145,1007,86,1589"
+      }
+    }
+  },
+  {
+    "id": "anno-nanokaichi_lower_p195_left-16",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "少參事　齋藤寛"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "少参事　斎藤寛"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Junior councillor (shosanji): Saito Kan. On this page the 少參事 column prints to the LEFT of 公議人, i.e. after it in reading order, inverting the usual fascicle-9 rank sequence."
+      },
+      {
+        "purpose": "identifying",
+        "value": "少參事七日市"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p195_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1012,1011,87,1583"
+      }
+    }
+  },
+  {
+    "id": "anno-nanokaichi_lower_p195_left-17",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "藩制一覽表第九（七日市）"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "藩制一覧表第九（七日市）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Running header in the outer margin: Han Administration Survey, fascicle 9 (Nanokaichi). This is provenance for the leaf and names only the domain whose entry opens on this page; the Naegi block that fills the right half opened on the preceding page."
+      },
+      {
+        "purpose": "identifying",
+        "value": "柱書（藩制一覽表第九）"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p195_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:897,1265,71,623"
+      }
+    }
+  },
+  {
+    "id": "anno-nanokaichi_lower_p195_left-18",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "三百六十七"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "三百六十七"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Printed page number in the bottom margin: 367"
+      },
+      {
+        "purpose": "identifying",
+        "value": "丁付（三百六十七）"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p195_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:891,3108,67,262"
+      }
+    }
+  }
+]

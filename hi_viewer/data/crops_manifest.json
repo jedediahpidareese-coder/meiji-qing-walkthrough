@@ -6833,6 +6833,184 @@
       "h": 163
     }
   ],
+  "asao_lower_p225_left": [
+    {
+      "ident": "安志藩丸印",
+      "crop_path": "crops/asao_lower_p225_left/00_安志藩丸印.jpg",
+      "x": 2548,
+      "y": 1311,
+      "w": 108,
+      "h": 562
+    },
+    {
+      "ident": "安志知事",
+      "crop_path": "crops/asao_lower_p225_left/01_安志知事.jpg",
+      "x": 2420,
+      "y": 1224,
+      "w": 95,
+      "h": 585
+    },
+    {
+      "ident": "安志大參事",
+      "crop_path": "crops/asao_lower_p225_left/02_安志大參事.jpg",
+      "x": 2287,
+      "y": 1223,
+      "w": 91,
+      "h": 583
+    },
+    {
+      "ident": "安志權大參事",
+      "crop_path": "crops/asao_lower_p225_left/03_安志權大參事.jpg",
+      "x": 2150,
+      "y": 1222,
+      "w": 91,
+      "h": 586
+    },
+    {
+      "ident": "安志少參事",
+      "crop_path": "crops/asao_lower_p225_left/04_安志少參事.jpg",
+      "x": 2014,
+      "y": 1223,
+      "w": 90,
+      "h": 587
+    },
+    {
+      "ident": "安志兵隊",
+      "crop_path": "crops/asao_lower_p225_left/05_安志兵隊.jpg",
+      "x": 1749,
+      "y": 1243,
+      "w": 219,
+      "h": 707
+    },
+    {
+      "ident": "淺尾藩丸印",
+      "crop_path": "crops/asao_lower_p225_left/06_淺尾藩丸印.jpg",
+      "x": 1601,
+      "y": 1306,
+      "w": 107,
+      "h": 564
+    },
+    {
+      "ident": "淺尾知事",
+      "crop_path": "crops/asao_lower_p225_left/07_淺尾知事.jpg",
+      "x": 1478,
+      "y": 967,
+      "w": 90,
+      "h": 578
+    },
+    {
+      "ident": "淺尾大參事",
+      "crop_path": "crops/asao_lower_p225_left/08_淺尾大參事.jpg",
+      "x": 1345,
+      "y": 967,
+      "w": 89,
+      "h": 581
+    },
+    {
+      "ident": "淺尾大參事氏名",
+      "crop_path": "crops/asao_lower_p225_left/09_淺尾大參事氏名.jpg",
+      "x": 1332,
+      "y": 1972,
+      "w": 93,
+      "h": 586
+    },
+    {
+      "ident": "淺尾權大參事",
+      "crop_path": "crops/asao_lower_p225_left/10_淺尾權大參事.jpg",
+      "x": 1211,
+      "y": 965,
+      "w": 89,
+      "h": 583
+    },
+    {
+      "ident": "淺尾權大參事氏名",
+      "crop_path": "crops/asao_lower_p225_left/11_淺尾權大參事氏名.jpg",
+      "x": 1203,
+      "y": 1972,
+      "w": 82,
+      "h": 587
+    },
+    {
+      "ident": "淺尾少參事",
+      "crop_path": "crops/asao_lower_p225_left/12_淺尾少參事.jpg",
+      "x": 1093,
+      "y": 967,
+      "w": 79,
+      "h": 581
+    },
+    {
+      "ident": "淺尾少參事氏名",
+      "crop_path": "crops/asao_lower_p225_left/13_淺尾少參事氏名.jpg",
+      "x": 1073,
+      "y": 1968,
+      "w": 87,
+      "h": 591
+    },
+    {
+      "ident": "淺尾權少參事",
+      "crop_path": "crops/asao_lower_p225_left/14_淺尾權少參事.jpg",
+      "x": 947,
+      "y": 967,
+      "w": 145,
+      "h": 613
+    },
+    {
+      "ident": "淺尾權少參事氏名",
+      "crop_path": "crops/asao_lower_p225_left/15_淺尾權少參事氏名.jpg",
+      "x": 934,
+      "y": 1967,
+      "w": 93,
+      "h": 592
+    },
+    {
+      "ident": "淺尾公議人役名",
+      "crop_path": "crops/asao_lower_p225_left/16_淺尾公議人役名.jpg",
+      "x": 1271,
+      "y": 2751,
+      "w": 62,
+      "h": 201
+    },
+    {
+      "ident": "淺尾公議人氏名一",
+      "crop_path": "crops/asao_lower_p225_left/17_淺尾公議人氏名一.jpg",
+      "x": 1194,
+      "y": 2897,
+      "w": 76,
+      "h": 592
+    },
+    {
+      "ident": "淺尾公議人氏名二",
+      "crop_path": "crops/asao_lower_p225_left/18_淺尾公議人氏名二.jpg",
+      "x": 1061,
+      "y": 2898,
+      "w": 89,
+      "h": 583
+    },
+    {
+      "ident": "淺尾公議人氏名三",
+      "crop_path": "crops/asao_lower_p225_left/19_淺尾公議人氏名三.jpg",
+      "x": 925,
+      "y": 2897,
+      "w": 92,
+      "h": 590
+    },
+    {
+      "ident": "柱藩制一覽表第九",
+      "crop_path": "crops/asao_lower_p225_left/20_柱藩制一覽表第九.jpg",
+      "x": 822,
+      "y": 1222,
+      "w": 77,
+      "h": 707
+    },
+    {
+      "ident": "丁付四百二十七",
+      "crop_path": "crops/asao_lower_p225_left/21_丁付四百二十七.jpg",
+      "x": 806,
+      "y": 3069,
+      "w": 72,
+      "h": 267
+    }
+  ],
   "ashikaga_lower_p041_left": [
     {
       "ident": "砲一隊（麻生藩分）",
@@ -35831,6 +36009,1022 @@
       "h": 478
     }
   ],
+  "izuhara_upper_p018_left": [
+    {
+      "ident": "但書迎使一行人數",
+      "crop_path": "crops/izuhara_upper_p018_left/00_但書迎使一行人數.jpg",
+      "x": 2595,
+      "y": 1392,
+      "w": 120,
+      "h": 2341
+    },
+    {
+      "ident": "但書旅籠之分右同斷",
+      "crop_path": "crops/izuhara_upper_p018_left/01_但書旅籠之分右同斷.jpg",
+      "x": 2494,
+      "y": 1391,
+      "w": 93,
+      "h": 585
+    },
+    {
+      "ident": "館中入費",
+      "crop_path": "crops/izuhara_upper_p018_left/02_館中入費.jpg",
+      "x": 2363,
+      "y": 1224,
+      "w": 90,
+      "h": 418
+    },
+    {
+      "ident": "館中入費米",
+      "crop_path": "crops/izuhara_upper_p018_left/03_館中入費米.jpg",
+      "x": 2220,
+      "y": 1077,
+      "w": 106,
+      "h": 1318
+    },
+    {
+      "ident": "館中入費此精米",
+      "crop_path": "crops/izuhara_upper_p018_left/04_館中入費此精米.jpg",
+      "x": 2079,
+      "y": 1222,
+      "w": 109,
+      "h": 1423
+    },
+    {
+      "ident": "館中入費錢",
+      "crop_path": "crops/izuhara_upper_p018_left/05_館中入費錢.jpg",
+      "x": 1952,
+      "y": 1078,
+      "w": 103,
+      "h": 1230
+    },
+    {
+      "ident": "小譯",
+      "crop_path": "crops/izuhara_upper_p018_left/06_小譯.jpg",
+      "x": 1838,
+      "y": 1226,
+      "w": 80,
+      "h": 162
+    },
+    {
+      "ident": "筆墨紙代米",
+      "crop_path": "crops/izuhara_upper_p018_left/07_筆墨紙代米.jpg",
+      "x": 1682,
+      "y": 1236,
+      "w": 105,
+      "h": 1322
+    },
+    {
+      "ident": "筆墨紙代錢",
+      "crop_path": "crops/izuhara_upper_p018_left/08_筆墨紙代錢.jpg",
+      "x": 1550,
+      "y": 1235,
+      "w": 101,
+      "h": 1323
+    },
+    {
+      "ident": "但書在館役員筆墨紙代",
+      "crop_path": "crops/izuhara_upper_p018_left/09_但書在館役員筆墨紙代.jpg",
+      "x": 1405,
+      "y": 1390,
+      "w": 108,
+      "h": 1590
+    },
+    {
+      "ident": "普請入用米",
+      "crop_path": "crops/izuhara_upper_p018_left/10_普請入用米.jpg",
+      "x": 1288,
+      "y": 1234,
+      "w": 97,
+      "h": 1161
+    },
+    {
+      "ident": "普請入用錢",
+      "crop_path": "crops/izuhara_upper_p018_left/11_普請入用錢.jpg",
+      "x": 1149,
+      "y": 1234,
+      "w": 100,
+      "h": 1323
+    },
+    {
+      "ident": "但書館中普請入用",
+      "crop_path": "crops/izuhara_upper_p018_left/12_但書館中普請入用.jpg",
+      "x": 994,
+      "y": 1390,
+      "w": 119,
+      "h": 2007
+    },
+    {
+      "ident": "頁柱藩制一覧表第一嚴原",
+      "crop_path": "crops/izuhara_upper_p018_left/13_頁柱藩制一覧表第一嚴原.jpg",
+      "x": 907,
+      "y": 1308,
+      "w": 77,
+      "h": 571
+    },
+    {
+      "ident": "頁番號十一",
+      "crop_path": "crops/izuhara_upper_p018_left/14_頁番號十一.jpg",
+      "x": 883,
+      "y": 3141,
+      "w": 68,
+      "h": 100
+    }
+  ],
+  "izuhara_upper_p018_right": [
+    {
+      "ident": "柱書藩制一覽表第一嚴原",
+      "crop_path": "crops/izuhara_upper_p018_right/00_柱書藩制一覽表第一嚴原.jpg",
+      "x": 2185,
+      "y": 1364,
+      "w": 78,
+      "h": 576
+    },
+    {
+      "ident": "同五千七百六拾貫文",
+      "crop_path": "crops/izuhara_upper_p018_right/01_同五千七百六拾貫文.jpg",
+      "x": 2056,
+      "y": 1291,
+      "w": 88,
+      "h": 818
+    },
+    {
+      "ident": "三千四百五拾貫文",
+      "crop_path": "crops/izuhara_upper_p018_right/02_三千四百五拾貫文.jpg",
+      "x": 1923,
+      "y": 1373,
+      "w": 89,
+      "h": 740
+    },
+    {
+      "ident": "但書他領漂民迎船賃（上）",
+      "crop_path": "crops/izuhara_upper_p018_right/03_但書他領漂民迎船賃_上.jpg",
+      "x": 1755,
+      "y": 1441,
+      "w": 125,
+      "h": 2344
+    },
+    {
+      "ident": "但書他領漂民迎船賃下",
+      "crop_path": "crops/izuhara_upper_p018_right/04_但書他領漂民迎船賃下.jpg",
+      "x": 1634,
+      "y": 1436,
+      "w": 112,
+      "h": 1593
+    },
+    {
+      "ident": "同貳千三百四貫文",
+      "crop_path": "crops/izuhara_upper_p018_right/05_同貳千三百四貫文.jpg",
+      "x": 1524,
+      "y": 1347,
+      "w": 92,
+      "h": 672
+    },
+    {
+      "ident": "但書破損船借入（上）",
+      "crop_path": "crops/izuhara_upper_p018_right/06_但書破損船借入_上.jpg",
+      "x": 1352,
+      "y": 1435,
+      "w": 129,
+      "h": 2338
+    },
+    {
+      "ident": "但書破損船借入下",
+      "crop_path": "crops/izuhara_upper_p018_right/07_但書破損船借入下.jpg",
+      "x": 1268,
+      "y": 1433,
+      "w": 77,
+      "h": 166
+    },
+    {
+      "ident": "米貳拾石四斗壹升四合八勺壹才",
+      "crop_path": "crops/izuhara_upper_p018_right/08_米貳拾石四斗壹升四合八勺壹才.jpg",
+      "x": 1096,
+      "y": 1278,
+      "w": 124,
+      "h": 1241
+    },
+    {
+      "ident": "錢貳千九百四拾六貫六百文",
+      "crop_path": "crops/izuhara_upper_p018_right/09_錢貳千九百四拾六貫六百文.jpg",
+      "x": 984,
+      "y": 1275,
+      "w": 102,
+      "h": 1071
+    },
+    {
+      "ident": "但書漂民迎送宛行（上）",
+      "crop_path": "crops/izuhara_upper_p018_right/10_但書漂民迎送宛行_上.jpg",
+      "x": 821,
+      "y": 1427,
+      "w": 123,
+      "h": 2334
+    },
+    {
+      "ident": "但書漂民迎送宛行中",
+      "crop_path": "crops/izuhara_upper_p018_right/11_但書漂民迎送宛行中.jpg",
+      "x": 686,
+      "y": 1424,
+      "w": 124,
+      "h": 2346
+    },
+    {
+      "ident": "但書漂民迎送宛行下",
+      "crop_path": "crops/izuhara_upper_p018_right/12_但書漂民迎送宛行下.jpg",
+      "x": 566,
+      "y": 1420,
+      "w": 111,
+      "h": 1593
+    },
+    {
+      "ident": "錢貳千三百四拾九貫七百五拾文",
+      "crop_path": "crops/izuhara_upper_p018_right/13_錢貳千三百四拾九貫七百五拾文.jpg",
+      "x": 439,
+      "y": 1264,
+      "w": 108,
+      "h": 1244
+    },
+    {
+      "ident": "丁付十",
+      "crop_path": "crops/izuhara_upper_p018_right/14_丁付十.jpg",
+      "x": 2163,
+      "y": 3200,
+      "w": 67,
+      "h": 63
+    }
+  ],
+  "izuhara_upper_p019_left": [
+    {
+      "ident": "通辨町役給米",
+      "crop_path": "crops/izuhara_upper_p019_left/00_通辨町役給米.jpg",
+      "x": 2613,
+      "y": 1121,
+      "w": 116,
+      "h": 1397
+    },
+    {
+      "ident": "但書朝鮮國通辨給米",
+      "crop_path": "crops/izuhara_upper_p019_left/01_但書朝鮮國通辨給米.jpg",
+      "x": 2460,
+      "y": 1430,
+      "w": 126,
+      "h": 2346
+    },
+    {
+      "ident": "但書朝鮮國通辨給米續",
+      "crop_path": "crops/izuhara_upper_p019_left/02_但書朝鮮國通辨給米續.jpg",
+      "x": 2371,
+      "y": 1426,
+      "w": 84,
+      "h": 165
+    },
+    {
+      "ident": "合米",
+      "crop_path": "crops/izuhara_upper_p019_left/03_合米.jpg",
+      "x": 2217,
+      "y": 1093,
+      "w": 120,
+      "h": 1586
+    },
+    {
+      "ident": "合錢",
+      "crop_path": "crops/izuhara_upper_p019_left/04_合錢.jpg",
+      "x": 2068,
+      "y": 1172,
+      "w": 148,
+      "h": 1314
+    },
+    {
+      "ident": "合金",
+      "crop_path": "crops/izuhara_upper_p019_left/05_合金.jpg",
+      "x": 2075,
+      "y": 2768,
+      "w": 84,
+      "h": 415
+    },
+    {
+      "ident": "合丹木",
+      "crop_path": "crops/izuhara_upper_p019_left/06_合丹木.jpg",
+      "x": 1961,
+      "y": 1172,
+      "w": 104,
+      "h": 751
+    },
+    {
+      "ident": "合大豆",
+      "crop_path": "crops/izuhara_upper_p019_left/07_合大豆.jpg",
+      "x": 1934,
+      "y": 2764,
+      "w": 94,
+      "h": 501
+    },
+    {
+      "ident": "合木綿",
+      "crop_path": "crops/izuhara_upper_p019_left/08_合木綿.jpg",
+      "x": 1836,
+      "y": 1174,
+      "w": 95,
+      "h": 579
+    },
+    {
+      "ident": "合銅",
+      "crop_path": "crops/izuhara_upper_p019_left/09_合銅.jpg",
+      "x": 1803,
+      "y": 2767,
+      "w": 89,
+      "h": 331
+    },
+    {
+      "ident": "參判使入費",
+      "crop_path": "crops/izuhara_upper_p019_left/10_參判使入費.jpg",
+      "x": 1704,
+      "y": 1254,
+      "w": 91,
+      "h": 417
+    },
+    {
+      "ident": "參判使入費木綿",
+      "crop_path": "crops/izuhara_upper_p019_left/11_參判使入費木綿.jpg",
+      "x": 1561,
+      "y": 1108,
+      "w": 100,
+      "h": 647
+    },
+    {
+      "ident": "參判使入費米",
+      "crop_path": "crops/izuhara_upper_p019_left/12_參判使入費米.jpg",
+      "x": 1426,
+      "y": 1104,
+      "w": 100,
+      "h": 1148
+    },
+    {
+      "ident": "校訂註百ヵ",
+      "crop_path": "crops/izuhara_upper_p019_left/13_校訂註百ヵ.jpg",
+      "x": 1377,
+      "y": 1501,
+      "w": 47,
+      "h": 104
+    },
+    {
+      "ident": "參判使入費錢",
+      "crop_path": "crops/izuhara_upper_p019_left/14_參判使入費錢.jpg",
+      "x": 1281,
+      "y": 1102,
+      "w": 94,
+      "h": 1318
+    },
+    {
+      "ident": "但書參判使入費",
+      "crop_path": "crops/izuhara_upper_p019_left/15_但書參判使入費.jpg",
+      "x": 1123,
+      "y": 1412,
+      "w": 123,
+      "h": 1926
+    },
+    {
+      "ident": "小譯",
+      "crop_path": "crops/izuhara_upper_p019_left/16_小譯.jpg",
+      "x": 1038,
+      "y": 1243,
+      "w": 82,
+      "h": 162
+    },
+    {
+      "ident": "柱題藩制一覽表第一嚴原",
+      "crop_path": "crops/izuhara_upper_p019_left/17_柱題藩制一覽表第一嚴原.jpg",
+      "x": 909,
+      "y": 1326,
+      "w": 82,
+      "h": 577
+    },
+    {
+      "ident": "丁付十三",
+      "crop_path": "crops/izuhara_upper_p019_left/18_丁付十三.jpg",
+      "x": 883,
+      "y": 3168,
+      "w": 62,
+      "h": 113
+    }
+  ],
+  "izuhara_upper_p019_right": [
+    {
+      "ident": "藩制一覽表第一（嚴原）",
+      "crop_path": "crops/izuhara_upper_p019_right/00_藩制一覽表第一_嚴原.jpg",
+      "x": 2219,
+      "y": 1350,
+      "w": 82,
+      "h": 577
+    },
+    {
+      "ident": "丁付十二",
+      "crop_path": "crops/izuhara_upper_p019_right/01_丁付十二.jpg",
+      "x": 2187,
+      "y": 3184,
+      "w": 70,
+      "h": 114
+    },
+    {
+      "ident": "米高",
+      "crop_path": "crops/izuhara_upper_p019_right/02_米高.jpg",
+      "x": 2079,
+      "y": 1119,
+      "w": 106,
+      "h": 1320
+    },
+    {
+      "ident": "此精米",
+      "crop_path": "crops/izuhara_upper_p019_right/03_此精米.jpg",
+      "x": 1935,
+      "y": 1259,
+      "w": 116,
+      "h": 1759
+    },
+    {
+      "ident": "錢高",
+      "crop_path": "crops/izuhara_upper_p019_right/04_錢高.jpg",
+      "x": 1815,
+      "y": 1117,
+      "w": 105,
+      "h": 1149
+    },
+    {
+      "ident": "小譯",
+      "crop_path": "crops/izuhara_upper_p019_right/05_小譯.jpg",
+      "x": 1703,
+      "y": 1260,
+      "w": 81,
+      "h": 163
+    },
+    {
+      "ident": "小譯米在留役員給金",
+      "crop_path": "crops/izuhara_upper_p019_right/06_小譯米在留役員給金.jpg",
+      "x": 1531,
+      "y": 1270,
+      "w": 116,
+      "h": 1579
+    },
+    {
+      "ident": "小譯錢在留役員給金",
+      "crop_path": "crops/izuhara_upper_p019_right/07_小譯錢在留役員給金.jpg",
+      "x": 1406,
+      "y": 1271,
+      "w": 103,
+      "h": 1157
+    },
+    {
+      "ident": "但書在留役員給金",
+      "crop_path": "crops/izuhara_upper_p019_right/08_但書在留役員給金.jpg",
+      "x": 1265,
+      "y": 1421,
+      "w": 109,
+      "h": 1341
+    },
+    {
+      "ident": "小譯米往來役員船中飯米",
+      "crop_path": "crops/izuhara_upper_p019_right/09_小譯米往來役員船中飯米.jpg",
+      "x": 1135,
+      "y": 1265,
+      "w": 108,
+      "h": 1496
+    },
+    {
+      "ident": "但書往來役員船中飯米",
+      "crop_path": "crops/izuhara_upper_p019_right/10_但書往來役員船中飯米.jpg",
+      "x": 983,
+      "y": 1417,
+      "w": 124,
+      "h": 1843
+    },
+    {
+      "ident": "小譯同大船水夫留守扶持",
+      "crop_path": "crops/izuhara_upper_p019_right/11_小譯同大船水夫留守扶持.jpg",
+      "x": 865,
+      "y": 1260,
+      "w": 107,
+      "h": 1415
+    },
+    {
+      "ident": "但書大船水夫留守扶持",
+      "crop_path": "crops/izuhara_upper_p019_right/12_但書大船水夫留守扶持.jpg",
+      "x": 725,
+      "y": 1410,
+      "w": 107,
+      "h": 1258
+    },
+    {
+      "ident": "小譯米大船賃米",
+      "crop_path": "crops/izuhara_upper_p019_right/13_小譯米大船賃米.jpg",
+      "x": 590,
+      "y": 1258,
+      "w": 110,
+      "h": 1405
+    },
+    {
+      "ident": "但書大船賃米高",
+      "crop_path": "crops/izuhara_upper_p019_right/14_但書大船賃米高.jpg",
+      "x": 466,
+      "y": 1412,
+      "w": 99,
+      "h": 917
+    }
+  ],
+  "izuhara_upper_p020_left": [
+    {
+      "ident": "但書參判使入費注記前段",
+      "crop_path": "crops/izuhara_upper_p020_left/00_但書參判使入費注記前段.jpg",
+      "x": 2642,
+      "y": 1400,
+      "w": 99,
+      "h": 2348
+    },
+    {
+      "ident": "但書參判使入費注記後段",
+      "crop_path": "crops/izuhara_upper_p020_left/01_但書參判使入費注記後段.jpg",
+      "x": 2514,
+      "y": 1399,
+      "w": 91,
+      "h": 678
+    },
+    {
+      "ident": "和漂民入費標題",
+      "crop_path": "crops/izuhara_upper_p020_left/02_和漂民入費標題.jpg",
+      "x": 2384,
+      "y": 1154,
+      "w": 86,
+      "h": 501
+    },
+    {
+      "ident": "和漂民入費米高總計",
+      "crop_path": "crops/izuhara_upper_p020_left/03_和漂民入費米高總計.jpg",
+      "x": 2249,
+      "y": 1091,
+      "w": 88,
+      "h": 897
+    },
+    {
+      "ident": "和漂民入費錢高總計",
+      "crop_path": "crops/izuhara_upper_p020_left/04_和漂民入費錢高總計.jpg",
+      "x": 2113,
+      "y": 1093,
+      "w": 91,
+      "h": 1320
+    },
+    {
+      "ident": "小譯標題",
+      "crop_path": "crops/izuhara_upper_p020_left/05_小譯標題.jpg",
+      "x": 1982,
+      "y": 1246,
+      "w": 83,
+      "h": 163
+    },
+    {
+      "ident": "小譯在留入費米高",
+      "crop_path": "crops/izuhara_upper_p020_left/06_小譯在留入費米高.jpg",
+      "x": 1842,
+      "y": 1169,
+      "w": 91,
+      "h": 990
+    },
+    {
+      "ident": "小譯在留入費錢高",
+      "crop_path": "crops/izuhara_upper_p020_left/07_小譯在留入費錢高.jpg",
+      "x": 1704,
+      "y": 1169,
+      "w": 93,
+      "h": 1245
+    },
+    {
+      "ident": "但書和漂民朝鮮在留入費注記",
+      "crop_path": "crops/izuhara_upper_p020_left/08_但書和漂民朝鮮在留入費注記.jpg",
+      "x": 1565,
+      "y": 1411,
+      "w": 96,
+      "h": 1342
+    },
+    {
+      "ident": "小譯人夫飯米高",
+      "crop_path": "crops/izuhara_upper_p020_left/09_小譯人夫飯米高.jpg",
+      "x": 1435,
+      "y": 1172,
+      "w": 93,
+      "h": 1329
+    },
+    {
+      "ident": "小譯人夫賃銀高",
+      "crop_path": "crops/izuhara_upper_p020_left/10_小譯人夫賃銀高.jpg",
+      "x": 1304,
+      "y": 1173,
+      "w": 92,
+      "h": 1075
+    },
+    {
+      "ident": "但書人夫賃銀飯米注記",
+      "crop_path": "crops/izuhara_upper_p020_left/11_但書人夫賃銀飯米注記.jpg",
+      "x": 1153,
+      "y": 1413,
+      "w": 104,
+      "h": 2349
+    },
+    {
+      "ident": "小譯續米高八石",
+      "crop_path": "crops/izuhara_upper_p020_left/12_小譯續米高八石.jpg",
+      "x": 1033,
+      "y": 1173,
+      "w": 93,
+      "h": 1160
+    },
+    {
+      "ident": "柱藩制一覽表第一嚴原",
+      "crop_path": "crops/izuhara_upper_p020_left/13_柱藩制一覽表第一嚴原.jpg",
+      "x": 920,
+      "y": 1329,
+      "w": 74,
+      "h": 580
+    },
+    {
+      "ident": "丁付十五",
+      "crop_path": "crops/izuhara_upper_p020_left/14_丁付十五.jpg",
+      "x": 907,
+      "y": 3168,
+      "w": 70,
+      "h": 114
+    }
+  ],
+  "izuhara_upper_p020_right": [
+    {
+      "ident": "藩制一覽表第一（嚴原）柱",
+      "crop_path": "crops/izuhara_upper_p020_right/00_藩制一覽表第一_嚴原_柱.jpg",
+      "x": 2210,
+      "y": 1338,
+      "w": 75,
+      "h": 578
+    },
+    {
+      "ident": "丁付十四",
+      "crop_path": "crops/izuhara_upper_p020_right/01_丁付十四.jpg",
+      "x": 2195,
+      "y": 3173,
+      "w": 70,
+      "h": 119
+    },
+    {
+      "ident": "判事贈木綿",
+      "crop_path": "crops/izuhara_upper_p020_right/02_判事贈木綿.jpg",
+      "x": 2079,
+      "y": 1183,
+      "w": 92,
+      "h": 651
+    },
+    {
+      "ident": "判事ニ相與候分（註）",
+      "crop_path": "crops/izuhara_upper_p020_right/03_判事ニ相與候分_註.jpg",
+      "x": 2069,
+      "y": 1925,
+      "w": 92,
+      "h": 585
+    },
+    {
+      "ident": "小通事贈米",
+      "crop_path": "crops/izuhara_upper_p020_right/04_小通事贈米.jpg",
+      "x": 1944,
+      "y": 1182,
+      "w": 92,
+      "h": 1156
+    },
+    {
+      "ident": "精米六俵小通事右同斷（註）",
+      "crop_path": "crops/izuhara_upper_p020_right/05_精米六俵小通事右同斷_註.jpg",
+      "x": 1805,
+      "y": 1336,
+      "w": 96,
+      "h": 1259
+    },
+    {
+      "ident": "在館中諸入費錢",
+      "crop_path": "crops/izuhara_upper_p020_right/06_在館中諸入費錢.jpg",
+      "x": 1673,
+      "y": 1179,
+      "w": 101,
+      "h": 1156
+    },
+    {
+      "ident": "參判使在館中諸入費平均（註）",
+      "crop_path": "crops/izuhara_upper_p020_right/07_參判使在館中諸入費平均_註.jpg",
+      "x": 1533,
+      "y": 1418,
+      "w": 99,
+      "h": 1425
+    },
+    {
+      "ident": "人夫飯米",
+      "crop_path": "crops/izuhara_upper_p020_right/08_人夫飯米.jpg",
+      "x": 1405,
+      "y": 1177,
+      "w": 97,
+      "h": 1249
+    },
+    {
+      "ident": "人夫賃銀錢",
+      "crop_path": "crops/izuhara_upper_p020_right/09_人夫賃銀錢.jpg",
+      "x": 1275,
+      "y": 1175,
+      "w": 96,
+      "h": 990
+    },
+    {
+      "ident": "參判使渡込五拾人夫（註）",
+      "crop_path": "crops/izuhara_upper_p020_right/10_參判使渡込五拾人夫_註.jpg",
+      "x": 1121,
+      "y": 1414,
+      "w": 112,
+      "h": 2340
+    },
+    {
+      "ident": "參判使渡込五拾人夫註續",
+      "crop_path": "crops/izuhara_upper_p020_right/11_參判使渡込五拾人夫註續.jpg",
+      "x": 1010,
+      "y": 1412,
+      "w": 87,
+      "h": 82
+    },
+    {
+      "ident": "水夫飯米",
+      "crop_path": "crops/izuhara_upper_p020_right/12_水夫飯米.jpg",
+      "x": 868,
+      "y": 1175,
+      "w": 99,
+      "h": 1327
+    },
+    {
+      "ident": "參判使乘船水夫飯米（註）",
+      "crop_path": "crops/izuhara_upper_p020_right/13_參判使乘船水夫飯米_註.jpg",
+      "x": 721,
+      "y": 1414,
+      "w": 108,
+      "h": 1927
+    },
+    {
+      "ident": "同拾四石六斗三升六合壹勺壹才",
+      "crop_path": "crops/izuhara_upper_p020_right/14_同拾四石六斗三升六合壹勺壹才.jpg",
+      "x": 600,
+      "y": 1176,
+      "w": 99,
+      "h": 1241
+    },
+    {
+      "ident": "錢千五百四拾六貫文",
+      "crop_path": "crops/izuhara_upper_p020_right/15_錢千五百四拾六貫文.jpg",
+      "x": 473,
+      "y": 1177,
+      "w": 89,
+      "h": 823
+    }
+  ],
+  "izuhara_upper_p021_left": [
+    {
+      "ident": "小譯（見出）",
+      "crop_path": "crops/izuhara_upper_p021_left/00_小譯_見出.jpg",
+      "x": 2672,
+      "y": 1225,
+      "w": 82,
+      "h": 163
+    },
+    {
+      "ident": "譯官逗留中米",
+      "crop_path": "crops/izuhara_upper_p021_left/01_譯官逗留中米.jpg",
+      "x": 2512,
+      "y": 1319,
+      "w": 104,
+      "h": 1413
+    },
+    {
+      "ident": "譯官逗留中錢",
+      "crop_path": "crops/izuhara_upper_p021_left/02_譯官逗留中錢.jpg",
+      "x": 2382,
+      "y": 1319,
+      "w": 100,
+      "h": 1329
+    },
+    {
+      "ident": "但譯官逗留中五日次方諸入用之分如斯",
+      "crop_path": "crops/izuhara_upper_p021_left/03_但譯官逗留中五日次方諸入用之分如斯.jpg",
+      "x": 2251,
+      "y": 1471,
+      "w": 103,
+      "h": 1428
+    },
+    {
+      "ident": "譯官迎米",
+      "crop_path": "crops/izuhara_upper_p021_left/04_譯官迎米.jpg",
+      "x": 2128,
+      "y": 1317,
+      "w": 101,
+      "h": 1245
+    },
+    {
+      "ident": "譯官迎錢",
+      "crop_path": "crops/izuhara_upper_p021_left/05_譯官迎錢.jpg",
+      "x": 1996,
+      "y": 1319,
+      "w": 99,
+      "h": 1158
+    },
+    {
+      "ident": "但譯官迎五日次方諸入用如斯",
+      "crop_path": "crops/izuhara_upper_p021_left/06_但譯官迎五日次方諸入用如斯.jpg",
+      "x": 1858,
+      "y": 1471,
+      "w": 102,
+      "h": 1091
+    },
+    {
+      "ident": "譯官送米",
+      "crop_path": "crops/izuhara_upper_p021_left/07_譯官送米.jpg",
+      "x": 1721,
+      "y": 1314,
+      "w": 106,
+      "h": 1330
+    },
+    {
+      "ident": "譯官送錢",
+      "crop_path": "crops/izuhara_upper_p021_left/08_譯官送錢.jpg",
+      "x": 1593,
+      "y": 1312,
+      "w": 98,
+      "h": 996
+    },
+    {
+      "ident": "但送五日次方諸入用如斯",
+      "crop_path": "crops/izuhara_upper_p021_left/09_但送五日次方諸入用如斯.jpg",
+      "x": 1460,
+      "y": 1473,
+      "w": 98,
+      "h": 919
+    },
+    {
+      "ident": "堂上以下進物錢",
+      "crop_path": "crops/izuhara_upper_p021_left/10_堂上以下進物錢.jpg",
+      "x": 1328,
+      "y": 1307,
+      "w": 98,
+      "h": 1080
+    },
+    {
+      "ident": "堂上以下進物銅",
+      "crop_path": "crops/izuhara_upper_p021_left/11_堂上以下進物銅.jpg",
+      "x": 1193,
+      "y": 1377,
+      "w": 117,
+      "h": 1008
+    },
+    {
+      "ident": "但堂上以下定式相與候諸品代銅相渡候分如斯",
+      "crop_path": "crops/izuhara_upper_p021_left/12_但堂上以下定式相與候諸品代銅相渡候分如斯.jpg",
+      "x": 1037,
+      "y": 1462,
+      "w": 121,
+      "h": 2100
+    },
+    {
+      "ident": "柱題（藩制一覽表第一嚴原）",
+      "crop_path": "crops/izuhara_upper_p021_left/13_柱題_藩制一覽表第一嚴原.jpg",
+      "x": 956,
+      "y": 1296,
+      "w": 77,
+      "h": 580
+    },
+    {
+      "ident": "本書頁番號（十七）",
+      "crop_path": "crops/izuhara_upper_p021_left/14_本書頁番號_十七.jpg",
+      "x": 926,
+      "y": 3139,
+      "w": 70,
+      "h": 120
+    }
+  ],
+  "izuhara_upper_p021_right": [
+    {
+      "ident": "柱題藩制一覧表第一嚴原",
+      "crop_path": "crops/izuhara_upper_p021_right/00_柱題藩制一覧表第一嚴原.jpg",
+      "x": 2178,
+      "y": 1338,
+      "w": 81,
+      "h": 582
+    },
+    {
+      "ident": "兩關所人夫飯米但書",
+      "crop_path": "crops/izuhara_upper_p021_right/01_兩關所人夫飯米但書.jpg",
+      "x": 2026,
+      "y": 1421,
+      "w": 112,
+      "h": 2174
+    },
+    {
+      "ident": "別段差渡役員宛行米",
+      "crop_path": "crops/izuhara_upper_p021_right/02_別段差渡役員宛行米.jpg",
+      "x": 1915,
+      "y": 1182,
+      "w": 98,
+      "h": 1075
+    },
+    {
+      "ident": "別段差渡役員宛行但書",
+      "crop_path": "crops/izuhara_upper_p021_right/03_別段差渡役員宛行但書.jpg",
+      "x": 1770,
+      "y": 1422,
+      "w": 105,
+      "h": 1590
+    },
+    {
+      "ident": "和漂民護送使宛行米",
+      "crop_path": "crops/izuhara_upper_p021_right/04_和漂民護送使宛行米.jpg",
+      "x": 1656,
+      "y": 1184,
+      "w": 90,
+      "h": 406
+    },
+    {
+      "ident": "和漂民護送使宛行錢",
+      "crop_path": "crops/izuhara_upper_p021_right/05_和漂民護送使宛行錢.jpg",
+      "x": 1516,
+      "y": 1183,
+      "w": 95,
+      "h": 740
+    },
+    {
+      "ident": "和漂民護送使但書上",
+      "crop_path": "crops/izuhara_upper_p021_right/06_和漂民護送使但書上.jpg",
+      "x": 1359,
+      "y": 1421,
+      "w": 116,
+      "h": 2339
+    },
+    {
+      "ident": "和漂民護送使但書下",
+      "crop_path": "crops/izuhara_upper_p021_right/07_和漂民護送使但書下.jpg",
+      "x": 1242,
+      "y": 1427,
+      "w": 97,
+      "h": 836
+    },
+    {
+      "ident": "漂民駕船船賃錢",
+      "crop_path": "crops/izuhara_upper_p021_right/08_漂民駕船船賃錢.jpg",
+      "x": 1119,
+      "y": 1187,
+      "w": 97,
+      "h": 905
+    },
+    {
+      "ident": "漂民駕船船賃但書上",
+      "crop_path": "crops/izuhara_upper_p021_right/09_漂民駕船船賃但書上.jpg",
+      "x": 962,
+      "y": 1423,
+      "w": 116,
+      "h": 2344
+    },
+    {
+      "ident": "漂民駕船船賃但書下",
+      "crop_path": "crops/izuhara_upper_p021_right/10_漂民駕船船賃但書下.jpg",
+      "x": 840,
+      "y": 1421,
+      "w": 98,
+      "h": 923
+    },
+    {
+      "ident": "譯官渡來入費標目",
+      "crop_path": "crops/izuhara_upper_p021_right/11_譯官渡來入費標目.jpg",
+      "x": 717,
+      "y": 1251,
+      "w": 90,
+      "h": 505
+    },
+    {
+      "ident": "譯官渡來入費米",
+      "crop_path": "crops/izuhara_upper_p021_right/12_譯官渡來入費米.jpg",
+      "x": 571,
+      "y": 1109,
+      "w": 101,
+      "h": 1315
+    },
+    {
+      "ident": "譯官渡來入費錢",
+      "crop_path": "crops/izuhara_upper_p021_right/13_譯官渡來入費錢.jpg",
+      "x": 444,
+      "y": 1113,
+      "w": 99,
+      "h": 1487
+    },
+    {
+      "ident": "丁付十六",
+      "crop_path": "crops/izuhara_upper_p021_right/14_丁付十六.jpg",
+      "x": 2162,
+      "y": 3179,
+      "w": 75,
+      "h": 114
+    }
+  ],
   "izuhara_upper_p022_left": [
     {
       "ident": "掛役々相與米高",
@@ -50305,6 +51499,224 @@
       "h": 70
     }
   ],
+  "koga_lower_p218_right": [
+    {
+      "ident": "柱書藩制一覽表第九古河",
+      "crop_path": "crops/koga_lower_p218_right/00_柱書藩制一覽表第九古河.jpg",
+      "x": 2209,
+      "y": 1260,
+      "w": 80,
+      "h": 581
+    },
+    {
+      "ident": "丁付四百十二",
+      "crop_path": "crops/koga_lower_p218_right/01_丁付四百十二.jpg",
+      "x": 2184,
+      "y": 3107,
+      "w": 67,
+      "h": 213
+    },
+    {
+      "ident": "○古河藩",
+      "crop_path": "crops/koga_lower_p218_right/02_古河藩.jpg",
+      "x": 2059,
+      "y": 1344,
+      "w": 111,
+      "h": 559
+    },
+    {
+      "ident": "古河藩知事員數",
+      "crop_path": "crops/koga_lower_p218_right/03_古河藩知事員數.jpg",
+      "x": 1942,
+      "y": 1003,
+      "w": 93,
+      "h": 582
+    },
+    {
+      "ident": "古河藩大參事員數",
+      "crop_path": "crops/koga_lower_p218_right/04_古河藩大參事員數.jpg",
+      "x": 1812,
+      "y": 1004,
+      "w": 95,
+      "h": 581
+    },
+    {
+      "ident": "古河藩權大參事員數",
+      "crop_path": "crops/koga_lower_p218_right/05_古河藩權大參事員數.jpg",
+      "x": 1678,
+      "y": 1002,
+      "w": 93,
+      "h": 581
+    },
+    {
+      "ident": "古河藩少參事員數",
+      "crop_path": "crops/koga_lower_p218_right/06_古河藩少參事員數.jpg",
+      "x": 1280,
+      "y": 1000,
+      "w": 94,
+      "h": 582
+    },
+    {
+      "ident": "古河藩權少參事役名",
+      "crop_path": "crops/koga_lower_p218_right/07_古河藩權少參事役名.jpg",
+      "x": 1019,
+      "y": 995,
+      "w": 92,
+      "h": 333
+    },
+    {
+      "ident": "古河藩兵隊見出",
+      "crop_path": "crops/koga_lower_p218_right/08_古河藩兵隊見出.jpg",
+      "x": 481,
+      "y": 1155,
+      "w": 85,
+      "h": 165
+    },
+    {
+      "ident": "古河藩大參事土井",
+      "crop_path": "crops/koga_lower_p218_right/09_古河藩大參事土井.jpg",
+      "x": 1793,
+      "y": 2008,
+      "w": 93,
+      "h": 589
+    },
+    {
+      "ident": "古河藩大參事小杉",
+      "crop_path": "crops/koga_lower_p218_right/10_古河藩大參事小杉.jpg",
+      "x": 1778,
+      "y": 2936,
+      "w": 89,
+      "h": 586
+    },
+    {
+      "ident": "古河藩權大參事來次權",
+      "crop_path": "crops/koga_lower_p218_right/11_古河藩權大參事來次權.jpg",
+      "x": 1662,
+      "y": 2009,
+      "w": 93,
+      "h": 588
+    },
+    {
+      "ident": "古河藩權大參事朝倉",
+      "crop_path": "crops/koga_lower_p218_right/12_古河藩權大參事朝倉.jpg",
+      "x": 1649,
+      "y": 2935,
+      "w": 89,
+      "h": 589
+    },
+    {
+      "ident": "古河藩權大參事潮田",
+      "crop_path": "crops/koga_lower_p218_right/13_古河藩權大參事潮田.jpg",
+      "x": 1530,
+      "y": 2009,
+      "w": 84,
+      "h": 586
+    },
+    {
+      "ident": "古河藩權大參事藤懸",
+      "crop_path": "crops/koga_lower_p218_right/14_古河藩權大參事藤懸.jpg",
+      "x": 1504,
+      "y": 2931,
+      "w": 92,
+      "h": 587
+    },
+    {
+      "ident": "古河藩權大參事鈴木",
+      "crop_path": "crops/koga_lower_p218_right/15_古河藩權大參事鈴木.jpg",
+      "x": 1400,
+      "y": 2004,
+      "w": 86,
+      "h": 589
+    },
+    {
+      "ident": "古河藩權大參事恩田",
+      "crop_path": "crops/koga_lower_p218_right/16_古河藩權大參事恩田.jpg",
+      "x": 1389,
+      "y": 2931,
+      "w": 79,
+      "h": 588
+    },
+    {
+      "ident": "古河藩少參事小杉平馬",
+      "crop_path": "crops/koga_lower_p218_right/17_古河藩少參事小杉平馬.jpg",
+      "x": 1265,
+      "y": 2007,
+      "w": 90,
+      "h": 586
+    },
+    {
+      "ident": "古河藩少參事岩崎和多理",
+      "crop_path": "crops/koga_lower_p218_right/18_古河藩少參事岩崎和多理.jpg",
+      "x": 1248,
+      "y": 2932,
+      "w": 90,
+      "h": 582
+    },
+    {
+      "ident": "古河藩少參事菊地勘左衞門",
+      "crop_path": "crops/koga_lower_p218_right/19_古河藩少參事菊地勘左衞門.jpg",
+      "x": 1138,
+      "y": 2000,
+      "w": 89,
+      "h": 584
+    },
+    {
+      "ident": "古河藩權少參事長尾新五郎",
+      "crop_path": "crops/koga_lower_p218_right/20_古河藩權少參事長尾新五郎.jpg",
+      "x": 1003,
+      "y": 2002,
+      "w": 89,
+      "h": 587
+    },
+    {
+      "ident": "古河藩權少參事鷹見半左衞門",
+      "crop_path": "crops/koga_lower_p218_right/21_古河藩權少參事鷹見半左衞門.jpg",
+      "x": 987,
+      "y": 2929,
+      "w": 90,
+      "h": 585
+    },
+    {
+      "ident": "古河藩權少參事堀九郎右衞門",
+      "crop_path": "crops/koga_lower_p218_right/22_古河藩權少參事堀九郎右衞門.jpg",
+      "x": 871,
+      "y": 1999,
+      "w": 89,
+      "h": 587
+    },
+    {
+      "ident": "古河藩權少參事各務鄉右衞門",
+      "crop_path": "crops/koga_lower_p218_right/23_古河藩權少參事各務鄉右衞門.jpg",
+      "x": 853,
+      "y": 2929,
+      "w": 94,
+      "h": 584
+    },
+    {
+      "ident": "古河藩權少參事安井武兵衞",
+      "crop_path": "crops/koga_lower_p218_right/24_古河藩權少參事安井武兵衞.jpg",
+      "x": 728,
+      "y": 1996,
+      "w": 92,
+      "h": 590
+    },
+    {
+      "ident": "古河藩權少參事小杉茂平",
+      "crop_path": "crops/koga_lower_p218_right/25_古河藩權少參事小杉茂平.jpg",
+      "x": 705,
+      "y": 2928,
+      "w": 100,
+      "h": 594
+    },
+    {
+      "ident": "古河藩權少參事高橋殿衞",
+      "crop_path": "crops/koga_lower_p218_right/26_古河藩權少參事高橋殿衞.jpg",
+      "x": 595,
+      "y": 1985,
+      "w": 91,
+      "h": 588
+    }
+  ],
   "koizumi_lower_p018_left": [
     {
       "ident": "總人口（挙母藩分）",
@@ -53281,6 +54693,128 @@
       "h": 80
     }
   ],
+  "komoro_lower_p218_left": [
+    {
+      "ident": "古河兵隊小隊",
+      "crop_path": "crops/komoro_lower_p218_left/00_古河兵隊小隊.jpg",
+      "x": 2560,
+      "y": 1029,
+      "w": 95,
+      "h": 1681
+    },
+    {
+      "ident": "古河礮隊",
+      "crop_path": "crops/komoro_lower_p218_left/01_古河礮隊.jpg",
+      "x": 2430,
+      "y": 1026,
+      "w": 93,
+      "h": 1299
+    },
+    {
+      "ident": "小諸藩標",
+      "crop_path": "crops/komoro_lower_p218_left/02_小諸藩標.jpg",
+      "x": 2283,
+      "y": 1362,
+      "w": 109,
+      "h": 571
+    },
+    {
+      "ident": "小諸知事",
+      "crop_path": "crops/komoro_lower_p218_left/03_小諸知事.jpg",
+      "x": 2162,
+      "y": 1027,
+      "w": 90,
+      "h": 585
+    },
+    {
+      "ident": "小諸大參事",
+      "crop_path": "crops/komoro_lower_p218_left/04_小諸大參事.jpg",
+      "x": 2028,
+      "y": 1029,
+      "w": 93,
+      "h": 585
+    },
+    {
+      "ident": "小諸權大參事",
+      "crop_path": "crops/komoro_lower_p218_left/05_小諸權大參事.jpg",
+      "x": 1894,
+      "y": 1027,
+      "w": 94,
+      "h": 586
+    },
+    {
+      "ident": "小諸少參事",
+      "crop_path": "crops/komoro_lower_p218_left/06_小諸少參事.jpg",
+      "x": 1764,
+      "y": 1028,
+      "w": 90,
+      "h": 585
+    },
+    {
+      "ident": "小諸兵隊見出",
+      "crop_path": "crops/komoro_lower_p218_left/07_小諸兵隊見出.jpg",
+      "x": 1635,
+      "y": 1193,
+      "w": 84,
+      "h": 167
+    },
+    {
+      "ident": "小諸兵隊小隊",
+      "crop_path": "crops/komoro_lower_p218_left/08_小諸兵隊小隊.jpg",
+      "x": 1500,
+      "y": 1034,
+      "w": 92,
+      "h": 1419
+    },
+    {
+      "ident": "小諸兵隊役員",
+      "crop_path": "crops/komoro_lower_p218_left/09_小諸兵隊役員.jpg",
+      "x": 1362,
+      "y": 1110,
+      "w": 92,
+      "h": 586
+    },
+    {
+      "ident": "小諸兵隊合計",
+      "crop_path": "crops/komoro_lower_p218_left/10_小諸兵隊合計.jpg",
+      "x": 1231,
+      "y": 1026,
+      "w": 93,
+      "h": 503
+    },
+    {
+      "ident": "小諸砲兵隊砲門",
+      "crop_path": "crops/komoro_lower_p218_left/11_小諸砲兵隊砲門.jpg",
+      "x": 1086,
+      "y": 1023,
+      "w": 95,
+      "h": 922
+    },
+    {
+      "ident": "小諸砲兵隊人夫共",
+      "crop_path": "crops/komoro_lower_p218_left/12_小諸砲兵隊人夫共.jpg",
+      "x": 955,
+      "y": 1111,
+      "w": 92,
+      "h": 668
+    },
+    {
+      "ident": "柱題藩制一覽表第九小諸",
+      "crop_path": "crops/komoro_lower_p218_left/13_柱題藩制一覽表第九小諸.jpg",
+      "x": 838,
+      "y": 1281,
+      "w": 76,
+      "h": 579
+    },
+    {
+      "ident": "丁付四百十三",
+      "crop_path": "crops/komoro_lower_p218_left/14_丁付四百十三.jpg",
+      "x": 819,
+      "y": 3128,
+      "w": 71,
+      "h": 213
+    }
+  ],
   "koriyama_lower_p012_left": [
     {
       "ident": "藩制一覧表第六",
@@ -53797,6 +55331,450 @@
       "y": 3151,
       "w": 68,
       "h": 57
+    }
+  ],
+  "koriyama_lower_p014_left": [
+    {
+      "ident": "明源寺受領",
+      "crop_path": "crops/koriyama_lower_p014_left/00_明源寺受領.jpg",
+      "x": 2610,
+      "y": 1086,
+      "w": 89,
+      "h": 666
+    },
+    {
+      "ident": "明源寺所在地",
+      "crop_path": "crops/koriyama_lower_p014_left/01_明源寺所在地.jpg",
+      "x": 2627,
+      "y": 2335,
+      "w": 59,
+      "h": 64
+    },
+    {
+      "ident": "明源寺名",
+      "crop_path": "crops/koriyama_lower_p014_left/02_明源寺名.jpg",
+      "x": 2603,
+      "y": 2922,
+      "w": 77,
+      "h": 580
+    },
+    {
+      "ident": "明源寺正税米",
+      "crop_path": "crops/koriyama_lower_p014_left/03_明源寺正税米.jpg",
+      "x": 2477,
+      "y": 1173,
+      "w": 89,
+      "h": 500
+    },
+    {
+      "ident": "寶幢院受領",
+      "crop_path": "crops/koriyama_lower_p014_left/04_寶幢院受領.jpg",
+      "x": 2346,
+      "y": 1086,
+      "w": 89,
+      "h": 501
+    },
+    {
+      "ident": "寶幢院所在地",
+      "crop_path": "crops/koriyama_lower_p014_left/05_寶幢院所在地.jpg",
+      "x": 2324,
+      "y": 2339,
+      "w": 119,
+      "h": 408
+    },
+    {
+      "ident": "寶幢院名",
+      "crop_path": "crops/koriyama_lower_p014_left/06_寶幢院名.jpg",
+      "x": 2336,
+      "y": 2921,
+      "w": 85,
+      "h": 582
+    },
+    {
+      "ident": "寶幢院正税",
+      "crop_path": "crops/koriyama_lower_p014_left/07_寶幢院正税.jpg",
+      "x": 2212,
+      "y": 1173,
+      "w": 88,
+      "h": 498
+    },
+    {
+      "ident": "大崎寺受領",
+      "crop_path": "crops/koriyama_lower_p014_left/08_大崎寺受領.jpg",
+      "x": 2080,
+      "y": 1087,
+      "w": 85,
+      "h": 333
+    },
+    {
+      "ident": "大崎寺所在地",
+      "crop_path": "crops/koriyama_lower_p014_left/09_大崎寺所在地.jpg",
+      "x": 2054,
+      "y": 2341,
+      "w": 118,
+      "h": 337
+    },
+    {
+      "ident": "大崎寺名",
+      "crop_path": "crops/koriyama_lower_p014_left/10_大崎寺名.jpg",
+      "x": 2069,
+      "y": 2921,
+      "w": 82,
+      "h": 583
+    },
+    {
+      "ident": "大崎寺正税",
+      "crop_path": "crops/koriyama_lower_p014_left/11_大崎寺正税.jpg",
+      "x": 1946,
+      "y": 1174,
+      "w": 89,
+      "h": 412
+    },
+    {
+      "ident": "宗正寺受領",
+      "crop_path": "crops/koriyama_lower_p014_left/12_宗正寺受領.jpg",
+      "x": 1811,
+      "y": 1087,
+      "w": 89,
+      "h": 497
+    },
+    {
+      "ident": "宗正寺所在地",
+      "crop_path": "crops/koriyama_lower_p014_left/13_宗正寺所在地.jpg",
+      "x": 1783,
+      "y": 2344,
+      "w": 119,
+      "h": 269
+    },
+    {
+      "ident": "宗正寺名",
+      "crop_path": "crops/koriyama_lower_p014_left/14_宗正寺名.jpg",
+      "x": 1799,
+      "y": 2923,
+      "w": 88,
+      "h": 581
+    },
+    {
+      "ident": "宗正寺正租",
+      "crop_path": "crops/koriyama_lower_p014_left/15_宗正寺正租.jpg",
+      "x": 1673,
+      "y": 1172,
+      "w": 89,
+      "h": 579
+    },
+    {
+      "ident": "成菩提院受領",
+      "crop_path": "crops/koriyama_lower_p014_left/16_成菩提院受領.jpg",
+      "x": 1534,
+      "y": 1088,
+      "w": 90,
+      "h": 1004
+    },
+    {
+      "ident": "成菩提院所在地",
+      "crop_path": "crops/koriyama_lower_p014_left/17_成菩提院所在地.jpg",
+      "x": 1513,
+      "y": 2348,
+      "w": 121,
+      "h": 338
+    },
+    {
+      "ident": "成菩提院名",
+      "crop_path": "crops/koriyama_lower_p014_left/18_成菩提院名.jpg",
+      "x": 1527,
+      "y": 2931,
+      "w": 87,
+      "h": 578
+    },
+    {
+      "ident": "成菩提院正租",
+      "crop_path": "crops/koriyama_lower_p014_left/19_成菩提院正租.jpg",
+      "x": 1406,
+      "y": 1177,
+      "w": 91,
+      "h": 1417
+    },
+    {
+      "ident": "法樂寺受領",
+      "crop_path": "crops/koriyama_lower_p014_left/20_法樂寺受領.jpg",
+      "x": 1275,
+      "y": 1090,
+      "w": 87,
+      "h": 669
+    },
+    {
+      "ident": "法樂寺所在地",
+      "crop_path": "crops/koriyama_lower_p014_left/21_法樂寺所在地.jpg",
+      "x": 1254,
+      "y": 2342,
+      "w": 118,
+      "h": 340
+    },
+    {
+      "ident": "法樂寺名",
+      "crop_path": "crops/koriyama_lower_p014_left/22_法樂寺名.jpg",
+      "x": 1268,
+      "y": 2929,
+      "w": 85,
+      "h": 582
+    },
+    {
+      "ident": "法樂寺正税",
+      "crop_path": "crops/koriyama_lower_p014_left/23_法樂寺正税.jpg",
+      "x": 1147,
+      "y": 1178,
+      "w": 89,
+      "h": 919
+    },
+    {
+      "ident": "洞泉寺受領",
+      "crop_path": "crops/koriyama_lower_p014_left/24_洞泉寺受領.jpg",
+      "x": 1017,
+      "y": 1090,
+      "w": 84,
+      "h": 500
+    },
+    {
+      "ident": "洞泉寺所在地",
+      "crop_path": "crops/koriyama_lower_p014_left/25_洞泉寺所在地.jpg",
+      "x": 992,
+      "y": 2345,
+      "w": 121,
+      "h": 409
+    },
+    {
+      "ident": "洞泉寺名",
+      "crop_path": "crops/koriyama_lower_p014_left/26_洞泉寺名.jpg",
+      "x": 1010,
+      "y": 2929,
+      "w": 83,
+      "h": 584
+    },
+    {
+      "ident": "柱題藩制一覽表第六郡山",
+      "crop_path": "crops/koriyama_lower_p014_left/27_柱題藩制一覽表第六郡山.jpg",
+      "x": 895,
+      "y": 1263,
+      "w": 71,
+      "h": 576
+    },
+    {
+      "ident": "版心丁付五",
+      "crop_path": "crops/koriyama_lower_p014_left/28_版心丁付五.jpg",
+      "x": 894,
+      "y": 3096,
+      "w": 65,
+      "h": 61
+    }
+  ],
+  "koriyama_lower_p014_right": [
+    {
+      "ident": "欄外標題藩制一覽表第六郡山",
+      "crop_path": "crops/koriyama_lower_p014_right/00_欄外標題藩制一覽表第六郡山.jpg",
+      "x": 2183,
+      "y": 1293,
+      "w": 80,
+      "h": 575
+    },
+    {
+      "ident": "印刷頁番號四",
+      "crop_path": "crops/koriyama_lower_p014_right/01_印刷頁番號四.jpg",
+      "x": 2156,
+      "y": 3128,
+      "w": 75,
+      "h": 60
+    },
+    {
+      "ident": "天神社受領高",
+      "crop_path": "crops/koriyama_lower_p014_right/02_天神社受領高.jpg",
+      "x": 2062,
+      "y": 1121,
+      "w": 87,
+      "h": 331
+    },
+    {
+      "ident": "天神社所在地",
+      "crop_path": "crops/koriyama_lower_p014_right/03_天神社所在地.jpg",
+      "x": 2015,
+      "y": 2375,
+      "w": 122,
+      "h": 406
+    },
+    {
+      "ident": "天神社社名",
+      "crop_path": "crops/koriyama_lower_p014_right/04_天神社社名.jpg",
+      "x": 2019,
+      "y": 2960,
+      "w": 89,
+      "h": 579
+    },
+    {
+      "ident": "天神社正税米",
+      "crop_path": "crops/koriyama_lower_p014_right/05_天神社正税米.jpg",
+      "x": 1917,
+      "y": 1207,
+      "w": 97,
+      "h": 995
+    },
+    {
+      "ident": "西光寺受領高",
+      "crop_path": "crops/koriyama_lower_p014_right/06_西光寺受領高.jpg",
+      "x": 1791,
+      "y": 1117,
+      "w": 75,
+      "h": 703
+    },
+    {
+      "ident": "西光寺受領高朱書註",
+      "crop_path": "crops/koriyama_lower_p014_right/07_西光寺受領高朱書註.jpg",
+      "x": 1866,
+      "y": 1523,
+      "w": 51,
+      "h": 306
+    },
+    {
+      "ident": "西光寺所在地",
+      "crop_path": "crops/koriyama_lower_p014_right/08_西光寺所在地.jpg",
+      "x": 1751,
+      "y": 2374,
+      "w": 119,
+      "h": 336
+    },
+    {
+      "ident": "西光寺寺名",
+      "crop_path": "crops/koriyama_lower_p014_right/09_西光寺寺名.jpg",
+      "x": 1752,
+      "y": 2957,
+      "w": 90,
+      "h": 578
+    },
+    {
+      "ident": "西光寺正税米",
+      "crop_path": "crops/koriyama_lower_p014_right/10_西光寺正税米.jpg",
+      "x": 1641,
+      "y": 1202,
+      "w": 105,
+      "h": 1169
+    },
+    {
+      "ident": "總持寺受領高",
+      "crop_path": "crops/koriyama_lower_p014_right/11_總持寺受領高.jpg",
+      "x": 1521,
+      "y": 1110,
+      "w": 91,
+      "h": 500
+    },
+    {
+      "ident": "總持寺所在地",
+      "crop_path": "crops/koriyama_lower_p014_right/12_總持寺所在地.jpg",
+      "x": 1481,
+      "y": 2365,
+      "w": 121,
+      "h": 335
+    },
+    {
+      "ident": "總持寺寺名",
+      "crop_path": "crops/koriyama_lower_p014_right/13_總持寺寺名.jpg",
+      "x": 1485,
+      "y": 2949,
+      "w": 89,
+      "h": 581
+    },
+    {
+      "ident": "總持寺外込高",
+      "crop_path": "crops/koriyama_lower_p014_right/14_總持寺外込高.jpg",
+      "x": 1395,
+      "y": 1192,
+      "w": 89,
+      "h": 502
+    },
+    {
+      "ident": "總持寺正租米",
+      "crop_path": "crops/koriyama_lower_p014_right/15_總持寺正租米.jpg",
+      "x": 1246,
+      "y": 1194,
+      "w": 108,
+      "h": 1165
+    },
+    {
+      "ident": "總持寺雜税米",
+      "crop_path": "crops/koriyama_lower_p014_right/16_總持寺雜税米.jpg",
+      "x": 1120,
+      "y": 1188,
+      "w": 104,
+      "h": 1001
+    },
+    {
+      "ident": "敬誓寺受領高",
+      "crop_path": "crops/koriyama_lower_p014_right/17_敬誓寺受領高.jpg",
+      "x": 999,
+      "y": 1114,
+      "w": 96,
+      "h": 653
+    },
+    {
+      "ident": "敬誓寺所在地",
+      "crop_path": "crops/koriyama_lower_p014_right/18_敬誓寺所在地.jpg",
+      "x": 961,
+      "y": 2358,
+      "w": 120,
+      "h": 337
+    },
+    {
+      "ident": "敬誓寺寺名",
+      "crop_path": "crops/koriyama_lower_p014_right/19_敬誓寺寺名.jpg",
+      "x": 964,
+      "y": 2942,
+      "w": 87,
+      "h": 579
+    },
+    {
+      "ident": "敬誓寺正税米",
+      "crop_path": "crops/koriyama_lower_p014_right/20_敬誓寺正税米.jpg",
+      "x": 877,
+      "y": 1185,
+      "w": 89,
+      "h": 500
+    },
+    {
+      "ident": "安立寺受領高",
+      "crop_path": "crops/koriyama_lower_p014_right/21_安立寺受領高.jpg",
+      "x": 744,
+      "y": 1095,
+      "w": 89,
+      "h": 502
+    },
+    {
+      "ident": "安立寺所在地",
+      "crop_path": "crops/koriyama_lower_p014_right/22_安立寺所在地.jpg",
+      "x": 700,
+      "y": 2351,
+      "w": 122,
+      "h": 338
+    },
+    {
+      "ident": "安立寺寺名",
+      "crop_path": "crops/koriyama_lower_p014_right/23_安立寺寺名.jpg",
+      "x": 702,
+      "y": 2931,
+      "w": 87,
+      "h": 583
+    },
+    {
+      "ident": "安立寺正税無之",
+      "crop_path": "crops/koriyama_lower_p014_right/24_安立寺正税無之.jpg",
+      "x": 609,
+      "y": 1180,
+      "w": 89,
+      "h": 326
+    },
+    {
+      "ident": "安立寺雜税鏹",
+      "crop_path": "crops/koriyama_lower_p014_right/25_安立寺雜税鏹.jpg",
+      "x": 457,
+      "y": 1176,
+      "w": 111,
+      "h": 749
     }
   ],
   "koriyama_lower_p217_left": [
@@ -66425,6 +68403,160 @@
       "h": 334
     }
   ],
+  "mibu_lower_p235_right": [
+    {
+      "ident": "柱藩制一覽表第九壬生",
+      "crop_path": "crops/mibu_lower_p235_right/00_柱藩制一覽表第九壬生.jpg",
+      "x": 2245,
+      "y": 1224,
+      "w": 72,
+      "h": 576
+    },
+    {
+      "ident": "丁付四百四十六",
+      "crop_path": "crops/mibu_lower_p235_right/01_丁付四百四十六.jpg",
+      "x": 2235,
+      "y": 3065,
+      "w": 69,
+      "h": 264
+    },
+    {
+      "ident": "水口鼓笛手",
+      "crop_path": "crops/mibu_lower_p235_right/02_水口鼓笛手.jpg",
+      "x": 2117,
+      "y": 1219,
+      "w": 85,
+      "h": 586
+    },
+    {
+      "ident": "水口隊長以下役員",
+      "crop_path": "crops/mibu_lower_p235_right/03_水口隊長以下役員.jpg",
+      "x": 1985,
+      "y": 1218,
+      "w": 89,
+      "h": 923
+    },
+    {
+      "ident": "水口器械方",
+      "crop_path": "crops/mibu_lower_p235_right/04_水口器械方.jpg",
+      "x": 1852,
+      "y": 1221,
+      "w": 90,
+      "h": 498
+    },
+    {
+      "ident": "壬生藩マル記號",
+      "crop_path": "crops/mibu_lower_p235_right/05_壬生藩マル記號.jpg",
+      "x": 1707,
+      "y": 1307,
+      "w": 106,
+      "h": 559
+    },
+    {
+      "ident": "壬生大參事",
+      "crop_path": "crops/mibu_lower_p235_right/06_壬生大參事.jpg",
+      "x": 1583,
+      "y": 973,
+      "w": 86,
+      "h": 579
+    },
+    {
+      "ident": "壬生大參事大島金七郎",
+      "crop_path": "crops/mibu_lower_p235_right/07_壬生大參事大島金七郎.jpg",
+      "x": 1574,
+      "y": 1981,
+      "w": 88,
+      "h": 584
+    },
+    {
+      "ident": "壬生權大參事",
+      "crop_path": "crops/mibu_lower_p235_right/08_壬生權大參事.jpg",
+      "x": 1453,
+      "y": 970,
+      "w": 88,
+      "h": 582
+    },
+    {
+      "ident": "壬生權大參事一人目渡邊一平",
+      "crop_path": "crops/mibu_lower_p235_right/09_壬生權大參事一人目渡邊一平.jpg",
+      "x": 1443,
+      "y": 1974,
+      "w": 88,
+      "h": 583
+    },
+    {
+      "ident": "壬生權大參事二人目高須嘉司馬",
+      "crop_path": "crops/mibu_lower_p235_right/10_壬生權大參事二人目高須嘉司馬.jpg",
+      "x": 1442,
+      "y": 2898,
+      "w": 79,
+      "h": 587
+    },
+    {
+      "ident": "壬生權大參事三人目山家三太夫",
+      "crop_path": "crops/mibu_lower_p235_right/11_壬生權大參事三人目山家三太夫.jpg",
+      "x": 1308,
+      "y": 1973,
+      "w": 87,
+      "h": 588
+    },
+    {
+      "ident": "壬生公議人増田鏘太郎",
+      "crop_path": "crops/mibu_lower_p235_right/12_壬生公議人増田鏘太郎.jpg",
+      "x": 1303,
+      "y": 2757,
+      "w": 137,
+      "h": 729
+    },
+    {
+      "ident": "壬生權大參事四人目福島渡理",
+      "crop_path": "crops/mibu_lower_p235_right/13_壬生權大參事四人目福島渡理.jpg",
+      "x": 1175,
+      "y": 1972,
+      "w": 89,
+      "h": 584
+    },
+    {
+      "ident": "壬生少參事",
+      "crop_path": "crops/mibu_lower_p235_right/14_壬生少參事.jpg",
+      "x": 1053,
+      "y": 971,
+      "w": 87,
+      "h": 583
+    },
+    {
+      "ident": "壬生權少參事",
+      "crop_path": "crops/mibu_lower_p235_right/15_壬生權少參事.jpg",
+      "x": 917,
+      "y": 971,
+      "w": 86,
+      "h": 581
+    },
+    {
+      "ident": "壬生兵隊",
+      "crop_path": "crops/mibu_lower_p235_right/16_壬生兵隊.jpg",
+      "x": 780,
+      "y": 973,
+      "w": 87,
+      "h": 991
+    },
+    {
+      "ident": "壬生兵隊合計三百六十人",
+      "crop_path": "crops/mibu_lower_p235_right/17_壬生兵隊合計三百六十人.jpg",
+      "x": 644,
+      "y": 1054,
+      "w": 91,
+      "h": 1165
+    },
+    {
+      "ident": "壬生遊兵隊",
+      "crop_path": "crops/mibu_lower_p235_right/18_壬生遊兵隊.jpg",
+      "x": 510,
+      "y": 969,
+      "w": 93,
+      "h": 666
+    }
+  ],
   "miharu_lower_p070_left": [
     {
       "ident": "社領高（水戸藩分）",
@@ -66819,6 +68951,216 @@
       "y": 2251,
       "w": 51,
       "h": 328
+    }
+  ],
+  "miharu_lower_p234_right": [
+    {
+      "ident": "藩制一覽表第九（宮津）",
+      "crop_path": "crops/miharu_lower_p234_right/00_藩制一覽表第九_宮津.jpg",
+      "x": 2215,
+      "y": 1217,
+      "w": 71,
+      "h": 579
+    },
+    {
+      "ident": "印刷頁四百四十四",
+      "crop_path": "crops/miharu_lower_p234_right/01_印刷頁四百四十四.jpg",
+      "x": 2213,
+      "y": 3057,
+      "w": 67,
+      "h": 268
+    },
+    {
+      "ident": "正權大參事",
+      "crop_path": "crops/miharu_lower_p234_right/02_正權大參事.jpg",
+      "x": 2082,
+      "y": 963,
+      "w": 85,
+      "h": 668
+    },
+    {
+      "ident": "少參事大見勇記",
+      "crop_path": "crops/miharu_lower_p234_right/03_少參事大見勇記.jpg",
+      "x": 1946,
+      "y": 962,
+      "w": 91,
+      "h": 1085
+    },
+    {
+      "ident": "少參事秋田主計",
+      "crop_path": "crops/miharu_lower_p234_right/04_少參事秋田主計.jpg",
+      "x": 1814,
+      "y": 1466,
+      "w": 74,
+      "h": 580
+    },
+    {
+      "ident": "秋田主計異名註",
+      "crop_path": "crops/miharu_lower_p234_right/05_秋田主計異名註.jpg",
+      "x": 1888,
+      "y": 1817,
+      "w": 56,
+      "h": 382
+    },
+    {
+      "ident": "少參事瀧田湊",
+      "crop_path": "crops/miharu_lower_p234_right/06_少參事瀧田湊.jpg",
+      "x": 1676,
+      "y": 1466,
+      "w": 86,
+      "h": 586
+    },
+    {
+      "ident": "權少參事不破幾馬",
+      "crop_path": "crops/miharu_lower_p234_right/07_權少參事不破幾馬.jpg",
+      "x": 1538,
+      "y": 967,
+      "w": 88,
+      "h": 1085
+    },
+    {
+      "ident": "權少參事東嘉内",
+      "crop_path": "crops/miharu_lower_p234_right/08_權少參事東嘉内.jpg",
+      "x": 1406,
+      "y": 1468,
+      "w": 87,
+      "h": 589
+    },
+    {
+      "ident": "權少參事熊田嘉膳",
+      "crop_path": "crops/miharu_lower_p234_right/09_權少參事熊田嘉膳.jpg",
+      "x": 1271,
+      "y": 1467,
+      "w": 88,
+      "h": 586
+    },
+    {
+      "ident": "熊田嘉膳異名註",
+      "crop_path": "crops/miharu_lower_p234_right/10_熊田嘉膳異名註.jpg",
+      "x": 1287,
+      "y": 2073,
+      "w": 72,
+      "h": 315
+    },
+    {
+      "ident": "銃兵",
+      "crop_path": "crops/miharu_lower_p234_right/11_銃兵.jpg",
+      "x": 1133,
+      "y": 969,
+      "w": 86,
+      "h": 501
+    },
+    {
+      "ident": "銃兵編制註",
+      "crop_path": "crops/miharu_lower_p234_right/12_銃兵編制註.jpg",
+      "x": 1117,
+      "y": 1491,
+      "w": 119,
+      "h": 460
+    },
+    {
+      "ident": "銃兵役司",
+      "crop_path": "crops/miharu_lower_p234_right/13_銃兵役司.jpg",
+      "x": 998,
+      "y": 1057,
+      "w": 87,
+      "h": 331
+    },
+    {
+      "ident": "大砲隊",
+      "crop_path": "crops/miharu_lower_p234_right/14_大砲隊.jpg",
+      "x": 864,
+      "y": 973,
+      "w": 89,
+      "h": 666
+    },
+    {
+      "ident": "大砲隊編制註",
+      "crop_path": "crops/miharu_lower_p234_right/15_大砲隊編制註.jpg",
+      "x": 880,
+      "y": 1658,
+      "w": 73,
+      "h": 531
+    },
+    {
+      "ident": "大砲隊役司",
+      "crop_path": "crops/miharu_lower_p234_right/16_大砲隊役司.jpg",
+      "x": 733,
+      "y": 1058,
+      "w": 87,
+      "h": 329
+    },
+    {
+      "ident": "宮津藩標記",
+      "crop_path": "crops/miharu_lower_p234_right/17_宮津藩標記.jpg",
+      "x": 584,
+      "y": 1313,
+      "w": 107,
+      "h": 563
+    },
+    {
+      "ident": "宮津藩大參事",
+      "crop_path": "crops/miharu_lower_p234_right/18_宮津藩大參事.jpg",
+      "x": 459,
+      "y": 979,
+      "w": 88,
+      "h": 580
+    },
+    {
+      "ident": "三春藩大參事秋田千柄",
+      "crop_path": "crops/miharu_lower_p234_right/19_三春藩大參事秋田千柄.jpg",
+      "x": 2077,
+      "y": 2471,
+      "w": 87,
+      "h": 1002
+    },
+    {
+      "ident": "三春藩權大參事細川可柳",
+      "crop_path": "crops/miharu_lower_p234_right/20_三春藩權大參事細川可柳.jpg",
+      "x": 1943,
+      "y": 2470,
+      "w": 91,
+      "h": 1007
+    },
+    {
+      "ident": "三春藩權大參事秋田彌十郎",
+      "crop_path": "crops/miharu_lower_p234_right/21_三春藩權大參事秋田彌十郎.jpg",
+      "x": 1808,
+      "y": 2892,
+      "w": 85,
+      "h": 584
+    },
+    {
+      "ident": "三春藩權大參事奧村新一郎",
+      "crop_path": "crops/miharu_lower_p234_right/22_三春藩權大參事奧村新一郎.jpg",
+      "x": 1672,
+      "y": 2893,
+      "w": 87,
+      "h": 589
+    },
+    {
+      "ident": "三春藩權大參事秋田廣記",
+      "crop_path": "crops/miharu_lower_p234_right/23_三春藩權大參事秋田廣記.jpg",
+      "x": 1534,
+      "y": 2897,
+      "w": 88,
+      "h": 579
+    },
+    {
+      "ident": "三春藩權大參事山野權六",
+      "crop_path": "crops/miharu_lower_p234_right/24_三春藩權大參事山野權六.jpg",
+      "x": 1403,
+      "y": 2897,
+      "w": 88,
+      "h": 584
+    },
+    {
+      "ident": "三春藩權大參事湊潤藏",
+      "crop_path": "crops/miharu_lower_p234_right/25_三春藩權大參事湊潤藏.jpg",
+      "x": 1269,
+      "y": 2894,
+      "w": 87,
+      "h": 589
     }
   ],
   "miike_lower_p079_left": [
@@ -68419,6 +70761,136 @@
       "y": 1950,
       "w": 56,
       "h": 338
+    }
+  ],
+  "minakuchi_lower_p234_left": [
+    {
+      "ident": "宮津權大參事",
+      "crop_path": "crops/minakuchi_lower_p234_left/00_宮津權大參事.jpg",
+      "x": 2577,
+      "y": 974,
+      "w": 90,
+      "h": 584
+    },
+    {
+      "ident": "宮津少參事",
+      "crop_path": "crops/minakuchi_lower_p234_left/01_宮津少參事.jpg",
+      "x": 2445,
+      "y": 973,
+      "w": 88,
+      "h": 584
+    },
+    {
+      "ident": "宮津權少參事",
+      "crop_path": "crops/minakuchi_lower_p234_left/02_宮津權少參事.jpg",
+      "x": 2309,
+      "y": 972,
+      "w": 91,
+      "h": 588
+    },
+    {
+      "ident": "宮津兵隊士族",
+      "crop_path": "crops/minakuchi_lower_p234_left/03_宮津兵隊士族.jpg",
+      "x": 2169,
+      "y": 973,
+      "w": 95,
+      "h": 1009
+    },
+    {
+      "ident": "宮津兵隊卒",
+      "crop_path": "crops/minakuchi_lower_p234_left/04_宮津兵隊卒.jpg",
+      "x": 2031,
+      "y": 1235,
+      "w": 89,
+      "h": 660
+    },
+    {
+      "ident": "水口藩丸印",
+      "crop_path": "crops/minakuchi_lower_p234_left/05_水口藩丸印.jpg",
+      "x": 1890,
+      "y": 1318,
+      "w": 104,
+      "h": 558
+    },
+    {
+      "ident": "水口大參事",
+      "crop_path": "crops/minakuchi_lower_p234_left/06_水口大參事.jpg",
+      "x": 1761,
+      "y": 979,
+      "w": 95,
+      "h": 1593
+    },
+    {
+      "ident": "水口權大參事",
+      "crop_path": "crops/minakuchi_lower_p234_left/07_水口權大參事.jpg",
+      "x": 1626,
+      "y": 979,
+      "w": 98,
+      "h": 2514
+    },
+    {
+      "ident": "水口少參事",
+      "crop_path": "crops/minakuchi_lower_p234_left/08_水口少參事.jpg",
+      "x": 1495,
+      "y": 981,
+      "w": 84,
+      "h": 1584
+    },
+    {
+      "ident": "少參事欄傍點",
+      "crop_path": "crops/minakuchi_lower_p234_left/09_少參事欄傍點.jpg",
+      "x": 1579,
+      "y": 1394,
+      "w": 35,
+      "h": 66
+    },
+    {
+      "ident": "水口權少參事",
+      "crop_path": "crops/minakuchi_lower_p234_left/10_水口權少參事.jpg",
+      "x": 1362,
+      "y": 979,
+      "w": 94,
+      "h": 2514
+    },
+    {
+      "ident": "水口鬪虎隊",
+      "crop_path": "crops/minakuchi_lower_p234_left/11_水口鬪虎隊.jpg",
+      "x": 1234,
+      "y": 1230,
+      "w": 90,
+      "h": 836
+    },
+    {
+      "ident": "水口敢死隊",
+      "crop_path": "crops/minakuchi_lower_p234_left/12_水口敢死隊.jpg",
+      "x": 1104,
+      "y": 1232,
+      "w": 87,
+      "h": 835
+    },
+    {
+      "ident": "水口礮隊",
+      "crop_path": "crops/minakuchi_lower_p234_left/13_水口礮隊.jpg",
+      "x": 969,
+      "y": 1234,
+      "w": 90,
+      "h": 935
+    },
+    {
+      "ident": "柱書藩制一覧表第九水口",
+      "crop_path": "crops/minakuchi_lower_p234_left/14_柱書藩制一覧表第九水口.jpg",
+      "x": 854,
+      "y": 1238,
+      "w": 73,
+      "h": 580
+    },
+    {
+      "ident": "丁數四百四十五",
+      "crop_path": "crops/minakuchi_lower_p234_left/15_丁數四百四十五.jpg",
+      "x": 843,
+      "y": 3082,
+      "w": 73,
+      "h": 262
     }
   ],
   "mineoka_lower_p078_right": [
@@ -73795,6 +76267,184 @@
       "h": 160
     }
   ],
+  "muramatsu_lower_p196_left": [
+    {
+      "ident": "村上未編制兵隊",
+      "crop_path": "crops/muramatsu_lower_p196_left/00_村上未編制兵隊.jpg",
+      "x": 2628,
+      "y": 1011,
+      "w": 94,
+      "h": 1089
+    },
+    {
+      "ident": "○村松藩",
+      "crop_path": "crops/muramatsu_lower_p196_left/01_村松藩.jpg",
+      "x": 2480,
+      "y": 1346,
+      "w": 106,
+      "h": 559
+    },
+    {
+      "ident": "村松大參事",
+      "crop_path": "crops/muramatsu_lower_p196_left/02_村松大參事.jpg",
+      "x": 2359,
+      "y": 1009,
+      "w": 94,
+      "h": 576
+    },
+    {
+      "ident": "村松大參事近藤安五郎",
+      "crop_path": "crops/muramatsu_lower_p196_left/03_村松大參事近藤安五郎.jpg",
+      "x": 2347,
+      "y": 2011,
+      "w": 86,
+      "h": 586
+    },
+    {
+      "ident": "村松權大參事",
+      "crop_path": "crops/muramatsu_lower_p196_left/04_村松權大參事.jpg",
+      "x": 2232,
+      "y": 1004,
+      "w": 90,
+      "h": 580
+    },
+    {
+      "ident": "村松權大參事松井蔀",
+      "crop_path": "crops/muramatsu_lower_p196_left/05_村松權大參事松井蔀.jpg",
+      "x": 2215,
+      "y": 2017,
+      "w": 87,
+      "h": 578
+    },
+    {
+      "ident": "村松權大參事野口大吉",
+      "crop_path": "crops/muramatsu_lower_p196_left/06_村松權大參事野口大吉.jpg",
+      "x": 2198,
+      "y": 2936,
+      "w": 90,
+      "h": 582
+    },
+    {
+      "ident": "村松權大參事兒島泉",
+      "crop_path": "crops/muramatsu_lower_p196_left/07_村松權大參事兒島泉.jpg",
+      "x": 2079,
+      "y": 2002,
+      "w": 91,
+      "h": 587
+    },
+    {
+      "ident": "村松權大參事治運",
+      "crop_path": "crops/muramatsu_lower_p196_left/08_村松權大參事治運.jpg",
+      "x": 2064,
+      "y": 2935,
+      "w": 89,
+      "h": 577
+    },
+    {
+      "ident": "村松少參事",
+      "crop_path": "crops/muramatsu_lower_p196_left/09_村松少參事.jpg",
+      "x": 1962,
+      "y": 1003,
+      "w": 92,
+      "h": 575
+    },
+    {
+      "ident": "村松少參事狩野與一",
+      "crop_path": "crops/muramatsu_lower_p196_left/10_村松少參事狩野與一.jpg",
+      "x": 1944,
+      "y": 2011,
+      "w": 88,
+      "h": 553
+    },
+    {
+      "ident": "村松少參事小野但見",
+      "crop_path": "crops/muramatsu_lower_p196_left/11_村松少參事小野但見.jpg",
+      "x": 1928,
+      "y": 2933,
+      "w": 90,
+      "h": 578
+    },
+    {
+      "ident": "村松權少參事",
+      "crop_path": "crops/muramatsu_lower_p196_left/12_村松權少參事.jpg",
+      "x": 1829,
+      "y": 1000,
+      "w": 93,
+      "h": 579
+    },
+    {
+      "ident": "村松權少參事小玉收輔",
+      "crop_path": "crops/muramatsu_lower_p196_left/13_村松權少參事小玉收輔.jpg",
+      "x": 1809,
+      "y": 2010,
+      "w": 88,
+      "h": 583
+    },
+    {
+      "ident": "村松兵隊",
+      "crop_path": "crops/muramatsu_lower_p196_left/14_村松兵隊.jpg",
+      "x": 1695,
+      "y": 999,
+      "w": 96,
+      "h": 662
+    },
+    {
+      "ident": "○村岡藩",
+      "crop_path": "crops/muramatsu_lower_p196_left/15_村岡藩.jpg",
+      "x": 1549,
+      "y": 1337,
+      "w": 107,
+      "h": 553
+    },
+    {
+      "ident": "村岡大參事",
+      "crop_path": "crops/muramatsu_lower_p196_left/16_村岡大參事.jpg",
+      "x": 1427,
+      "y": 998,
+      "w": 90,
+      "h": 579
+    },
+    {
+      "ident": "村岡權大參事",
+      "crop_path": "crops/muramatsu_lower_p196_left/17_村岡權大參事.jpg",
+      "x": 1298,
+      "y": 996,
+      "w": 87,
+      "h": 577
+    },
+    {
+      "ident": "村岡正權少參事",
+      "crop_path": "crops/muramatsu_lower_p196_left/18_村岡正權少參事.jpg",
+      "x": 1165,
+      "y": 996,
+      "w": 87,
+      "h": 660
+    },
+    {
+      "ident": "村岡兵隊",
+      "crop_path": "crops/muramatsu_lower_p196_left/19_村岡兵隊.jpg",
+      "x": 1011,
+      "y": 991,
+      "w": 120,
+      "h": 806
+    },
+    {
+      "ident": "藩制一覽表第九（村松、村岡）",
+      "crop_path": "crops/muramatsu_lower_p196_left/20_藩制一覽表第九_村松_村岡.jpg",
+      "x": 903,
+      "y": 1240,
+      "w": 76,
+      "h": 708
+    },
+    {
+      "ident": "三百六十九",
+      "crop_path": "crops/muramatsu_lower_p196_left/21_三百六十九.jpg",
+      "x": 883,
+      "y": 3088,
+      "w": 68,
+      "h": 266
+    }
+  ],
   "muramatsu_upper_p167_left": [
     {
       "ident": "藩制一覽表第四（村松）",
@@ -78799,6 +81449,256 @@
       "h": 938
     }
   ],
+  "nakatsu_lower_p193_left": [
+    {
+      "ident": "○中津藩",
+      "crop_path": "crops/nakatsu_lower_p193_left/00_中津藩.jpg",
+      "x": 2554,
+      "y": 1327,
+      "w": 106,
+      "h": 565
+    },
+    {
+      "ident": "中津藩官員",
+      "crop_path": "crops/nakatsu_lower_p193_left/01_中津藩官員.jpg",
+      "x": 2433,
+      "y": 989,
+      "w": 92,
+      "h": 507
+    },
+    {
+      "ident": "中津藩兵隊",
+      "crop_path": "crops/nakatsu_lower_p193_left/02_中津藩兵隊.jpg",
+      "x": 2275,
+      "y": 994,
+      "w": 126,
+      "h": 816
+    },
+    {
+      "ident": "中津大參事",
+      "crop_path": "crops/nakatsu_lower_p193_left/03_中津大參事.jpg",
+      "x": 2159,
+      "y": 998,
+      "w": 91,
+      "h": 248
+    },
+    {
+      "ident": "中津大參事奧平惺學",
+      "crop_path": "crops/nakatsu_lower_p193_left/04_中津大參事奧平惺學.jpg",
+      "x": 2150,
+      "y": 1583,
+      "w": 89,
+      "h": 586
+    },
+    {
+      "ident": "中津大參事生田實",
+      "crop_path": "crops/nakatsu_lower_p193_left/05_中津大參事生田實.jpg",
+      "x": 2142,
+      "y": 2257,
+      "w": 93,
+      "h": 588
+    },
+    {
+      "ident": "中津大參事山崎直衞",
+      "crop_path": "crops/nakatsu_lower_p193_left/06_中津大參事山崎直衞.jpg",
+      "x": 2139,
+      "y": 2926,
+      "w": 89,
+      "h": 589
+    },
+    {
+      "ident": "中津大參事逸見志馬",
+      "crop_path": "crops/nakatsu_lower_p193_left/07_中津大參事逸見志馬.jpg",
+      "x": 2019,
+      "y": 1584,
+      "w": 90,
+      "h": 585
+    },
+    {
+      "ident": "中津大參事桑名豐山",
+      "crop_path": "crops/nakatsu_lower_p193_left/08_中津大參事桑名豐山.jpg",
+      "x": 2014,
+      "y": 2258,
+      "w": 86,
+      "h": 586
+    },
+    {
+      "ident": "中津權大參事",
+      "crop_path": "crops/nakatsu_lower_p193_left/09_中津權大參事.jpg",
+      "x": 1891,
+      "y": 998,
+      "w": 87,
+      "h": 337
+    },
+    {
+      "ident": "中津權大參事岡見半太夫",
+      "crop_path": "crops/nakatsu_lower_p193_left/10_中津權大參事岡見半太夫.jpg",
+      "x": 1883,
+      "y": 1584,
+      "w": 87,
+      "h": 589
+    },
+    {
+      "ident": "中津權大參事奧平吉左衞門",
+      "crop_path": "crops/nakatsu_lower_p193_left/11_中津權大參事奧平吉左衞門.jpg",
+      "x": 1878,
+      "y": 2257,
+      "w": 88,
+      "h": 584
+    },
+    {
+      "ident": "中津權大參事西尾次郎右衞門",
+      "crop_path": "crops/nakatsu_lower_p193_left/12_中津權大參事西尾次郎右衞門.jpg",
+      "x": 1870,
+      "y": 2931,
+      "w": 89,
+      "h": 586
+    },
+    {
+      "ident": "中津權大參事猪飼太兵衞",
+      "crop_path": "crops/nakatsu_lower_p193_left/13_中津權大參事猪飼太兵衞.jpg",
+      "x": 1751,
+      "y": 1588,
+      "w": 88,
+      "h": 587
+    },
+    {
+      "ident": "中津權大參事鈴木力兵衞",
+      "crop_path": "crops/nakatsu_lower_p193_left/14_中津權大參事鈴木力兵衞.jpg",
+      "x": 1742,
+      "y": 2260,
+      "w": 93,
+      "h": 587
+    },
+    {
+      "ident": "中津少參事",
+      "crop_path": "crops/nakatsu_lower_p193_left/15_中津少參事.jpg",
+      "x": 1622,
+      "y": 1000,
+      "w": 90,
+      "h": 250
+    },
+    {
+      "ident": "中津少參事佐竹四郎左衞門",
+      "crop_path": "crops/nakatsu_lower_p193_left/16_中津少參事佐竹四郎左衞門.jpg",
+      "x": 1615,
+      "y": 1586,
+      "w": 90,
+      "h": 586
+    },
+    {
+      "ident": "中津少參事牟禮源太郎",
+      "crop_path": "crops/nakatsu_lower_p193_left/17_中津少參事牟禮源太郎.jpg",
+      "x": 1612,
+      "y": 2259,
+      "w": 91,
+      "h": 588
+    },
+    {
+      "ident": "中津少參事菅沼新五右衞門",
+      "crop_path": "crops/nakatsu_lower_p193_left/18_中津少參事菅沼新五右衞門.jpg",
+      "x": 1606,
+      "y": 2934,
+      "w": 88,
+      "h": 587
+    },
+    {
+      "ident": "中津少參事福田清兵衞",
+      "crop_path": "crops/nakatsu_lower_p193_left/19_中津少參事福田清兵衞.jpg",
+      "x": 1481,
+      "y": 1589,
+      "w": 86,
+      "h": 591
+    },
+    {
+      "ident": "中津少參事日下田孫八",
+      "crop_path": "crops/nakatsu_lower_p193_left/20_中津少參事日下田孫八.jpg",
+      "x": 1471,
+      "y": 2266,
+      "w": 99,
+      "h": 587
+    },
+    {
+      "ident": "○中村藩",
+      "crop_path": "crops/nakatsu_lower_p193_left/21_中村藩.jpg",
+      "x": 1338,
+      "y": 1337,
+      "w": 107,
+      "h": 565
+    },
+    {
+      "ident": "中村大參事",
+      "crop_path": "crops/nakatsu_lower_p193_left/22_中村大參事.jpg",
+      "x": 1216,
+      "y": 1002,
+      "w": 88,
+      "h": 251
+    },
+    {
+      "ident": "中村大參事泉田文庫",
+      "crop_path": "crops/nakatsu_lower_p193_left/23_中村大參事泉田文庫.jpg",
+      "x": 1205,
+      "y": 2006,
+      "w": 92,
+      "h": 588
+    },
+    {
+      "ident": "中村權大參事",
+      "crop_path": "crops/nakatsu_lower_p193_left/24_中村權大參事.jpg",
+      "x": 1080,
+      "y": 1004,
+      "w": 88,
+      "h": 337
+    },
+    {
+      "ident": "中村權大參事大浦庄右衞門",
+      "crop_path": "crops/nakatsu_lower_p193_left/25_中村權大參事大浦庄右衞門.jpg",
+      "x": 1072,
+      "y": 2014,
+      "w": 89,
+      "h": 587
+    },
+    {
+      "ident": "中村權大參事岡部正藏",
+      "crop_path": "crops/nakatsu_lower_p193_left/26_中村權大參事岡部正藏.jpg",
+      "x": 1064,
+      "y": 2937,
+      "w": 88,
+      "h": 588
+    },
+    {
+      "ident": "中村少參事",
+      "crop_path": "crops/nakatsu_lower_p193_left/27_中村少參事.jpg",
+      "x": 947,
+      "y": 1009,
+      "w": 89,
+      "h": 250
+    },
+    {
+      "ident": "中村少參事多田部楯太郎",
+      "crop_path": "crops/nakatsu_lower_p193_left/28_中村少參事多田部楯太郎.jpg",
+      "x": 939,
+      "y": 2016,
+      "w": 87,
+      "h": 588
+    },
+    {
+      "ident": "藩制一覽表第九（中津、中村）",
+      "crop_path": "crops/nakatsu_lower_p193_left/29_藩制一覽表第九_中津_中村.jpg",
+      "x": 822,
+      "y": 1265,
+      "w": 78,
+      "h": 709
+    },
+    {
+      "ident": "三百六十三",
+      "crop_path": "crops/nakatsu_lower_p193_left/30_三百六十三.jpg",
+      "x": 810,
+      "y": 3110,
+      "w": 75,
+      "h": 266
+    }
+  ],
   "nakatsu_officials_military": [
     {
       "ident": "藩制一覽表第九 （中津、中村） page header",
@@ -79081,6 +81981,160 @@
       "y": 1113,
       "w": 64,
       "h": 914
+    }
+  ],
+  "nanokaichi_lower_p195_left": [
+    {
+      "ident": "大參事（苗木）",
+      "crop_path": "crops/nanokaichi_lower_p195_left/00_大參事_苗木.jpg",
+      "x": 2602,
+      "y": 993,
+      "w": 90,
+      "h": 2170
+    },
+    {
+      "ident": "權大參事（苗木）",
+      "crop_path": "crops/nanokaichi_lower_p195_left/01_權大參事_苗木.jpg",
+      "x": 2469,
+      "y": 992,
+      "w": 87,
+      "h": 2178
+    },
+    {
+      "ident": "少參事（苗木）",
+      "crop_path": "crops/nanokaichi_lower_p195_left/02_少參事_苗木.jpg",
+      "x": 2340,
+      "y": 996,
+      "w": 72,
+      "h": 2173
+    },
+    {
+      "ident": "少參事校異註（一ニ小池煒）（苗木藩分）",
+      "crop_path": "crops/nanokaichi_lower_p195_left/03_少參事校異註_一ニ小池煒_苗木藩分.jpg",
+      "x": 2414,
+      "y": 1445,
+      "w": 53,
+      "h": 376
+    },
+    {
+      "ident": "權大參事校異註（一ニ宮地貴巳）（苗木藩分）",
+      "crop_path": "crops/nanokaichi_lower_p195_left/04_權大參事校異註_一ニ宮地貴巳_苗木藩分.jpg",
+      "x": 2335,
+      "y": 3172,
+      "w": 137,
+      "h": 485
+    },
+    {
+      "ident": "權少參事（苗木）",
+      "crop_path": "crops/nanokaichi_lower_p195_left/05_權少參事_苗木.jpg",
+      "x": 2203,
+      "y": 995,
+      "w": 90,
+      "h": 2177
+    },
+    {
+      "ident": "權少參事次列（苗木）",
+      "crop_path": "crops/nanokaichi_lower_p195_left/06_權少參事次列_苗木.jpg",
+      "x": 2073,
+      "y": 1666,
+      "w": 83,
+      "h": 1505
+    },
+    {
+      "ident": "兵隊（苗木）",
+      "crop_path": "crops/nanokaichi_lower_p195_left/07_兵隊_苗木.jpg",
+      "x": 1941,
+      "y": 998,
+      "w": 82,
+      "h": 580
+    },
+    {
+      "ident": "權少參事校異註（一ニ宮地正武）（苗木藩分）",
+      "crop_path": "crops/nanokaichi_lower_p195_left/08_權少參事校異註_一ニ宮地正武_苗木藩分.jpg",
+      "x": 1920,
+      "y": 2271,
+      "w": 118,
+      "h": 1003
+    },
+    {
+      "ident": "生兵（苗木）",
+      "crop_path": "crops/nanokaichi_lower_p195_left/09_生兵_苗木.jpg",
+      "x": 1807,
+      "y": 1001,
+      "w": 84,
+      "h": 575
+    },
+    {
+      "ident": "生兵註記（苗木）",
+      "crop_path": "crops/nanokaichi_lower_p195_left/10_生兵註記_苗木.jpg",
+      "x": 1788,
+      "y": 1586,
+      "w": 118,
+      "h": 599
+    },
+    {
+      "ident": "藩名標識（○七日市藩）",
+      "crop_path": "crops/nanokaichi_lower_p195_left/11_藩名標識_七日市藩.jpg",
+      "x": 1661,
+      "y": 1337,
+      "w": 102,
+      "h": 604
+    },
+    {
+      "ident": "大參事七日市",
+      "crop_path": "crops/nanokaichi_lower_p195_left/12_大參事七日市.jpg",
+      "x": 1544,
+      "y": 1005,
+      "w": 88,
+      "h": 1587
+    },
+    {
+      "ident": "權大參事七日市",
+      "crop_path": "crops/nanokaichi_lower_p195_left/13_權大參事七日市.jpg",
+      "x": 1406,
+      "y": 1005,
+      "w": 92,
+      "h": 2509
+    },
+    {
+      "ident": "權大參事次列（七日市）",
+      "crop_path": "crops/nanokaichi_lower_p195_left/14_權大參事次列_七日市.jpg",
+      "x": 1278,
+      "y": 2013,
+      "w": 83,
+      "h": 581
+    },
+    {
+      "ident": "公議人（七日市）",
+      "crop_path": "crops/nanokaichi_lower_p195_left/15_公議人_七日市.jpg",
+      "x": 1145,
+      "y": 1007,
+      "w": 86,
+      "h": 1589
+    },
+    {
+      "ident": "少參事七日市",
+      "crop_path": "crops/nanokaichi_lower_p195_left/16_少參事七日市.jpg",
+      "x": 1012,
+      "y": 1011,
+      "w": 87,
+      "h": 1583
+    },
+    {
+      "ident": "柱書（藩制一覽表第九）",
+      "crop_path": "crops/nanokaichi_lower_p195_left/17_柱書_藩制一覽表第九.jpg",
+      "x": 897,
+      "y": 1265,
+      "w": 71,
+      "h": 623
+    },
+    {
+      "ident": "丁付（三百六十七）",
+      "crop_path": "crops/nanokaichi_lower_p195_left/18_丁付_三百六十七.jpg",
+      "x": 891,
+      "y": 3108,
+      "w": 67,
+      "h": 262
     }
   ],
   "nanokaichi_upper_p165_right": [
@@ -98495,6 +101549,128 @@
       "h": 585
     }
   ],
+  "saga_lower_p227_right": [
+    {
+      "ident": "頁見出藩制一覽表第九（佐倉）",
+      "crop_path": "crops/saga_lower_p227_right/00_頁見出藩制一覽表第九_佐倉.jpg",
+      "x": 2190,
+      "y": 1276,
+      "w": 74,
+      "h": 579
+    },
+    {
+      "ident": "佐賀藩權大參事前山淸一郎",
+      "crop_path": "crops/saga_lower_p227_right/01_佐賀藩權大參事前山淸一郎.jpg",
+      "x": 2057,
+      "y": 1693,
+      "w": 87,
+      "h": 586
+    },
+    {
+      "ident": "佐賀藩少參事以下審ナラス",
+      "crop_path": "crops/saga_lower_p227_right/02_佐賀藩少參事以下審ナラス.jpg",
+      "x": 1919,
+      "y": 1193,
+      "w": 90,
+      "h": 738
+    },
+    {
+      "ident": "佐賀藩六大隊",
+      "crop_path": "crops/saga_lower_p227_right/03_佐賀藩六大隊.jpg",
+      "x": 1789,
+      "y": 1195,
+      "w": 87,
+      "h": 250
+    },
+    {
+      "ident": "佐賀藩內譯",
+      "crop_path": "crops/saga_lower_p227_right/04_佐賀藩內譯.jpg",
+      "x": 1655,
+      "y": 1199,
+      "w": 84,
+      "h": 164
+    },
+    {
+      "ident": "佐賀藩砲三十六門",
+      "crop_path": "crops/saga_lower_p227_right/05_佐賀藩砲三十六門.jpg",
+      "x": 1517,
+      "y": 1200,
+      "w": 86,
+      "h": 417
+    },
+    {
+      "ident": "佐賀藩士官員數",
+      "crop_path": "crops/saga_lower_p227_right/06_佐賀藩士官員數.jpg",
+      "x": 1387,
+      "y": 1289,
+      "w": 87,
+      "h": 669
+    },
+    {
+      "ident": "佐賀藩砲士人數",
+      "crop_path": "crops/saga_lower_p227_right/07_佐賀藩砲士人數.jpg",
+      "x": 1251,
+      "y": 1287,
+      "w": 88,
+      "h": 501
+    },
+    {
+      "ident": "佐賀藩兵士人數",
+      "crop_path": "crops/saga_lower_p227_right/08_佐賀藩兵士人數.jpg",
+      "x": 1115,
+      "y": 1290,
+      "w": 88,
+      "h": 669
+    },
+    {
+      "ident": "佐賀藩砲卒人數",
+      "crop_path": "crops/saga_lower_p227_right/09_佐賀藩砲卒人數.jpg",
+      "x": 977,
+      "y": 1289,
+      "w": 89,
+      "h": 417
+    },
+    {
+      "ident": "佐賀藩兵卒人數",
+      "crop_path": "crops/saga_lower_p227_right/10_佐賀藩兵卒人數.jpg",
+      "x": 842,
+      "y": 1289,
+      "w": 88,
+      "h": 586
+    },
+    {
+      "ident": "佐賀藩藥卒人數",
+      "crop_path": "crops/saga_lower_p227_right/11_佐賀藩藥卒人數.jpg",
+      "x": 706,
+      "y": 1291,
+      "w": 88,
+      "h": 503
+    },
+    {
+      "ident": "佐倉藩マル記號",
+      "crop_path": "crops/saga_lower_p227_right/12_佐倉藩マル記號.jpg",
+      "x": 566,
+      "y": 1377,
+      "w": 107,
+      "h": 566
+    },
+    {
+      "ident": "佐倉藩知事",
+      "crop_path": "crops/saga_lower_p227_right/13_佐倉藩知事.jpg",
+      "x": 440,
+      "y": 1291,
+      "w": 87,
+      "h": 167
+    },
+    {
+      "ident": "頁數四百三十（佐倉藩分）",
+      "crop_path": "crops/saga_lower_p227_right/14_頁數四百三十_佐倉藩分.jpg",
+      "x": 2191,
+      "y": 3122,
+      "w": 71,
+      "h": 219
+    }
+  ],
   "saga_military": [
     {
       "ident": "少参事以下書ナラス",
@@ -107555,6 +110731,264 @@
       "h": 537
     }
   ],
+  "shimabara_lower_p238_left": [
+    {
+      "ident": "少參事宮北鄕左衞門（新發田藩分）",
+      "crop_path": "crops/shimabara_lower_p238_left/00_少參事宮北鄕左衞門_新發田藩分.jpg",
+      "x": 2632,
+      "y": 988,
+      "w": 101,
+      "h": 1007
+    },
+    {
+      "ident": "少參事梶彈右衞門（新發田藩分）",
+      "crop_path": "crops/shimabara_lower_p238_left/01_少參事梶彈右衞門_新發田藩分.jpg",
+      "x": 2619,
+      "y": 2162,
+      "w": 93,
+      "h": 590
+    },
+    {
+      "ident": "少參事里村縫殿（新發田藩分）",
+      "crop_path": "crops/shimabara_lower_p238_left/02_少參事里村縫殿_新發田藩分.jpg",
+      "x": 2606,
+      "y": 2925,
+      "w": 94,
+      "h": 583
+    },
+    {
+      "ident": "少參事三浦彦太夫（新發田藩分）",
+      "crop_path": "crops/shimabara_lower_p238_left/03_少參事三浦彦太夫_新發田藩分.jpg",
+      "x": 2498,
+      "y": 1408,
+      "w": 92,
+      "h": 588
+    },
+    {
+      "ident": "權少參事佐藤八右衞門（新發田藩分）",
+      "crop_path": "crops/shimabara_lower_p238_left/04_權少參事佐藤八右衞門_新發田藩分.jpg",
+      "x": 2364,
+      "y": 985,
+      "w": 104,
+      "h": 1005
+    },
+    {
+      "ident": "權少參事久米三左衞門（新發田藩分）",
+      "crop_path": "crops/shimabara_lower_p238_left/05_權少參事久米三左衞門_新發田藩分.jpg",
+      "x": 2353,
+      "y": 2159,
+      "w": 92,
+      "h": 588
+    },
+    {
+      "ident": "權少參事七里作左衞門（新發田藩分）",
+      "crop_path": "crops/shimabara_lower_p238_left/06_權少參事七里作左衞門_新發田藩分.jpg",
+      "x": 2337,
+      "y": 2918,
+      "w": 93,
+      "h": 583
+    },
+    {
+      "ident": "權少參事寺田惣次郎（新發田藩分）",
+      "crop_path": "crops/shimabara_lower_p238_left/07_權少參事寺田惣次郎_新發田藩分.jpg",
+      "x": 2234,
+      "y": 1403,
+      "w": 91,
+      "h": 587
+    },
+    {
+      "ident": "權少參事山崎重三郎（新發田藩分）",
+      "crop_path": "crops/shimabara_lower_p238_left/08_權少參事山崎重三郎_新發田藩分.jpg",
+      "x": 2221,
+      "y": 2159,
+      "w": 85,
+      "h": 591
+    },
+    {
+      "ident": "權少參事寺田與一郎（新發田藩分）",
+      "crop_path": "crops/shimabara_lower_p238_left/09_權少參事寺田與一郎_新發田藩分.jpg",
+      "x": 2209,
+      "y": 2920,
+      "w": 88,
+      "h": 585
+    },
+    {
+      "ident": "權少參事相馬作左衞門（新發田藩分）",
+      "crop_path": "crops/shimabara_lower_p238_left/10_權少參事相馬作左衞門_新發田藩分.jpg",
+      "x": 2096,
+      "y": 1405,
+      "w": 93,
+      "h": 582
+    },
+    {
+      "ident": "權少參事山田吉太郎（新發田藩分）",
+      "crop_path": "crops/shimabara_lower_p238_left/11_權少參事山田吉太郎_新發田藩分.jpg",
+      "x": 2086,
+      "y": 2160,
+      "w": 87,
+      "h": 587
+    },
+    {
+      "ident": "權少參事三宅助三郎（新發田藩分）",
+      "crop_path": "crops/shimabara_lower_p238_left/12_權少參事三宅助三郎_新發田藩分.jpg",
+      "x": 2074,
+      "y": 2919,
+      "w": 87,
+      "h": 586
+    },
+    {
+      "ident": "權少參事富樫萬吉（新發田藩分）",
+      "crop_path": "crops/shimabara_lower_p238_left/13_權少參事富樫萬吉_新發田藩分.jpg",
+      "x": 1962,
+      "y": 1396,
+      "w": 97,
+      "h": 590
+    },
+    {
+      "ident": "權少參事速水織衞（新發田藩分）",
+      "crop_path": "crops/shimabara_lower_p238_left/14_權少參事速水織衞_新發田藩分.jpg",
+      "x": 1947,
+      "y": 2158,
+      "w": 96,
+      "h": 589
+    },
+    {
+      "ident": "權少參事遠藤勇二郎（新發田藩分）",
+      "crop_path": "crops/shimabara_lower_p238_left/15_權少參事遠藤勇二郎_新發田藩分.jpg",
+      "x": 1936,
+      "y": 2918,
+      "w": 95,
+      "h": 584
+    },
+    {
+      "ident": "新發田步兵三大隊",
+      "crop_path": "crops/shimabara_lower_p238_left/16_新發田步兵三大隊.jpg",
+      "x": 1834,
+      "y": 982,
+      "w": 97,
+      "h": 504
+    },
+    {
+      "ident": "新發田步兵一小隊六十人註",
+      "crop_path": "crops/shimabara_lower_p238_left/17_新發田步兵一小隊六十人註.jpg",
+      "x": 1834,
+      "y": 1504,
+      "w": 97,
+      "h": 396
+    },
+    {
+      "ident": "新發田步兵八小隊一大隊註",
+      "crop_path": "crops/shimabara_lower_p238_left/18_新發田步兵八小隊一大隊註.jpg",
+      "x": 1833,
+      "y": 1974,
+      "w": 80,
+      "h": 673
+    },
+    {
+      "ident": "新發田砲兵二百人",
+      "crop_path": "crops/shimabara_lower_p238_left/19_新發田砲兵二百人.jpg",
+      "x": 1700,
+      "y": 978,
+      "w": 98,
+      "h": 502
+    },
+    {
+      "ident": "嶋原藩丸印標記",
+      "crop_path": "crops/shimabara_lower_p238_left/20_嶋原藩丸印標記.jpg",
+      "x": 1549,
+      "y": 1321,
+      "w": 108,
+      "h": 563
+    },
+    {
+      "ident": "嶋原大少參事八人",
+      "crop_path": "crops/shimabara_lower_p238_left/21_嶋原大少參事八人.jpg",
+      "x": 1427,
+      "y": 979,
+      "w": 97,
+      "h": 585
+    },
+    {
+      "ident": "嶋原常備兵四小隊",
+      "crop_path": "crops/shimabara_lower_p238_left/22_嶋原常備兵四小隊.jpg",
+      "x": 1292,
+      "y": 974,
+      "w": 93,
+      "h": 586
+    },
+    {
+      "ident": "嶋原常備兵割註",
+      "crop_path": "crops/shimabara_lower_p238_left/23_嶋原常備兵割註.jpg",
+      "x": 1256,
+      "y": 1564,
+      "w": 137,
+      "h": 411
+    },
+    {
+      "ident": "嶋原大參事松平定衞",
+      "crop_path": "crops/shimabara_lower_p238_left/24_嶋原大參事松平定衞.jpg",
+      "x": 1256,
+      "y": 2322,
+      "w": 104,
+      "h": 1177
+    },
+    {
+      "ident": "嶋原豫備七小隊",
+      "crop_path": "crops/shimabara_lower_p238_left/25_嶋原豫備七小隊.jpg",
+      "x": 1155,
+      "y": 973,
+      "w": 94,
+      "h": 589
+    },
+    {
+      "ident": "嶋原大參事澁川勝廸",
+      "crop_path": "crops/shimabara_lower_p238_left/26_嶋原大參事澁川勝廸.jpg",
+      "x": 1121,
+      "y": 2909,
+      "w": 91,
+      "h": 588
+    },
+    {
+      "ident": "嶋原炮隊三隊",
+      "crop_path": "crops/shimabara_lower_p238_left/27_嶋原炮隊三隊.jpg",
+      "x": 1026,
+      "y": 970,
+      "w": 91,
+      "h": 504
+    },
+    {
+      "ident": "嶋原炮隊一隊二十人註",
+      "crop_path": "crops/shimabara_lower_p238_left/28_嶋原炮隊一隊二十人註.jpg",
+      "x": 1034,
+      "y": 1493,
+      "w": 76,
+      "h": 322
+    },
+    {
+      "ident": "嶋原權大參事眞田幸成",
+      "crop_path": "crops/shimabara_lower_p238_left/29_嶋原權大參事眞田幸成.jpg",
+      "x": 991,
+      "y": 2325,
+      "w": 103,
+      "h": 1169
+    },
+    {
+      "ident": "版心藩制一覽表第九島原",
+      "crop_path": "crops/shimabara_lower_p238_left/30_版心藩制一覽表第九島原.jpg",
+      "x": 899,
+      "y": 1228,
+      "w": 82,
+      "h": 579
+    },
+    {
+      "ident": "丁付四百五十三",
+      "crop_path": "crops/shimabara_lower_p238_left/31_丁付四百五十三.jpg",
+      "x": 873,
+      "y": 3071,
+      "w": 71,
+      "h": 265
+    }
+  ],
   "shimodate_lower_p088_left": [
     {
       "ident": "穢多戸數（新宮藩分）",
@@ -111321,6 +114755,328 @@
       "y": 3124,
       "w": 72,
       "h": 251
+    }
+  ],
+  "shizuoka_lower_p238_right": [
+    {
+      "ident": "頁頭藩制一覽表第九新發田",
+      "crop_path": "crops/shizuoka_lower_p238_right/00_頁頭藩制一覽表第九新發田.jpg",
+      "x": 2222,
+      "y": 1296,
+      "w": 82,
+      "h": 630
+    },
+    {
+      "ident": "本書頁番号四百五十二",
+      "crop_path": "crops/shizuoka_lower_p238_right/01_本書頁番号四百五十二.jpg",
+      "x": 2222,
+      "y": 3137,
+      "w": 82,
+      "h": 257
+    },
+    {
+      "ident": "靜岡平岡四郎",
+      "crop_path": "crops/shizuoka_lower_p238_right/02_靜岡平岡四郎.jpg",
+      "x": 2091,
+      "y": 1459,
+      "w": 92,
+      "h": 581
+    },
+    {
+      "ident": "靜岡小栗尚三",
+      "crop_path": "crops/shizuoka_lower_p238_right/03_靜岡小栗尚三.jpg",
+      "x": 2091,
+      "y": 2218,
+      "w": 92,
+      "h": 571
+    },
+    {
+      "ident": "靜岡藤澤長太郎",
+      "crop_path": "crops/shizuoka_lower_p238_right/04_靜岡藤澤長太郎.jpg",
+      "x": 2091,
+      "y": 2969,
+      "w": 92,
+      "h": 583
+    },
+    {
+      "ident": "靜岡江原素六",
+      "crop_path": "crops/shizuoka_lower_p238_right/05_靜岡江原素六.jpg",
+      "x": 1957,
+      "y": 1458,
+      "w": 93,
+      "h": 582
+    },
+    {
+      "ident": "靜岡大久保樫軒",
+      "crop_path": "crops/shizuoka_lower_p238_right/06_靜岡大久保樫軒.jpg",
+      "x": 1957,
+      "y": 2215,
+      "w": 93,
+      "h": 581
+    },
+    {
+      "ident": "靜岡中臺信太郎",
+      "crop_path": "crops/shizuoka_lower_p238_right/07_靜岡中臺信太郎.jpg",
+      "x": 1957,
+      "y": 2973,
+      "w": 93,
+      "h": 581
+    },
+    {
+      "ident": "靜岡向山黄村",
+      "crop_path": "crops/shizuoka_lower_p238_right/08_靜岡向山黄村.jpg",
+      "x": 1826,
+      "y": 1453,
+      "w": 90,
+      "h": 585
+    },
+    {
+      "ident": "靜岡河田熙",
+      "crop_path": "crops/shizuoka_lower_p238_right/09_靜岡河田熙.jpg",
+      "x": 1826,
+      "y": 2214,
+      "w": 90,
+      "h": 582
+    },
+    {
+      "ident": "靜岡朝倉藤十郎",
+      "crop_path": "crops/shizuoka_lower_p238_right/10_靜岡朝倉藤十郎.jpg",
+      "x": 1826,
+      "y": 2969,
+      "w": 90,
+      "h": 584
+    },
+    {
+      "ident": "靜岡權少參事欄",
+      "crop_path": "crops/shizuoka_lower_p238_right/11_靜岡權少參事欄.jpg",
+      "x": 1693,
+      "y": 1039,
+      "w": 102,
+      "h": 331
+    },
+    {
+      "ident": "靜岡杉浦八郎五郎",
+      "crop_path": "crops/shizuoka_lower_p238_right/12_靜岡杉浦八郎五郎.jpg",
+      "x": 1693,
+      "y": 1463,
+      "w": 102,
+      "h": 579
+    },
+    {
+      "ident": "靜岡小林庄次郎",
+      "crop_path": "crops/shizuoka_lower_p238_right/13_靜岡小林庄次郎.jpg",
+      "x": 1693,
+      "y": 2219,
+      "w": 102,
+      "h": 582
+    },
+    {
+      "ident": "靜岡矢田堀喜六",
+      "crop_path": "crops/shizuoka_lower_p238_right/14_靜岡矢田堀喜六.jpg",
+      "x": 1693,
+      "y": 2972,
+      "w": 102,
+      "h": 581
+    },
+    {
+      "ident": "靜岡今堀登代太郎",
+      "crop_path": "crops/shizuoka_lower_p238_right/15_靜岡今堀登代太郎.jpg",
+      "x": 1563,
+      "y": 1455,
+      "w": 95,
+      "h": 583
+    },
+    {
+      "ident": "靜岡石川周二",
+      "crop_path": "crops/shizuoka_lower_p238_right/16_靜岡石川周二.jpg",
+      "x": 1563,
+      "y": 2215,
+      "w": 95,
+      "h": 573
+    },
+    {
+      "ident": "靜岡依田素一",
+      "crop_path": "crops/shizuoka_lower_p238_right/17_靜岡依田素一.jpg",
+      "x": 1563,
+      "y": 2971,
+      "w": 95,
+      "h": 555
+    },
+    {
+      "ident": "靜岡淵邊德藏",
+      "crop_path": "crops/shizuoka_lower_p238_right/18_靜岡淵邊德藏.jpg",
+      "x": 1427,
+      "y": 1459,
+      "w": 90,
+      "h": 582
+    },
+    {
+      "ident": "靜岡川上服二郎",
+      "crop_path": "crops/shizuoka_lower_p238_right/19_靜岡川上服二郎.jpg",
+      "x": 1427,
+      "y": 2215,
+      "w": 90,
+      "h": 581
+    },
+    {
+      "ident": "靜岡高力晴江",
+      "crop_path": "crops/shizuoka_lower_p238_right/20_靜岡高力晴江.jpg",
+      "x": 1427,
+      "y": 2973,
+      "w": 90,
+      "h": 579
+    },
+    {
+      "ident": "靜岡中村勘作",
+      "crop_path": "crops/shizuoka_lower_p238_right/21_靜岡中村勘作.jpg",
+      "x": 1288,
+      "y": 1457,
+      "w": 108,
+      "h": 581
+    },
+    {
+      "ident": "靜岡多田銑三郎",
+      "crop_path": "crops/shizuoka_lower_p238_right/22_靜岡多田銑三郎.jpg",
+      "x": 1288,
+      "y": 2214,
+      "w": 108,
+      "h": 579
+    },
+    {
+      "ident": "靜岡福岡久",
+      "crop_path": "crops/shizuoka_lower_p238_right/23_靜岡福岡久.jpg",
+      "x": 1288,
+      "y": 2969,
+      "w": 108,
+      "h": 584
+    },
+    {
+      "ident": "靜岡根立蘆水",
+      "crop_path": "crops/shizuoka_lower_p238_right/24_靜岡根立蘆水.jpg",
+      "x": 1157,
+      "y": 1457,
+      "w": 95,
+      "h": 582
+    },
+    {
+      "ident": "靜岡深山宇平太",
+      "crop_path": "crops/shizuoka_lower_p238_right/25_靜岡深山宇平太.jpg",
+      "x": 1157,
+      "y": 2217,
+      "w": 95,
+      "h": 577
+    },
+    {
+      "ident": "靜岡宮田文吾",
+      "crop_path": "crops/shizuoka_lower_p238_right/26_靜岡宮田文吾.jpg",
+      "x": 1157,
+      "y": 2973,
+      "w": 95,
+      "h": 584
+    },
+    {
+      "ident": "靜岡宮重丹下",
+      "crop_path": "crops/shizuoka_lower_p238_right/27_靜岡宮重丹下.jpg",
+      "x": 1017,
+      "y": 1459,
+      "w": 104,
+      "h": 582
+    },
+    {
+      "ident": "靜岡西吉十郎",
+      "crop_path": "crops/shizuoka_lower_p238_right/28_靜岡西吉十郎.jpg",
+      "x": 1017,
+      "y": 2216,
+      "w": 104,
+      "h": 580
+    },
+    {
+      "ident": "靜岡牧野田三",
+      "crop_path": "crops/shizuoka_lower_p238_right/29_靜岡牧野田三.jpg",
+      "x": 1017,
+      "y": 2970,
+      "w": 104,
+      "h": 580
+    },
+    {
+      "ident": "靜岡小林甚六郎",
+      "crop_path": "crops/shizuoka_lower_p238_right/30_靜岡小林甚六郎.jpg",
+      "x": 892,
+      "y": 1463,
+      "w": 88,
+      "h": 580
+    },
+    {
+      "ident": "靜岡石川渡",
+      "crop_path": "crops/shizuoka_lower_p238_right/31_靜岡石川渡.jpg",
+      "x": 892,
+      "y": 2222,
+      "w": 88,
+      "h": 579
+    },
+    {
+      "ident": "新發田藩マル印",
+      "crop_path": "crops/shizuoka_lower_p238_right/32_新發田藩マル印.jpg",
+      "x": 755,
+      "y": 1371,
+      "w": 101,
+      "h": 605
+    },
+    {
+      "ident": "新發田大參事欄",
+      "crop_path": "crops/shizuoka_lower_p238_right/33_新發田大參事欄.jpg",
+      "x": 624,
+      "y": 1039,
+      "w": 91,
+      "h": 246
+    },
+    {
+      "ident": "新發田溝口伊織",
+      "crop_path": "crops/shizuoka_lower_p238_right/34_新發田溝口伊織.jpg",
+      "x": 624,
+      "y": 1442,
+      "w": 91,
+      "h": 578
+    },
+    {
+      "ident": "新發田窪田平兵衞",
+      "crop_path": "crops/shizuoka_lower_p238_right/35_新發田窪田平兵衞.jpg",
+      "x": 624,
+      "y": 2214,
+      "w": 91,
+      "h": 583
+    },
+    {
+      "ident": "新發田權大參事欄",
+      "crop_path": "crops/shizuoka_lower_p238_right/36_新發田權大參事欄.jpg",
+      "x": 480,
+      "y": 1042,
+      "w": 103,
+      "h": 330
+    },
+    {
+      "ident": "新發田溝口甚太郎",
+      "crop_path": "crops/shizuoka_lower_p238_right/37_新發田溝口甚太郎.jpg",
+      "x": 480,
+      "y": 1462,
+      "w": 103,
+      "h": 578
+    },
+    {
+      "ident": "新發田速水八彌",
+      "crop_path": "crops/shizuoka_lower_p238_right/38_新發田速水八彌.jpg",
+      "x": 480,
+      "y": 2214,
+      "w": 103,
+      "h": 580
+    },
+    {
+      "ident": "新發田溝口半兵衞",
+      "crop_path": "crops/shizuoka_lower_p238_right/39_新發田溝口半兵衞.jpg",
+      "x": 480,
+      "y": 2971,
+      "w": 103,
+      "h": 584
     }
   ],
   "shonai_lower_p149_right": [
@@ -135413,6 +139169,240 @@
       "h": 1683
     }
   ],
+  "tsuruga_lower_p192_left": [
+    {
+      "ident": "鶴牧藩權大參事靑木久兵衞",
+      "crop_path": "crops/tsuruga_lower_p192_left/00_鶴牧藩權大參事靑木久兵衞.jpg",
+      "x": 2605,
+      "y": 1992,
+      "w": 84,
+      "h": 593
+    },
+    {
+      "ident": "鶴牧藩少參事人數",
+      "crop_path": "crops/tsuruga_lower_p192_left/01_鶴牧藩少參事人數.jpg",
+      "x": 2482,
+      "y": 992,
+      "w": 86,
+      "h": 582
+    },
+    {
+      "ident": "鶴牧藩少參事石井文藏",
+      "crop_path": "crops/tsuruga_lower_p192_left/02_鶴牧藩少參事石井文藏.jpg",
+      "x": 2473,
+      "y": 2002,
+      "w": 84,
+      "h": 584
+    },
+    {
+      "ident": "鶴牧藩權少參事人數",
+      "crop_path": "crops/tsuruga_lower_p192_left/03_鶴牧藩權少參事人數.jpg",
+      "x": 2345,
+      "y": 990,
+      "w": 88,
+      "h": 580
+    },
+    {
+      "ident": "鶴牧藩權少參事豐田愼藏",
+      "crop_path": "crops/tsuruga_lower_p192_left/04_鶴牧藩權少參事豐田愼藏.jpg",
+      "x": 2338,
+      "y": 2000,
+      "w": 87,
+      "h": 583
+    },
+    {
+      "ident": "鶴牧藩權少參事大多和文平",
+      "crop_path": "crops/tsuruga_lower_p192_left/05_鶴牧藩權少參事大多和文平.jpg",
+      "x": 2326,
+      "y": 2922,
+      "w": 91,
+      "h": 582
+    },
+    {
+      "ident": "鶴牧藩權少參事小幡治兵衞",
+      "crop_path": "crops/tsuruga_lower_p192_left/06_鶴牧藩權少參事小幡治兵衞.jpg",
+      "x": 2202,
+      "y": 2001,
+      "w": 89,
+      "h": 584
+    },
+    {
+      "ident": "鶴牧藩權少參事關甫",
+      "crop_path": "crops/tsuruga_lower_p192_left/07_鶴牧藩權少參事關甫.jpg",
+      "x": 2195,
+      "y": 2923,
+      "w": 84,
+      "h": 582
+    },
+    {
+      "ident": "鶴牧藩權少參事本多要",
+      "crop_path": "crops/tsuruga_lower_p192_left/08_鶴牧藩權少參事本多要.jpg",
+      "x": 2069,
+      "y": 2001,
+      "w": 91,
+      "h": 584
+    },
+    {
+      "ident": "鶴牧藩兵隊",
+      "crop_path": "crops/tsuruga_lower_p192_left/09_鶴牧藩兵隊.jpg",
+      "x": 1942,
+      "y": 993,
+      "w": 86,
+      "h": 649
+    },
+    {
+      "ident": "敦賀藩マル印",
+      "crop_path": "crops/tsuruga_lower_p192_left/10_敦賀藩マル印.jpg",
+      "x": 1795,
+      "y": 1329,
+      "w": 105,
+      "h": 563
+    },
+    {
+      "ident": "敦賀藩大參事職名",
+      "crop_path": "crops/tsuruga_lower_p192_left/11_敦賀藩大參事職名.jpg",
+      "x": 1676,
+      "y": 996,
+      "w": 84,
+      "h": 248
+    },
+    {
+      "ident": "敦賀藩大參事寺町四郎左衞門",
+      "crop_path": "crops/tsuruga_lower_p192_left/12_敦賀藩大參事寺町四郎左衞門.jpg",
+      "x": 1666,
+      "y": 2003,
+      "w": 87,
+      "h": 579
+    },
+    {
+      "ident": "敦賀藩權少參事職名",
+      "crop_path": "crops/tsuruga_lower_p192_left/13_敦賀藩權少參事職名.jpg",
+      "x": 1660,
+      "y": 2757,
+      "w": 84,
+      "h": 333
+    },
+    {
+      "ident": "敦賀藩權大參事職名",
+      "crop_path": "crops/tsuruga_lower_p192_left/14_敦賀藩權大參事職名.jpg",
+      "x": 1542,
+      "y": 995,
+      "w": 84,
+      "h": 332
+    },
+    {
+      "ident": "敦賀藩權大參事寺町元之進",
+      "crop_path": "crops/tsuruga_lower_p192_left/15_敦賀藩權大參事寺町元之進.jpg",
+      "x": 1532,
+      "y": 2004,
+      "w": 86,
+      "h": 582
+    },
+    {
+      "ident": "敦賀藩權少參事三浦多仲",
+      "crop_path": "crops/tsuruga_lower_p192_left/16_敦賀藩權少參事三浦多仲.jpg",
+      "x": 1521,
+      "y": 2929,
+      "w": 86,
+      "h": 579
+    },
+    {
+      "ident": "敦賀藩權大參事平山小太郎",
+      "crop_path": "crops/tsuruga_lower_p192_left/17_敦賀藩權大參事平山小太郎.jpg",
+      "x": 1400,
+      "y": 2003,
+      "w": 85,
+      "h": 583
+    },
+    {
+      "ident": "敦賀藩權少參事丹羽九十九",
+      "crop_path": "crops/tsuruga_lower_p192_left/18_敦賀藩權少參事丹羽九十九.jpg",
+      "x": 1388,
+      "y": 2924,
+      "w": 89,
+      "h": 585
+    },
+    {
+      "ident": "敦賀藩少參事職名上段",
+      "crop_path": "crops/tsuruga_lower_p192_left/19_敦賀藩少參事職名上段.jpg",
+      "x": 1275,
+      "y": 997,
+      "w": 87,
+      "h": 246
+    },
+    {
+      "ident": "敦賀藩少參事眞田五郎左衞門",
+      "crop_path": "crops/tsuruga_lower_p192_left/20_敦賀藩少參事眞田五郎左衞門.jpg",
+      "x": 1265,
+      "y": 2000,
+      "w": 87,
+      "h": 583
+    },
+    {
+      "ident": "敦賀藩少參事職名下段",
+      "crop_path": "crops/tsuruga_lower_p192_left/21_敦賀藩少參事職名下段.jpg",
+      "x": 1258,
+      "y": 2760,
+      "w": 86,
+      "h": 247
+    },
+    {
+      "ident": "敦賀藩公用役兼註記",
+      "crop_path": "crops/tsuruga_lower_p192_left/22_敦賀藩公用役兼註記.jpg",
+      "x": 1150,
+      "y": 1667,
+      "w": 70,
+      "h": 267
+    },
+    {
+      "ident": "敦賀藩少參事永田新",
+      "crop_path": "crops/tsuruga_lower_p192_left/23_敦賀藩少參事永田新.jpg",
+      "x": 1129,
+      "y": 2005,
+      "w": 85,
+      "h": 582
+    },
+    {
+      "ident": "敦賀藩少參事加藤淸右衞門",
+      "crop_path": "crops/tsuruga_lower_p192_left/24_敦賀藩少參事加藤淸右衞門.jpg",
+      "x": 1120,
+      "y": 2927,
+      "w": 86,
+      "h": 582
+    },
+    {
+      "ident": "敦賀藩少參事都筑記鈕",
+      "crop_path": "crops/tsuruga_lower_p192_left/25_敦賀藩少參事都筑記鈕.jpg",
+      "x": 987,
+      "y": 2004,
+      "w": 94,
+      "h": 580
+    },
+    {
+      "ident": "敦賀藩加藤淸右衞門割註",
+      "crop_path": "crops/tsuruga_lower_p192_left/26_敦賀藩加藤淸右衞門割註.jpg",
+      "x": 964,
+      "y": 2676,
+      "w": 128,
+      "h": 751
+    },
+    {
+      "ident": "藩制一覽表第九敦賀柱書",
+      "crop_path": "crops/tsuruga_lower_p192_left/27_藩制一覽表第九敦賀柱書.jpg",
+      "x": 878,
+      "y": 1250,
+      "w": 72,
+      "h": 577
+    },
+    {
+      "ident": "版心丁付三百六十一",
+      "crop_path": "crops/tsuruga_lower_p192_left/28_版心丁付三百六十一.jpg",
+      "x": 860,
+      "y": 3096,
+      "w": 70,
+      "h": 245
+    }
+  ],
   "tsuruga_upper_p216_left": [
     {
       "ident": "込高",
@@ -135759,6 +139749,248 @@
       "y": 3181,
       "w": 70,
       "h": 165
+    }
+  ],
+  "tsurumai_lower_p192_right": [
+    {
+      "ident": "藩制一覽表第九標題",
+      "crop_path": "crops/tsurumai_lower_p192_right/00_藩制一覽表第九標題.jpg",
+      "x": 2174,
+      "y": 1258,
+      "w": 76,
+      "h": 703
+    },
+    {
+      "ident": "丁付三百六十",
+      "crop_path": "crops/tsurumai_lower_p192_right/01_丁付三百六十.jpg",
+      "x": 2153,
+      "y": 3099,
+      "w": 69,
+      "h": 213
+    },
+    {
+      "ident": "土浦杉村克己權大參事",
+      "crop_path": "crops/tsurumai_lower_p192_right/02_土浦杉村克己權大參事.jpg",
+      "x": 2038,
+      "y": 1138,
+      "w": 96,
+      "h": 920
+    },
+    {
+      "ident": "土浦依願免官附記",
+      "crop_path": "crops/tsurumai_lower_p192_right/03_土浦依願免官附記.jpg",
+      "x": 2008,
+      "y": 2146,
+      "w": 124,
+      "h": 947
+    },
+    {
+      "ident": "鶴舞藩丸印",
+      "crop_path": "crops/tsurumai_lower_p192_right/04_鶴舞藩丸印.jpg",
+      "x": 1892,
+      "y": 1343,
+      "w": 107,
+      "h": 561
+    },
+    {
+      "ident": "鶴舞大參事員數",
+      "crop_path": "crops/tsurumai_lower_p192_right/05_鶴舞大參事員數.jpg",
+      "x": 1773,
+      "y": 1002,
+      "w": 92,
+      "h": 581
+    },
+    {
+      "ident": "鶴舞大參事奧山脩",
+      "crop_path": "crops/tsurumai_lower_p192_right/06_鶴舞大參事奧山脩.jpg",
+      "x": 1765,
+      "y": 1756,
+      "w": 86,
+      "h": 418
+    },
+    {
+      "ident": "鶴舞大參事伏谷惇",
+      "crop_path": "crops/tsurumai_lower_p192_right/07_鶴舞大參事伏谷惇.jpg",
+      "x": 1757,
+      "y": 2348,
+      "w": 85,
+      "h": 414
+    },
+    {
+      "ident": "鶴舞權大參事員數",
+      "crop_path": "crops/tsurumai_lower_p192_right/08_鶴舞權大參事員數.jpg",
+      "x": 1645,
+      "y": 999,
+      "w": 89,
+      "h": 583
+    },
+    {
+      "ident": "鶴舞權大參事多川弘",
+      "crop_path": "crops/tsurumai_lower_p192_right/09_鶴舞權大參事多川弘.jpg",
+      "x": 1639,
+      "y": 1757,
+      "w": 79,
+      "h": 416
+    },
+    {
+      "ident": "鶴舞權大參事近藤寶",
+      "crop_path": "crops/tsurumai_lower_p192_right/10_鶴舞權大參事近藤寶.jpg",
+      "x": 1630,
+      "y": 2347,
+      "w": 84,
+      "h": 415
+    },
+    {
+      "ident": "鶴舞權大參事安部井尙",
+      "crop_path": "crops/tsurumai_lower_p192_right/11_鶴舞權大參事安部井尙.jpg",
+      "x": 1622,
+      "y": 2934,
+      "w": 84,
+      "h": 412
+    },
+    {
+      "ident": "鶴舞權大參事坂主靜",
+      "crop_path": "crops/tsurumai_lower_p192_right/12_鶴舞權大參事坂主靜.jpg",
+      "x": 1504,
+      "y": 1754,
+      "w": 84,
+      "h": 618
+    },
+    {
+      "ident": "鶴舞少參事員數",
+      "crop_path": "crops/tsurumai_lower_p192_right/13_鶴舞少參事員數.jpg",
+      "x": 1378,
+      "y": 1002,
+      "w": 134,
+      "h": 580
+    },
+    {
+      "ident": "鶴舞少參事寺田豐哉",
+      "crop_path": "crops/tsurumai_lower_p192_right/14_鶴舞少參事寺田豐哉.jpg",
+      "x": 1371,
+      "y": 1759,
+      "w": 82,
+      "h": 414
+    },
+    {
+      "ident": "鶴舞權少參事員數",
+      "crop_path": "crops/tsurumai_lower_p192_right/15_鶴舞權少參事員數.jpg",
+      "x": 1243,
+      "y": 998,
+      "w": 134,
+      "h": 582
+    },
+    {
+      "ident": "鶴舞權少參事山口均",
+      "crop_path": "crops/tsurumai_lower_p192_right/16_鶴舞權少參事山口均.jpg",
+      "x": 1234,
+      "y": 1755,
+      "w": 79,
+      "h": 412
+    },
+    {
+      "ident": "鶴舞權少參事佐藤想內",
+      "crop_path": "crops/tsurumai_lower_p192_right/17_鶴舞權少參事佐藤想內.jpg",
+      "x": 1225,
+      "y": 2344,
+      "w": 87,
+      "h": 415
+    },
+    {
+      "ident": "鶴舞權少參事小出隣",
+      "crop_path": "crops/tsurumai_lower_p192_right/18_鶴舞權少參事小出隣.jpg",
+      "x": 1218,
+      "y": 2934,
+      "w": 83,
+      "h": 414
+    },
+    {
+      "ident": "鶴舞權少參事屋代長",
+      "crop_path": "crops/tsurumai_lower_p192_right/19_鶴舞權少參事屋代長.jpg",
+      "x": 1104,
+      "y": 1754,
+      "w": 83,
+      "h": 415
+    },
+    {
+      "ident": "鶴舞兵隊人員",
+      "crop_path": "crops/tsurumai_lower_p192_right/20_鶴舞兵隊人員.jpg",
+      "x": 977,
+      "y": 1000,
+      "w": 90,
+      "h": 835
+    },
+    {
+      "ident": "鶴牧藩丸印",
+      "crop_path": "crops/tsurumai_lower_p192_right/21_鶴牧藩丸印.jpg",
+      "x": 827,
+      "y": 1341,
+      "w": 106,
+      "h": 558
+    },
+    {
+      "ident": "鶴牧大參事員數",
+      "crop_path": "crops/tsurumai_lower_p192_right/22_鶴牧大參事員數.jpg",
+      "x": 706,
+      "y": 1000,
+      "w": 90,
+      "h": 582
+    },
+    {
+      "ident": "鶴牧大參事荒木左膳",
+      "crop_path": "crops/tsurumai_lower_p192_right/23_鶴牧大參事荒木左膳.jpg",
+      "x": 692,
+      "y": 2008,
+      "w": 89,
+      "h": 580
+    },
+    {
+      "ident": "鶴牧大參事豐田謙藏",
+      "crop_path": "crops/tsurumai_lower_p192_right/24_鶴牧大參事豐田謙藏.jpg",
+      "x": 682,
+      "y": 2932,
+      "w": 90,
+      "h": 585
+    },
+    {
+      "ident": "鶴牧權大參事員數",
+      "crop_path": "crops/tsurumai_lower_p192_right/25_鶴牧權大參事員數.jpg",
+      "x": 572,
+      "y": 999,
+      "w": 90,
+      "h": 584
+    },
+    {
+      "ident": "鶴牧權大參事井上八郎右衞門",
+      "crop_path": "crops/tsurumai_lower_p192_right/26_鶴牧權大參事井上八郎右衞門.jpg",
+      "x": 557,
+      "y": 2009,
+      "w": 91,
+      "h": 582
+    },
+    {
+      "ident": "鶴牧權大參事本田新平",
+      "crop_path": "crops/tsurumai_lower_p192_right/27_鶴牧權大參事本田新平.jpg",
+      "x": 548,
+      "y": 2931,
+      "w": 90,
+      "h": 579
+    },
+    {
+      "ident": "鶴牧權大參事山上左仲",
+      "crop_path": "crops/tsurumai_lower_p192_right/28_鶴牧權大參事山上左仲.jpg",
+      "x": 429,
+      "y": 2009,
+      "w": 86,
+      "h": 584
+    },
+    {
+      "ident": "鶴牧權大參事佐久間丈右衞門",
+      "crop_path": "crops/tsurumai_lower_p192_right/29_鶴牧權大參事佐久間丈右衞門.jpg",
+      "x": 421,
+      "y": 2930,
+      "w": 86,
+      "h": 585
     }
   ],
   "tsurumai_upper_p153_left": [
@@ -137291,6 +141523,152 @@
       "y": 1212,
       "w": 89,
       "h": 663
+    }
+  ],
+  "tsuruta_lower_p193_right": [
+    {
+      "ident": "藩制一覽表第九",
+      "crop_path": "crops/tsuruta_lower_p193_right/00_藩制一覽表第九.jpg",
+      "x": 2144,
+      "y": 1278,
+      "w": 72,
+      "h": 761
+    },
+    {
+      "ident": "本書頁番号",
+      "crop_path": "crops/tsuruta_lower_p193_right/01_本書頁番号.jpg",
+      "x": 2136,
+      "y": 3122,
+      "w": 70,
+      "h": 261
+    },
+    {
+      "ident": "○鶴田藩",
+      "crop_path": "crops/tsuruta_lower_p193_right/02_鶴田藩.jpg",
+      "x": 1996,
+      "y": 1361,
+      "w": 111,
+      "h": 562
+    },
+    {
+      "ident": "校正者註記",
+      "crop_path": "crops/tsuruta_lower_p193_right/03_校正者註記.jpg",
+      "x": 1682,
+      "y": 674,
+      "w": 283,
+      "h": 270
+    },
+    {
+      "ident": "鶴田大參事",
+      "crop_path": "crops/tsuruta_lower_p193_right/04_鶴田大參事.jpg",
+      "x": 1862,
+      "y": 1031,
+      "w": 98,
+      "h": 2510
+    },
+    {
+      "ident": "鶴田權大參事",
+      "crop_path": "crops/tsuruta_lower_p193_right/05_鶴田權大參事.jpg",
+      "x": 1724,
+      "y": 1033,
+      "w": 99,
+      "h": 2508
+    },
+    {
+      "ident": "鶴田少參事",
+      "crop_path": "crops/tsuruta_lower_p193_right/06_鶴田少參事.jpg",
+      "x": 1591,
+      "y": 1034,
+      "w": 97,
+      "h": 2509
+    },
+    {
+      "ident": "鶴田少參事續",
+      "crop_path": "crops/tsuruta_lower_p193_right/07_鶴田少參事續.jpg",
+      "x": 1460,
+      "y": 2035,
+      "w": 88,
+      "h": 586
+    },
+    {
+      "ident": "鶴田權少參事",
+      "crop_path": "crops/tsuruta_lower_p193_right/08_鶴田權少參事.jpg",
+      "x": 1322,
+      "y": 1032,
+      "w": 99,
+      "h": 2511
+    },
+    {
+      "ident": "鶴田權少參事續",
+      "crop_path": "crops/tsuruta_lower_p193_right/09_鶴田權少參事續.jpg",
+      "x": 1193,
+      "y": 2040,
+      "w": 89,
+      "h": 1501
+    },
+    {
+      "ident": "○名古屋藩",
+      "crop_path": "crops/tsuruta_lower_p193_right/10_名古屋藩.jpg",
+      "x": 1051,
+      "y": 1369,
+      "w": 107,
+      "h": 608
+    },
+    {
+      "ident": "名古屋大參事",
+      "crop_path": "crops/tsuruta_lower_p193_right/11_名古屋大參事.jpg",
+      "x": 929,
+      "y": 1032,
+      "w": 91,
+      "h": 583
+    },
+    {
+      "ident": "名古屋權大參事",
+      "crop_path": "crops/tsuruta_lower_p193_right/12_名古屋權大參事.jpg",
+      "x": 795,
+      "y": 1032,
+      "w": 91,
+      "h": 584
+    },
+    {
+      "ident": "名古屋少參事",
+      "crop_path": "crops/tsuruta_lower_p193_right/13_名古屋少參事.jpg",
+      "x": 661,
+      "y": 1035,
+      "w": 91,
+      "h": 584
+    },
+    {
+      "ident": "名古屋權少參事",
+      "crop_path": "crops/tsuruta_lower_p193_right/14_名古屋權少參事.jpg",
+      "x": 527,
+      "y": 1035,
+      "w": 88,
+      "h": 672
+    },
+    {
+      "ident": "名古屋兵隊",
+      "crop_path": "crops/tsuruta_lower_p193_right/15_名古屋兵隊.jpg",
+      "x": 395,
+      "y": 1034,
+      "w": 84,
+      "h": 167
+    },
+    {
+      "ident": "名古屋士族兵",
+      "crop_path": "crops/tsuruta_lower_p193_right/16_名古屋士族兵.jpg",
+      "x": 437,
+      "y": 1371,
+      "w": 61,
+      "h": 684
+    },
+    {
+      "ident": "名古屋卒族兵",
+      "crop_path": "crops/tsuruta_lower_p193_right/17_名古屋卒族兵.jpg",
+      "x": 376,
+      "y": 1371,
+      "w": 61,
+      "h": 684
     }
   ],
   "tsuruta_upper_p133_right": [
@@ -140653,6 +145031,224 @@
       "y": 1711,
       "w": 93,
       "h": 481
+    }
+  ],
+  "usuki_lower_p197_left": [
+    {
+      "ident": "臼杵藩マーカー",
+      "crop_path": "crops/usuki_lower_p197_left/00_臼杵藩マーカー.jpg",
+      "x": 2614,
+      "y": 1331,
+      "w": 106,
+      "h": 558
+    },
+    {
+      "ident": "臼杵大參事",
+      "crop_path": "crops/usuki_lower_p197_left/01_臼杵大參事.jpg",
+      "x": 2492,
+      "y": 988,
+      "w": 89,
+      "h": 583
+    },
+    {
+      "ident": "臼杵權大參事",
+      "crop_path": "crops/usuki_lower_p197_left/02_臼杵權大參事.jpg",
+      "x": 2363,
+      "y": 986,
+      "w": 86,
+      "h": 580
+    },
+    {
+      "ident": "臼杵少參事",
+      "crop_path": "crops/usuki_lower_p197_left/03_臼杵少參事.jpg",
+      "x": 2233,
+      "y": 988,
+      "w": 86,
+      "h": 575
+    },
+    {
+      "ident": "臼杵權少參事",
+      "crop_path": "crops/usuki_lower_p197_left/04_臼杵權少參事.jpg",
+      "x": 1968,
+      "y": 986,
+      "w": 88,
+      "h": 575
+    },
+    {
+      "ident": "臼杵兵員",
+      "crop_path": "crops/usuki_lower_p197_left/05_臼杵兵員.jpg",
+      "x": 1702,
+      "y": 984,
+      "w": 90,
+      "h": 578
+    },
+    {
+      "ident": "臼杵大參事片岡秀重",
+      "crop_path": "crops/usuki_lower_p197_left/06_臼杵大參事片岡秀重.jpg",
+      "x": 2479,
+      "y": 1999,
+      "w": 83,
+      "h": 578
+    },
+    {
+      "ident": "臼杵權大參事粟屋勝孝",
+      "crop_path": "crops/usuki_lower_p197_left/07_臼杵權大參事粟屋勝孝.jpg",
+      "x": 2347,
+      "y": 1995,
+      "w": 83,
+      "h": 578
+    },
+    {
+      "ident": "臼杵權大參事村瀨十應",
+      "crop_path": "crops/usuki_lower_p197_left/08_臼杵權大參事村瀨十應.jpg",
+      "x": 2337,
+      "y": 2915,
+      "w": 84,
+      "h": 583
+    },
+    {
+      "ident": "臼杵少參事加納孝",
+      "crop_path": "crops/usuki_lower_p197_left/09_臼杵少參事加納孝.jpg",
+      "x": 2217,
+      "y": 1990,
+      "w": 86,
+      "h": 578
+    },
+    {
+      "ident": "臼杵少參事後藤鈍臣",
+      "crop_path": "crops/usuki_lower_p197_left/10_臼杵少參事後藤鈍臣.jpg",
+      "x": 2204,
+      "y": 2910,
+      "w": 86,
+      "h": 583
+    },
+    {
+      "ident": "臼杵少參事岡部章",
+      "crop_path": "crops/usuki_lower_p197_left/11_臼杵少參事岡部章.jpg",
+      "x": 2086,
+      "y": 1991,
+      "w": 87,
+      "h": 578
+    },
+    {
+      "ident": "臼杵權少參事清水濯纓",
+      "crop_path": "crops/usuki_lower_p197_left/12_臼杵權少參事清水濯纓.jpg",
+      "x": 1949,
+      "y": 1990,
+      "w": 89,
+      "h": 584
+    },
+    {
+      "ident": "臼杵權少參事若林永與",
+      "crop_path": "crops/usuki_lower_p197_left/13_臼杵權少參事若林永與.jpg",
+      "x": 1933,
+      "y": 2917,
+      "w": 90,
+      "h": 578
+    },
+    {
+      "ident": "臼杵權少參事橘朴",
+      "crop_path": "crops/usuki_lower_p197_left/14_臼杵權少參事橘朴.jpg",
+      "x": 1817,
+      "y": 1990,
+      "w": 90,
+      "h": 579
+    },
+    {
+      "ident": "上田藩マーカー",
+      "crop_path": "crops/usuki_lower_p197_left/15_上田藩マーカー.jpg",
+      "x": 1553,
+      "y": 1319,
+      "w": 107,
+      "h": 559
+    },
+    {
+      "ident": "上田大參事",
+      "crop_path": "crops/usuki_lower_p197_left/16_上田大參事.jpg",
+      "x": 1434,
+      "y": 981,
+      "w": 90,
+      "h": 576
+    },
+    {
+      "ident": "上田權大參事",
+      "crop_path": "crops/usuki_lower_p197_left/17_上田權大參事.jpg",
+      "x": 1302,
+      "y": 980,
+      "w": 88,
+      "h": 574
+    },
+    {
+      "ident": "上田少參事",
+      "crop_path": "crops/usuki_lower_p197_left/18_上田少參事.jpg",
+      "x": 1037,
+      "y": 980,
+      "w": 86,
+      "h": 570
+    },
+    {
+      "ident": "上田大參事師岡主鈴",
+      "crop_path": "crops/usuki_lower_p197_left/19_上田大參事師岡主鈴.jpg",
+      "x": 1412,
+      "y": 1990,
+      "w": 89,
+      "h": 579
+    },
+    {
+      "ident": "上田權大參事藤井淡水",
+      "crop_path": "crops/usuki_lower_p197_left/20_上田權大參事藤井淡水.jpg",
+      "x": 1281,
+      "y": 1983,
+      "w": 90,
+      "h": 580
+    },
+    {
+      "ident": "上田權大參事山口平太郎",
+      "crop_path": "crops/usuki_lower_p197_left/21_上田權大參事山口平太郎.jpg",
+      "x": 1267,
+      "y": 2906,
+      "w": 82,
+      "h": 584
+    },
+    {
+      "ident": "上田權大參事瀧澤省吾",
+      "crop_path": "crops/usuki_lower_p197_left/22_上田權大參事瀧澤省吾.jpg",
+      "x": 1146,
+      "y": 1989,
+      "w": 89,
+      "h": 583
+    },
+    {
+      "ident": "上田少參事大島齋",
+      "crop_path": "crops/usuki_lower_p197_left/23_上田少參事大島齋.jpg",
+      "x": 1015,
+      "y": 1986,
+      "w": 88,
+      "h": 580
+    },
+    {
+      "ident": "上田少參事久松新五左衞門",
+      "crop_path": "crops/usuki_lower_p197_left/24_上田少參事久松新五左衞門.jpg",
+      "x": 999,
+      "y": 2904,
+      "w": 88,
+      "h": 581
+    },
+    {
+      "ident": "柱題藩制一覽表第九（臼杵藩・上田藩分）",
+      "crop_path": "crops/usuki_lower_p197_left/25_柱題藩制一覽表第九_臼杵藩・上田藩分.jpg",
+      "x": 909,
+      "y": 1233,
+      "w": 76,
+      "h": 698
+    },
+    {
+      "ident": "版心丁付三百七十一（臼杵藩・上田藩分）",
+      "crop_path": "crops/usuki_lower_p197_left/26_版心丁付三百七十一_臼杵藩・上田藩分.jpg",
+      "x": 881,
+      "y": 3070,
+      "w": 70,
+      "h": 250
     }
   ],
   "usuki_upper_p174_left": [

@@ -1,0 +1,932 @@
+[
+  {
+    "id": "anno-nakatsu_lower_p193_left-00",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "○中津藩"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "中津藩（なかつはん）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Nakatsu Domain — the maru-marker opening this domain's Fascicle 9 entry. It is the rightmost inked element on the leaf: a column projection over y900-3600 finds no ink between x2650 and x3064, so nothing here belongs to the preceding domain. Everything from this marker leftward as far as the ○中村藩 marker is Nakatsu's."
+      },
+      {
+        "purpose": "identifying",
+        "value": "○中津藩"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p193_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2554,1327,106,565"
+      }
+    }
+  },
+  {
+    "id": "anno-nakatsu_lower_p193_left-01",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "官員　不詳"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "官員　不詳"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Officials (the establishment headcount): recorded as 不詳, \"not detailed / unknown.\" Nakatsu returned no figure for how many posts it filled. This is why the three rank labels further left print bare — on leaves where a domain did report the number, each label carries its own 一人／二人／四人 beneath it. The office-holders are still named, fifteen of them."
+      },
+      {
+        "purpose": "identifying",
+        "value": "中津藩官員"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p193_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2433,989,92,507"
+      }
+    }
+  },
+  {
+    "id": "anno-nakatsu_lower_p193_left-02",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "兵隊　士千五十九人　卒八百七十八人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "兵隊　士千五十九人　卒八百七十八人"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Troops: 1,059 men of the shizoku (former samurai) class and 878 of the sotsu (lower retainer) class; 1,059 + 878 = 1,937 in all. The heading 兵隊 is centred over two runs printed side by side, the shizoku figure on the right and the sotsu figure on the left. The second glyph of the shizoku figure is 千, its slanted stroke sitting on the horizontal, and the fourth is a plain-cross 十 — both checked at 8x, since confusing the two is a hundredfold error. The project dataset gives the shizoku figure as 二千五百七十九人 (2,579) and the total as 3,457; that reading needs nine glyphs and the printed run holds exactly six, with the column blank from y1151 down to y1341 above 士, so the page does not support it."
+      },
+      {
+        "purpose": "identifying",
+        "value": "中津藩兵隊"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p193_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2275,994,126,816"
+      }
+    }
+  },
+  {
+    "id": "anno-nakatsu_lower_p193_left-03",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "大參事"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "大参事（だいさんじ）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Senior councillor (dai-sanji) — rank label, three glyphs with no headcount printed beneath, matching the 官員　不詳 note. Five men hold the post: three named down this same column and two more in the label-less column to its left."
+      },
+      {
+        "purpose": "identifying",
+        "value": "中津大參事"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p193_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2159,998,91,248"
+      }
+    }
+  },
+  {
+    "id": "anno-nakatsu_lower_p193_left-04",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "奧平惺學"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "奥平惺学（おくだいら せいがく／読み推定）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Okudaira Seigaku (reading conjectural), senior councillor of Nakatsu, first name in the column headed 大參事. Okudaira was the domain's ruling house, and the surname recurs among the acting senior councillors as Okudaira Kichizaemon."
+      },
+      {
+        "purpose": "identifying",
+        "value": "中津大參事奧平惺學"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p193_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2150,1583,89,586"
+      }
+    }
+  },
+  {
+    "id": "anno-nakatsu_lower_p193_left-05",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "生田實"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "生田実（いくた みのる／読み推定）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Ikuta Minoru (reading conjectural), senior councillor of Nakatsu, in the second name register of the 大參事 column. The third glyph is 實, the older form of 実: under the 宀 crown it stacks two elements, 毌 over 貝, where 寳 would stack three."
+      },
+      {
+        "purpose": "identifying",
+        "value": "中津大參事生田實"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p193_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2142,2257,93,588"
+      }
+    }
+  },
+  {
+    "id": "anno-nakatsu_lower_p193_left-06",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "山崎直衞"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "山崎直衛（やまざき なおえ／読み推定）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Yamazaki Naoe (reading conjectural), senior councillor of Nakatsu, in the third and lowest name register of the 大參事 column. The final glyph is 衞, the older form of 衛."
+      },
+      {
+        "purpose": "identifying",
+        "value": "中津大參事山崎直衞"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p193_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2139,2926,89,589"
+      }
+    }
+  },
+  {
+    "id": "anno-nakatsu_lower_p193_left-07",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "逸見志馬"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "逸見志馬（へんみ しま／読み推定）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Henmi Shima (reading conjectural), senior councillor of Nakatsu. His column carries no rank label of its own; in Fascicle 9 a label-less name column continues the office named in the column to its right, which is 大參事."
+      },
+      {
+        "purpose": "identifying",
+        "value": "中津大參事逸見志馬"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p193_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2019,1584,90,585"
+      }
+    }
+  },
+  {
+    "id": "anno-nakatsu_lower_p193_left-08",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "桑名豐山"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "桑名豊山（くわな ほうざん／読み推定）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Kuwana Hōzan (reading conjectural), the fifth senior councillor of Nakatsu, in the lower register of the label-less column. The third glyph is 豐, the older form of 豊."
+      },
+      {
+        "purpose": "identifying",
+        "value": "中津大參事桑名豐山"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p193_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2014,2258,86,586"
+      }
+    }
+  },
+  {
+    "id": "anno-nakatsu_lower_p193_left-09",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "權大參事"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "権大参事（ごんだいさんじ）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Acting senior councillor (gon-dai-sanji) — rank label, four glyphs with no headcount printed. Five men hold the post: three down this column and two in the label-less column to its left."
+      },
+      {
+        "purpose": "identifying",
+        "value": "中津權大參事"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p193_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1891,998,87,337"
+      }
+    }
+  },
+  {
+    "id": "anno-nakatsu_lower_p193_left-10",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "岡見半太夫"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "岡見半太夫（おかみ はんだゆう／読み推定）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Okami Handayū (reading conjectural), acting senior councillor of Nakatsu, first name in the column headed 權大參事."
+      },
+      {
+        "purpose": "identifying",
+        "value": "中津權大參事岡見半太夫"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p193_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1883,1584,87,589"
+      }
+    }
+  },
+  {
+    "id": "anno-nakatsu_lower_p193_left-11",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "奧平吉左衞門"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "奥平吉左衛門（おくだいら きちざえもん／読み推定）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Okudaira Kichizaemon (reading conjectural), acting senior councillor of Nakatsu, in the second name register of the 權大參事 column. He shares the ruling house's surname with the senior councillor Okudaira Seigaku."
+      },
+      {
+        "purpose": "identifying",
+        "value": "中津權大參事奧平吉左衞門"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p193_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1878,2257,88,584"
+      }
+    }
+  },
+  {
+    "id": "anno-nakatsu_lower_p193_left-12",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "西尾次郎右衞門"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "西尾次郎右衛門（にしお じろうえもん／読み推定）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Nishio Jirōemon (reading conjectural), acting senior councillor of Nakatsu, in the third and lowest register of the 權大參事 column — seven glyphs set at a tighter pitch to fill the same fixed-height register as the five-glyph names above."
+      },
+      {
+        "purpose": "identifying",
+        "value": "中津權大參事西尾次郎右衞門"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p193_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1870,2931,89,586"
+      }
+    }
+  },
+  {
+    "id": "anno-nakatsu_lower_p193_left-13",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "猪飼太兵衞"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "猪飼太兵衛（いかい たへえ／読み推定）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Ikai Tahee (reading conjectural), acting senior councillor of Nakatsu, in a column that carries no rank label of its own and therefore continues the 權大參事 column to its right."
+      },
+      {
+        "purpose": "identifying",
+        "value": "中津權大參事猪飼太兵衞"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p193_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1751,1588,88,587"
+      }
+    }
+  },
+  {
+    "id": "anno-nakatsu_lower_p193_left-14",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "鈴木力兵衞"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "鈴木力兵衛（すずき りきべえ／読み推定）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Suzuki Rikibee (reading conjectural), the fifth acting senior councillor of Nakatsu, in the lower register of the label-less column."
+      },
+      {
+        "purpose": "identifying",
+        "value": "中津權大參事鈴木力兵衞"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p193_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1742,2260,93,587"
+      }
+    }
+  },
+  {
+    "id": "anno-nakatsu_lower_p193_left-15",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "少參事"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "少参事（しょうさんじ）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Junior councillor (shō-sanji) — rank label, three glyphs with no headcount printed. Five men hold the post: three down this column and two in the label-less column to its left."
+      },
+      {
+        "purpose": "identifying",
+        "value": "中津少參事"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p193_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1622,1000,90,250"
+      }
+    }
+  },
+  {
+    "id": "anno-nakatsu_lower_p193_left-16",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "佐竹四郎左衞門"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "佐竹四郎左衛門（さたけ しろうざえもん／読み推定）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Satake Shirōzaemon (reading conjectural), junior councillor of Nakatsu, first name in the column headed 少參事."
+      },
+      {
+        "purpose": "identifying",
+        "value": "中津少參事佐竹四郎左衞門"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p193_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1615,1586,90,586"
+      }
+    }
+  },
+  {
+    "id": "anno-nakatsu_lower_p193_left-17",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "牟禮源太郎"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "牟礼源太郎（むれ げんたろう／読み推定）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Mure Gentarō (reading conjectural), junior councillor of Nakatsu, in the second name register of the 少參事 column. The second glyph is 禮, the older form of 礼."
+      },
+      {
+        "purpose": "identifying",
+        "value": "中津少參事牟禮源太郎"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p193_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1612,2259,91,588"
+      }
+    }
+  },
+  {
+    "id": "anno-nakatsu_lower_p193_left-18",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "菅沼新五右衞門"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "菅沼新五右衛門（すがぬま しんごえもん／読み推定）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Suganuma Shingoemon (reading conjectural), junior councillor of Nakatsu, in the third and lowest register of the 少參事 column."
+      },
+      {
+        "purpose": "identifying",
+        "value": "中津少參事菅沼新五右衞門"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p193_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1606,2934,88,587"
+      }
+    }
+  },
+  {
+    "id": "anno-nakatsu_lower_p193_left-19",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "福田清兵衞"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "福田清兵衛（ふくだ せいべえ／読み推定）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Fukuda Seibee (reading conjectural), junior councillor of Nakatsu, in a column carrying no rank label of its own; it continues the 少參事 column to its right. This is the leftmost of Nakatsu's columns — the ○中村藩 marker stands immediately beyond it."
+      },
+      {
+        "purpose": "identifying",
+        "value": "中津少參事福田清兵衞"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p193_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1481,1589,86,591"
+      }
+    }
+  },
+  {
+    "id": "anno-nakatsu_lower_p193_left-20",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "日下田孫八"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "日下田孫八（くさかだ まごはち／読み推定）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Kusakada Magohachi (reading conjectural), the fifth junior councillor of Nakatsu and the last of its fifteen named officers. The final glyph is 八, its two strokes separate at the top and splayed, not 人."
+      },
+      {
+        "purpose": "identifying",
+        "value": "中津少參事日下田孫八"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p193_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1471,2266,99,587"
+      }
+    }
+  },
+  {
+    "id": "anno-nakatsu_lower_p193_left-21",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "○中村藩"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "中村藩（なかむらはん）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Nakamura Domain — the maru-marker opening this domain's entry. Everything to its right as far as the ○中津藩 marker is Nakatsu's; everything to its left on this leaf is Nakamura's, and the entry runs on to the following leaf."
+      },
+      {
+        "purpose": "identifying",
+        "value": "○中村藩"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p193_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1338,1337,107,565"
+      }
+    }
+  },
+  {
+    "id": "anno-nakatsu_lower_p193_left-22",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "大參事"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "大参事（だいさんじ）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Senior councillor (dai-sanji) — rank label opening Nakamura's officials list, with no headcount printed. One name stands below it. Nakamura's block prints no 官員 line at all, so the absence of counts here goes unexplained on the page."
+      },
+      {
+        "purpose": "identifying",
+        "value": "中村大參事"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p193_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1216,1002,88,251"
+      }
+    }
+  },
+  {
+    "id": "anno-nakatsu_lower_p193_left-23",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "泉田文庫"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "泉田文庫（いずみだ ぶんこ／読み推定）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Izumida Bunko (reading conjectural), the one senior councillor of Nakamura. Nakamura's name registers sit lower on the leaf than Nakatsu's, beginning at y2006 against y1583."
+      },
+      {
+        "purpose": "identifying",
+        "value": "中村大參事泉田文庫"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p193_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1205,2006,92,588"
+      }
+    }
+  },
+  {
+    "id": "anno-nakatsu_lower_p193_left-24",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "權大參事"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "権大参事（ごんだいさんじ）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Acting senior councillor (gon-dai-sanji) — rank label, four glyphs, no headcount printed. Two men are named down this column."
+      },
+      {
+        "purpose": "identifying",
+        "value": "中村權大參事"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p193_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1080,1004,88,337"
+      }
+    }
+  },
+  {
+    "id": "anno-nakatsu_lower_p193_left-25",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "大浦庄右衞門"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "大浦庄右衛門（おおうら しょうざえもん／読み推定）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Ōura Shōzaemon (reading conjectural), acting senior councillor of Nakamura, first name in the column headed 權大參事."
+      },
+      {
+        "purpose": "identifying",
+        "value": "中村權大參事大浦庄右衞門"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p193_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1072,2014,89,587"
+      }
+    }
+  },
+  {
+    "id": "anno-nakatsu_lower_p193_left-26",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "岡部正藏"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "岡部正蔵（おかべ しょうぞう／読み推定）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Okabe Shōzō (reading conjectural), the second acting senior councillor of Nakamura, in the lower register of the same column. The final glyph is 藏, the older form of 蔵."
+      },
+      {
+        "purpose": "identifying",
+        "value": "中村權大參事岡部正藏"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p193_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1064,2937,88,588"
+      }
+    }
+  },
+  {
+    "id": "anno-nakatsu_lower_p193_left-27",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "少參事"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "少参事（しょうさんじ）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Junior councillor (shō-sanji) — rank label, three glyphs, no headcount printed. One name stands below it, and this is the leftmost text column of the leaf before the margin."
+      },
+      {
+        "purpose": "identifying",
+        "value": "中村少參事"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p193_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:947,1009,89,250"
+      }
+    }
+  },
+  {
+    "id": "anno-nakatsu_lower_p193_left-28",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "多田部楯太郎"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "多田部楯太郎（ただべ たてたろう／読み推定）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Tadabe Tatetarō (reading conjectural), the one junior councillor of Nakamura named on this leaf."
+      },
+      {
+        "purpose": "identifying",
+        "value": "中村少參事多田部楯太郎"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p193_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:939,2016,87,588"
+      }
+    }
+  },
+  {
+    "id": "anno-nakatsu_lower_p193_left-29",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "藩制一覽表第九（中津、中村）"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "藩制一覧表第九（中津・中村）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Running header: Table of Domain Institutions, Fascicle 9 (Nakatsu, Nakamura). Fascicle 9 records domain officials and military forces. The header is provenance, naming both domains whose blocks appear on this leaf."
+      },
+      {
+        "purpose": "identifying",
+        "value": "藩制一覽表第九（中津、中村）"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p193_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:822,1265,78,709"
+      }
+    }
+  },
+  {
+    "id": "anno-nakatsu_lower_p193_left-30",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "三百六十三"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "三百六十三"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Printed book-page number 363, in the bottom margin column. This is the pagination of the printed edition, not the PDF page, which is 193."
+      },
+      {
+        "purpose": "identifying",
+        "value": "三百六十三"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p193_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:810,3110,75,266"
+      }
+    }
+  }
+]

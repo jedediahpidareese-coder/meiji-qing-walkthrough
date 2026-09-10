@@ -1,0 +1,782 @@
+[
+  {
+    "id": "anno-koriyama_lower_p014_right-00",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "藩制一覽表第六（郡山）"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "藩制一覧表　第六（郡山）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Table of Domain Institutions, Fascicle Six (Kōriyama) — running header"
+      },
+      {
+        "purpose": "identifying",
+        "value": "欄外標題藩制一覽表第六郡山"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p014_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2183,1293,80,575"
+      }
+    }
+  },
+  {
+    "id": "anno-koriyama_lower_p014_right-01",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "四"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "四"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Printed book-page number: 4 (set sideways in the outer margin)"
+      },
+      {
+        "purpose": "identifying",
+        "value": "印刷頁番號四"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p014_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2156,3128,75,60"
+      }
+    }
+  },
+  {
+    "id": "anno-koriyama_lower_p014_right-02",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "受領十石"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "受領　十石"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Granted holding: 10 koku"
+      },
+      {
+        "purpose": "identifying",
+        "value": "天神社受領高"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p014_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2062,1121,87,331"
+      }
+    }
+  },
+  {
+    "id": "anno-koriyama_lower_p014_right-03",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "江州高島郡／海津中小路町"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "近江国高島郡　海津中小路町"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Location: Kaizu Nakakōji-chō, Takashima district, Ōmi province"
+      },
+      {
+        "purpose": "identifying",
+        "value": "天神社所在地"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p014_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2015,2375,122,406"
+      }
+    }
+  },
+  {
+    "id": "anno-koriyama_lower_p014_right-04",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "天神社"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "天神社"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Tenjinsha (shrine)"
+      },
+      {
+        "purpose": "identifying",
+        "value": "天神社社名"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p014_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2019,2960,89,579"
+      }
+    }
+  },
+  {
+    "id": "anno-koriyama_lower_p014_right-05",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "正税米三石四斗二升八合"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "正税米　三石四斗二升八合"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Regular tax rice: 3.428 koku (Tenjinsha)"
+      },
+      {
+        "purpose": "identifying",
+        "value": "天神社正税米"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p014_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1917,1207,97,995"
+      }
+    }
+  },
+  {
+    "id": "anno-koriyama_lower_p014_right-06",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "受領十一石四斗"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "受領　十一石四斗"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Granted holding: 11.4 koku"
+      },
+      {
+        "purpose": "identifying",
+        "value": "西光寺受領高"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p014_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1791,1117,75,703"
+      }
+    }
+  },
+  {
+    "id": "anno-koriyama_lower_p014_right-07",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "（四斗朱書）"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "（四斗は朱書）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Editorial note: the 4-to fraction is written in vermillion in the manuscript"
+      },
+      {
+        "purpose": "identifying",
+        "value": "西光寺受領高朱書註"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p014_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1866,1523,51,306"
+      }
+    }
+  },
+  {
+    "id": "anno-koriyama_lower_p014_right-08",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "江州蒲生郡／中村"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "近江国蒲生郡　中村"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Location: Naka-mura, Gamō district, Ōmi province"
+      },
+      {
+        "purpose": "identifying",
+        "value": "西光寺所在地"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p014_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1751,2374,119,336"
+      }
+    }
+  },
+  {
+    "id": "anno-koriyama_lower_p014_right-09",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "西光寺"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "西光寺"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Saikōji (temple)"
+      },
+      {
+        "purpose": "identifying",
+        "value": "西光寺寺名"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p014_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1752,2957,90,578"
+      }
+    }
+  },
+  {
+    "id": "anno-koriyama_lower_p014_right-10",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "正税米八石四斗六升六合四勺"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "正税米　八石四斗六升六合四勺"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Regular tax rice: 8.4664 koku (Saikōji)"
+      },
+      {
+        "purpose": "identifying",
+        "value": "西光寺正税米"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p014_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1641,1202,105,1169"
+      }
+    }
+  },
+  {
+    "id": "anno-koriyama_lower_p014_right-11",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "受領百二十石"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "受領　百二十石"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Granted holding: 120 koku"
+      },
+      {
+        "purpose": "identifying",
+        "value": "總持寺受領高"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p014_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1521,1110,91,500"
+      }
+    }
+  },
+  {
+    "id": "anno-koriyama_lower_p014_right-12",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "江州坂田郡／下司村"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "近江国坂田郡　下司村"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Location: Geshi-mura, Sakata district, Ōmi province"
+      },
+      {
+        "purpose": "identifying",
+        "value": "總持寺所在地"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p014_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1481,2365,121,335"
+      }
+    }
+  },
+  {
+    "id": "anno-koriyama_lower_p014_right-13",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "總持寺"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "総持寺"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Sōjiji (temple)"
+      },
+      {
+        "purpose": "identifying",
+        "value": "總持寺寺名"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p014_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1485,2949,89,581"
+      }
+    }
+  },
+  {
+    "id": "anno-koriyama_lower_p014_right-14",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "外ニ込高五升"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "外に　込高五升"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "In addition, komidaka (included yield): 0.05 koku (Sōjiji)"
+      },
+      {
+        "purpose": "identifying",
+        "value": "總持寺外込高"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p014_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1395,1192,89,502"
+      }
+    }
+  },
+  {
+    "id": "anno-koriyama_lower_p014_right-15",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "正租米六十三石五斗七升六合"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "正租米　六十三石五斗七升六合"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Regular land-rent rice: 63.576 koku (Sōjiji)"
+      },
+      {
+        "purpose": "identifying",
+        "value": "總持寺正租米"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p014_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1246,1194,108,1165"
+      }
+    }
+  },
+  {
+    "id": "anno-koriyama_lower_p014_right-16",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "雜税米二石一斗二升四合"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "雑税米　二石一斗二升四合"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Miscellaneous tax rice: 2.124 koku (Sōjiji)"
+      },
+      {
+        "purpose": "identifying",
+        "value": "總持寺雜税米"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p014_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1120,1188,104,1001"
+      }
+    }
+  },
+  {
+    "id": "anno-koriyama_lower_p014_right-17",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "受領一斗四升八合"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "受領　一斗四升八合"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Granted holding: 0.148 koku"
+      },
+      {
+        "purpose": "identifying",
+        "value": "敬誓寺受領高"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p014_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:999,1114,96,653"
+      }
+    }
+  },
+  {
+    "id": "anno-koriyama_lower_p014_right-18",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "江州坂田郡／柏原村"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "近江国坂田郡　柏原村"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Location: Kashiwabara-mura, Sakata district, Ōmi province"
+      },
+      {
+        "purpose": "identifying",
+        "value": "敬誓寺所在地"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p014_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:961,2358,120,337"
+      }
+    }
+  },
+  {
+    "id": "anno-koriyama_lower_p014_right-19",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "敬誓寺"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "敬誓寺"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Kyōseiji (temple)"
+      },
+      {
+        "purpose": "identifying",
+        "value": "敬誓寺寺名"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p014_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:964,2942,87,579"
+      }
+    }
+  },
+  {
+    "id": "anno-koriyama_lower_p014_right-20",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "正税米三升"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "正税米　三升"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Regular tax rice: 0.03 koku (Kyōseiji)"
+      },
+      {
+        "purpose": "identifying",
+        "value": "敬誓寺正税米"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p014_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:877,1185,89,500"
+      }
+    }
+  },
+  {
+    "id": "anno-koriyama_lower_p014_right-21",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "受領五斗四升"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "受領　五斗四升"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Granted holding: 0.54 koku"
+      },
+      {
+        "purpose": "identifying",
+        "value": "安立寺受領高"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p014_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:744,1095,89,502"
+      }
+    }
+  },
+  {
+    "id": "anno-koriyama_lower_p014_right-22",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "江州坂田郡／柏原村"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "近江国坂田郡　柏原村"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Location: Kashiwabara-mura, Sakata district, Ōmi province"
+      },
+      {
+        "purpose": "identifying",
+        "value": "安立寺所在地"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p014_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:700,2351,122,338"
+      }
+    }
+  },
+  {
+    "id": "anno-koriyama_lower_p014_right-23",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "安立寺"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "安立寺"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Anryūji (temple)"
+      },
+      {
+        "purpose": "identifying",
+        "value": "安立寺寺名"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p014_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:702,2931,87,583"
+      }
+    }
+  },
+  {
+    "id": "anno-koriyama_lower_p014_right-24",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "正税無之"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "正税　これ無し"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Regular tax: none (Anryūji)"
+      },
+      {
+        "purpose": "identifying",
+        "value": "安立寺正税無之"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p014_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:609,1180,89,326"
+      }
+    }
+  },
+  {
+    "id": "anno-koriyama_lower_p014_right-25",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "雜税　鐚一貫五百文"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "雑税　鐚（びた）一貫五百文"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Miscellaneous tax, paid in bita copper cash: 1,500 mon (Anryūji)"
+      },
+      {
+        "purpose": "identifying",
+        "value": "安立寺雜税鏹"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p014_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:457,1176,111,749"
+      }
+    }
+  }
+]

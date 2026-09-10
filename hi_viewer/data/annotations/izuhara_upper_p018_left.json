@@ -1,0 +1,452 @@
+[
+  {
+    "id": "anno-izuhara_upper_p018_left-00",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "但迎使三人上下九人通詞三人卒族拾貳人船附之者六人長崎逗留"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "ただし、迎使三人、上下九人、通詞三人、卒族十二人、船付きの者六人、長崎逗留。"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Note: welcoming envoys, three persons — nine persons counting their attendants; interpreters, three persons; men of sotsu rank, twelve persons; persons attached to the ship, six persons. They stayed at Nagasaki."
+      },
+      {
+        "purpose": "identifying",
+        "value": "但書迎使一行人數"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p018_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2595,1392,120,2341"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p018_left-01",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "旅籠之分右同斷"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "旅籠の分、右同断。"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "The lodging charge is as stated above."
+      },
+      {
+        "purpose": "identifying",
+        "value": "但書旅籠之分右同斷"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p018_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2494,1391,93,585"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p018_left-02",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "○館中入費"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "○館中入費"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Expenses within the Wakan, the domain's trading compound at Pusan"
+      },
+      {
+        "purpose": "identifying",
+        "value": "館中入費"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p018_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2363,1224,90,418"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p018_left-03",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "一 米七拾七石貳斗六升九合八勺八才"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "一、米七十七石二斗六升九合八勺八才"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Item: rice, 77.26988 koku"
+      },
+      {
+        "purpose": "identifying",
+        "value": "館中入費米"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p018_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2220,1077,106,1318"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p018_left-04",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "此精米六拾九石五斗四升貳合八勺九才"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "此の精米六十九石五斗四升二合八勺九才"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "This, expressed as polished rice, 69.54289 koku -- exactly nine tenths of the 77.26988 koku above"
+      },
+      {
+        "purpose": "identifying",
+        "value": "館中入費此精米"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p018_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2079,1222,109,1423"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p018_left-05",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "一 錢五千九百三拾五貫百四拾三文"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "一、銭五千九百三十五貫百四十三文"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Item: cash, 5,935 kan 143 mon (5,935,143 mon)"
+      },
+      {
+        "purpose": "identifying",
+        "value": "館中入費錢"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p018_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1952,1078,103,1230"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p018_left-06",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "小譯"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "小訳（内訳）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Breakdown of the two totals above"
+      },
+      {
+        "purpose": "identifying",
+        "value": "小譯"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p018_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1838,1226,80,162"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p018_left-07",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "〃 米四拾九石貳斗九升五合壹勺八才"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "同、米四十九石二斗九升五合一勺八才"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Ditto: rice, 49.29518 koku"
+      },
+      {
+        "purpose": "identifying",
+        "value": "筆墨紙代米"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p018_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1682,1236,105,1322"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p018_left-08",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "〃 錢三千六百六拾九貫三百七拾五文"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "同、銭三千六百六十九貫三百七十五文"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Ditto: cash, 3,669 kan 375 mon (3,669,375 mon)"
+      },
+      {
+        "purpose": "identifying",
+        "value": "筆墨紙代錢"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p018_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1550,1235,101,1323"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p018_left-09",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "但在館役員渡筆墨紙代初入費一ヶ年凡如斯"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "ただし、在館役員へ渡す筆・墨・紙代、初入費、一ヶ年おおよそ此くの如し。"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Note: the cost of brushes, ink and paper issued to the officials resident in the compound, together with the initial outlays, comes to roughly this much in one year."
+      },
+      {
+        "purpose": "identifying",
+        "value": "但書在館役員筆墨紙代"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p018_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1405,1390,108,1590"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p018_left-10",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "〃 米貳拾七石九斗七升四合七勺"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "同、米二十七石九斗七升四合七勺"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Ditto: rice, 27.9747 koku"
+      },
+      {
+        "purpose": "identifying",
+        "value": "普請入用米"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p018_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1288,1234,97,1161"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p018_left-11",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "〃 錢貳千貳百六拾五貫七百六拾八文"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "同、銭二千二百六十五貫七百六十八文"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Ditto: cash, 2,265 kan 768 mon (2,265,768 mon)"
+      },
+      {
+        "purpose": "identifying",
+        "value": "普請入用錢"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p018_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1149,1234,100,1323"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p018_left-12",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "但館中建込之家々土藏板小屋普請入用大工飯米共如斯"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "ただし、館中に建て込みの家々・土蔵・板小屋の普請入用、大工の飯米とも此くの如し。"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Note: the building costs for the houses, earthen storehouses and board sheds erected inside the compound, the carpenters' rice rations included, come to this much."
+      },
+      {
+        "purpose": "identifying",
+        "value": "但書館中普請入用"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p018_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:994,1390,119,2007"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p018_left-13",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "藩制一覧表第一（嚴原）"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "藩制一覧表第一（厳原）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Hansei ichiran-hyo, Fascicle 1 (Izuhara) -- the running header, naming the source fascicle and the domain whose return this leaf belongs to"
+      },
+      {
+        "purpose": "identifying",
+        "value": "頁柱藩制一覧表第一嚴原"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p018_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:907,1308,77,571"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p018_left-14",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "十一"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "十一"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Printed book page 11"
+      },
+      {
+        "purpose": "identifying",
+        "value": "頁番號十一"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p018_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:883,3141,68,100"
+      }
+    }
+  }
+]

@@ -1,0 +1,1784 @@
+[
+ {
+  "pid": "lower_p014_left",
+  "owner": "郡山藩",
+  "field": "受領",
+  "ident": "明源寺受領",
+  "parsed": 0.168,
+  "raw": "受領一斗六升八合",
+  "unit": "石"
+ },
+ {
+  "pid": "lower_p014_left",
+  "owner": "郡山藩",
+  "field": "正税米",
+  "ident": "明源寺正税米",
+  "parsed": 0.04,
+  "raw": "正税米　四升",
+  "unit": "石"
+ },
+ {
+  "pid": "lower_p014_left",
+  "owner": "郡山藩",
+  "field": "受領",
+  "ident": "寶幢院受領",
+  "parsed": 25.0,
+  "raw": "受領二十五石",
+  "unit": "石"
+ },
+ {
+  "pid": "lower_p014_left",
+  "owner": "郡山藩",
+  "field": "正税",
+  "ident": "寶幢院正税",
+  "parsed": 20.0,
+  "raw": "正税　二十石",
+  "unit": "石"
+ },
+ {
+  "pid": "lower_p014_left",
+  "owner": "郡山藩",
+  "field": "受領",
+  "ident": "大崎寺受領",
+  "parsed": 5.0,
+  "raw": "受領五石",
+  "unit": "石"
+ },
+ {
+  "pid": "lower_p014_left",
+  "owner": "郡山藩",
+  "field": "正税",
+  "ident": "大崎寺正税",
+  "parsed": 4.0,
+  "raw": "正税　四石",
+  "unit": "石"
+ },
+ {
+  "pid": "lower_p014_left",
+  "owner": "郡山藩",
+  "field": "受領",
+  "ident": "宗正寺受領",
+  "parsed": 1.9,
+  "raw": "受領一石九斗",
+  "unit": "石"
+ },
+ {
+  "pid": "lower_p014_left",
+  "owner": "郡山藩",
+  "field": "正租",
+  "ident": "宗正寺正租",
+  "parsed": 1.8,
+  "raw": "正租　一石八斗",
+  "unit": "石"
+ },
+ {
+  "pid": "lower_p014_left",
+  "owner": "郡山藩",
+  "field": "受領",
+  "ident": "成菩提院受領",
+  "parsed": 160.627,
+  "raw": "受領百六十石六斗二升七合",
+  "unit": "石"
+ },
+ {
+  "pid": "lower_p014_left",
+  "owner": "郡山藩",
+  "field": "正租",
+  "ident": "成菩提院正租",
+  "parsed": 59.35676,
+  "raw": "正租　五十九石三斗五升六合七勺六才",
+  "unit": "石"
+ },
+ {
+  "pid": "lower_p014_left",
+  "owner": "郡山藩",
+  "field": "受領",
+  "ident": "法樂寺受領",
+  "parsed": 6.51,
+  "raw": "受領六石五斗一升",
+  "unit": "石"
+ },
+ {
+  "pid": "lower_p014_left",
+  "owner": "郡山藩",
+  "field": "正税",
+  "ident": "法樂寺正税",
+  "parsed": 5.859,
+  "raw": "正税　五石八斗五升九合",
+  "unit": "石"
+ },
+ {
+  "pid": "lower_p014_left",
+  "owner": "郡山藩",
+  "field": "受領",
+  "ident": "洞泉寺受領",
+  "parsed": 3.04,
+  "raw": "受領三石四升",
+  "unit": "石"
+ },
+ {
+  "pid": "lower_p014_right",
+  "owner": "郡山藩",
+  "field": "受領",
+  "ident": "天神社受領高",
+  "parsed": 10.0,
+  "raw": "受領十石",
+  "unit": "石"
+ },
+ {
+  "pid": "lower_p014_right",
+  "owner": "郡山藩",
+  "field": "正税米",
+  "ident": "天神社正税米",
+  "parsed": 3.428,
+  "raw": "正税米三石四斗二升八合",
+  "unit": "石"
+ },
+ {
+  "pid": "lower_p014_right",
+  "owner": "郡山藩",
+  "field": "受領",
+  "ident": "西光寺受領高",
+  "parsed": 11.4,
+  "raw": "受領十一石四斗",
+  "unit": "石"
+ },
+ {
+  "pid": "lower_p014_right",
+  "owner": "郡山藩",
+  "field": "正税米",
+  "ident": "西光寺正税米",
+  "parsed": 8.4664,
+  "raw": "正税米八石四斗六升六合四勺",
+  "unit": "石"
+ },
+ {
+  "pid": "lower_p014_right",
+  "owner": "郡山藩",
+  "field": "受領",
+  "ident": "總持寺受領高",
+  "parsed": 120.0,
+  "raw": "受領百二十石",
+  "unit": "石"
+ },
+ {
+  "pid": "lower_p014_right",
+  "owner": "郡山藩",
+  "field": "外ニ込高",
+  "ident": "總持寺外込高",
+  "parsed": 0.05,
+  "raw": "外ニ込高五升",
+  "unit": "石"
+ },
+ {
+  "pid": "lower_p014_right",
+  "owner": "郡山藩",
+  "field": "正租米",
+  "ident": "總持寺正租米",
+  "parsed": 63.576,
+  "raw": "正租米六十三石五斗七升六合",
+  "unit": "石"
+ },
+ {
+  "pid": "lower_p014_right",
+  "owner": "郡山藩",
+  "field": "雜税米",
+  "ident": "總持寺雜税米",
+  "parsed": 2.124,
+  "raw": "雜税米二石一斗二升四合",
+  "unit": "石"
+ },
+ {
+  "pid": "lower_p014_right",
+  "owner": "郡山藩",
+  "field": "受領",
+  "ident": "敬誓寺受領高",
+  "parsed": 0.148,
+  "raw": "受領一斗四升八合",
+  "unit": "石"
+ },
+ {
+  "pid": "lower_p014_right",
+  "owner": "郡山藩",
+  "field": "正税米",
+  "ident": "敬誓寺正税米",
+  "parsed": 0.03,
+  "raw": "正税米三升",
+  "unit": "石"
+ },
+ {
+  "pid": "lower_p014_right",
+  "owner": "郡山藩",
+  "field": "受領",
+  "ident": "安立寺受領高",
+  "parsed": 0.54,
+  "raw": "受領五斗四升",
+  "unit": "石"
+ },
+ {
+  "pid": "lower_p014_right",
+  "owner": "郡山藩",
+  "field": "正税",
+  "ident": "安立寺正税無之",
+  "parsed": 0.0,
+  "raw": "正税無之",
+  "unit": "石"
+ },
+ {
+  "pid": "lower_p014_right",
+  "owner": "郡山藩",
+  "field": "雜税",
+  "ident": "安立寺雜税鏹",
+  "parsed": 1500.0,
+  "raw": "雜税　鐚一貫五百文",
+  "unit": "文"
+ },
+ {
+  "pid": "lower_p192_left",
+  "owner": "鶴牧藩",
+  "field": "少參事",
+  "ident": "鶴牧藩少參事人數",
+  "parsed": 1.0,
+  "raw": "少參事　一人",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p192_left",
+  "owner": "鶴牧藩",
+  "field": "權少參事",
+  "ident": "鶴牧藩權少參事人數",
+  "parsed": 5.0,
+  "raw": "權少參事　五人",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p192_left",
+  "owner": "鶴牧藩",
+  "field": "兵隊",
+  "ident": "鶴牧藩兵隊",
+  "parsed": 120.0,
+  "raw": "兵隊　百二十人",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p192_right",
+  "owner": "鶴舞藩",
+  "field": "大參事員數",
+  "ident": "鶴舞大參事員數",
+  "parsed": 2.0,
+  "raw": "大參事　二人",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p192_right",
+  "owner": "鶴舞藩",
+  "field": "權大參事員數",
+  "ident": "鶴舞權大參事員數",
+  "parsed": 4.0,
+  "raw": "權大參事　四人",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p192_right",
+  "owner": "鶴舞藩",
+  "field": "少參事員數",
+  "ident": "鶴舞少參事員數",
+  "parsed": 1.0,
+  "raw": "少參事　二人（一人）",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p192_right",
+  "owner": "鶴舞藩",
+  "field": "權少參事員數",
+  "ident": "鶴舞權少參事員數",
+  "parsed": 4.0,
+  "raw": "權少參事　二人（四人）",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p192_right",
+  "owner": "鶴舞藩",
+  "field": "兵隊人員",
+  "ident": "鶴舞兵隊人員",
+  "parsed": 739.0,
+  "raw": "兵隊　七百三十九人",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p192_right",
+  "owner": "鶴牧藩",
+  "field": "大參事員數",
+  "ident": "鶴牧大參事員數",
+  "parsed": 2.0,
+  "raw": "大參事　二人",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p192_right",
+  "owner": "鶴牧藩",
+  "field": "權大參事員數",
+  "ident": "鶴牧權大參事員數",
+  "parsed": 5.0,
+  "raw": "權大參事　五人",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p193_left",
+  "owner": "中津藩",
+  "field": "兵隊",
+  "ident": "中津藩兵隊",
+  "parsed": 1937.0,
+  "raw": "兵隊　士千五十九人　卒八百七十八人",
+  "unit": "persons"
+ },
+ {
+  "pid": "lower_p193_right",
+  "owner": "鶴田藩",
+  "field": "大參事",
+  "ident": "鶴田大參事",
+  "parsed": 2.0,
+  "raw": "大參事　尾關秀　伊藤三郎",
+  "unit": "persons"
+ },
+ {
+  "pid": "lower_p193_right",
+  "owner": "鶴田藩",
+  "field": "權大參事",
+  "ident": "鶴田權大參事",
+  "parsed": 2.0,
+  "raw": "權大參事　野島亨　河鰭新",
+  "unit": "persons"
+ },
+ {
+  "pid": "lower_p193_right",
+  "owner": "鶴田藩",
+  "field": "少參事",
+  "ident": "鶴田少參事",
+  "parsed": 2.0,
+  "raw": "少參事　寺田與　河村弘",
+  "unit": "persons"
+ },
+ {
+  "pid": "lower_p193_right",
+  "owner": "鶴田藩",
+  "field": "少參事",
+  "ident": "鶴田少參事續",
+  "parsed": 1.0,
+  "raw": "岡尾靖",
+  "unit": "persons"
+ },
+ {
+  "pid": "lower_p193_right",
+  "owner": "鶴田藩",
+  "field": "權少參事",
+  "ident": "鶴田權少參事",
+  "parsed": 2.0,
+  "raw": "權少參事　與津實　岡村郡太",
+  "unit": "persons"
+ },
+ {
+  "pid": "lower_p193_right",
+  "owner": "鶴田藩",
+  "field": "權少參事",
+  "ident": "鶴田權少參事續",
+  "parsed": 2.0,
+  "raw": "服部傳　伊藤篤藏",
+  "unit": "persons"
+ },
+ {
+  "pid": "lower_p193_right",
+  "owner": "名古屋藩",
+  "field": "大參事",
+  "ident": "名古屋大參事",
+  "parsed": 2.0,
+  "raw": "大參事　二人",
+  "unit": "persons"
+ },
+ {
+  "pid": "lower_p193_right",
+  "owner": "名古屋藩",
+  "field": "權大參事",
+  "ident": "名古屋權大參事",
+  "parsed": 6.0,
+  "raw": "權大參事　六人",
+  "unit": "persons"
+ },
+ {
+  "pid": "lower_p193_right",
+  "owner": "名古屋藩",
+  "field": "少參事",
+  "ident": "名古屋少參事",
+  "parsed": 5.0,
+  "raw": "少參事　五人",
+  "unit": "persons"
+ },
+ {
+  "pid": "lower_p193_right",
+  "owner": "名古屋藩",
+  "field": "權少參事",
+  "ident": "名古屋權少參事",
+  "parsed": 11.0,
+  "raw": "權少參事　十一人",
+  "unit": "persons"
+ },
+ {
+  "pid": "lower_p193_right",
+  "owner": "名古屋藩",
+  "field": "士族兵",
+  "ident": "名古屋士族兵",
+  "parsed": 2480.0,
+  "raw": "士族兵　二千四百八十人",
+  "unit": "persons"
+ },
+ {
+  "pid": "lower_p193_right",
+  "owner": "名古屋藩",
+  "field": "卒族兵",
+  "ident": "名古屋卒族兵",
+  "parsed": 4720.0,
+  "raw": "卒族兵　四千七百二十人",
+  "unit": "persons"
+ },
+ {
+  "pid": "lower_p195_left",
+  "owner": "苗木藩",
+  "field": "兵隊",
+  "ident": "兵隊（苗木）",
+  "parsed": 1.0,
+  "raw": "兵隊　一小隊",
+  "unit": "小隊 (companies)"
+ },
+ {
+  "pid": "lower_p195_left",
+  "owner": "苗木藩",
+  "field": "生兵",
+  "ident": "生兵（苗木）",
+  "parsed": 50.0,
+  "raw": "生兵　五十人",
+  "unit": "人 (persons)"
+ },
+ {
+  "pid": "lower_p196_left",
+  "owner": "村上藩",
+  "field": "未編制兵隊",
+  "ident": "村上未編制兵隊",
+  "parsed": 180.0,
+  "raw": "未編制兵隊　三小隊　一隊六十人",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p196_left",
+  "owner": "村松藩",
+  "field": "大參事",
+  "ident": "村松大參事",
+  "parsed": 1.0,
+  "raw": "大參事　一人",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p196_left",
+  "owner": "村松藩",
+  "field": "權大參事",
+  "ident": "村松權大參事",
+  "parsed": 4.0,
+  "raw": "權大參事　四人",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p196_left",
+  "owner": "村松藩",
+  "field": "少參事",
+  "ident": "村松少參事",
+  "parsed": 2.0,
+  "raw": "少參事　二人",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p196_left",
+  "owner": "村松藩",
+  "field": "權少參事",
+  "ident": "村松權少參事",
+  "parsed": 1.0,
+  "raw": "權少參事　一人",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p196_left",
+  "owner": "村松藩",
+  "field": "兵隊",
+  "ident": "村松兵隊",
+  "parsed": 1102.0,
+  "raw": "兵隊　千百二人",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p196_left",
+  "owner": "村岡藩",
+  "field": "大參事",
+  "ident": "村岡大參事",
+  "parsed": 1.0,
+  "raw": "大參事　一人",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p196_left",
+  "owner": "村岡藩",
+  "field": "權大參事",
+  "ident": "村岡權大參事",
+  "parsed": 3.0,
+  "raw": "權大參事　三人",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p196_left",
+  "owner": "村岡藩",
+  "field": "正權少參事",
+  "ident": "村岡正權少參事",
+  "parsed": 2.0,
+  "raw": "正權少參事　二人",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p196_left",
+  "owner": "村岡藩",
+  "field": "兵隊",
+  "ident": "村岡兵隊",
+  "parsed": 100.0,
+  "raw": "兵隊　士族四十人　卒族六十人",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p197_left",
+  "owner": "臼杵藩",
+  "field": "大參事",
+  "ident": "臼杵大參事",
+  "parsed": 1.0,
+  "raw": "大參事　一人",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p197_left",
+  "owner": "臼杵藩",
+  "field": "權大參事",
+  "ident": "臼杵權大參事",
+  "parsed": 2.0,
+  "raw": "權大參事　二人",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p197_left",
+  "owner": "臼杵藩",
+  "field": "少參事",
+  "ident": "臼杵少參事",
+  "parsed": 3.0,
+  "raw": "少參事　三人",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p197_left",
+  "owner": "臼杵藩",
+  "field": "權少參事",
+  "ident": "臼杵權少參事",
+  "parsed": 3.0,
+  "raw": "權少參事　三人",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p197_left",
+  "owner": "臼杵藩",
+  "field": "兵員",
+  "ident": "臼杵兵員",
+  "parsed": 900.0,
+  "raw": "兵員　九百人",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p197_left",
+  "owner": "上田藩",
+  "field": "大參事",
+  "ident": "上田大參事",
+  "parsed": 1.0,
+  "raw": "大參事　一人",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p197_left",
+  "owner": "上田藩",
+  "field": "權大參事",
+  "ident": "上田權大參事",
+  "parsed": 3.0,
+  "raw": "權大參事　三人",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p197_left",
+  "owner": "上田藩",
+  "field": "少參事",
+  "ident": "上田少參事",
+  "parsed": 5.0,
+  "raw": "少參事　五人",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p218_left",
+  "owner": "古河藩",
+  "field": "小隊",
+  "ident": "古河兵隊小隊",
+  "parsed": 576.0,
+  "raw": "拾二小隊　五百七拾六人　一小隊役員トモ五拾六人",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p218_left",
+  "owner": "古河藩",
+  "field": "礮隊",
+  "ident": "古河礮隊",
+  "parsed": 28.0,
+  "raw": "礮隊四組　二拾八人　一組役員トモ九人",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p218_left",
+  "owner": "小諸藩",
+  "field": "知事",
+  "ident": "小諸知事",
+  "parsed": 1.0,
+  "raw": "知事　一人",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p218_left",
+  "owner": "小諸藩",
+  "field": "大參事",
+  "ident": "小諸大參事",
+  "parsed": 2.0,
+  "raw": "大參事　二人",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p218_left",
+  "owner": "小諸藩",
+  "field": "權大參事",
+  "ident": "小諸權大參事",
+  "parsed": 1.0,
+  "raw": "權大參事　一人",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p218_left",
+  "owner": "小諸藩",
+  "field": "少參事",
+  "ident": "小諸少參事",
+  "parsed": 2.0,
+  "raw": "少參事　二人",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p218_left",
+  "owner": "小諸藩",
+  "field": "小隊",
+  "ident": "小諸兵隊小隊",
+  "parsed": 120.0,
+  "raw": "二小隊　百二十名　一小隊役員トモ八十一人",
+  "unit": "名"
+ },
+ {
+  "pid": "lower_p218_left",
+  "owner": "小諸藩",
+  "field": "役員",
+  "ident": "小諸兵隊役員",
+  "parsed": 42.0,
+  "raw": "役員　四十二名",
+  "unit": "名"
+ },
+ {
+  "pid": "lower_p218_left",
+  "owner": "小諸藩",
+  "field": "合計人員",
+  "ident": "小諸兵隊合計",
+  "parsed": 162.0,
+  "raw": "合百六十二名",
+  "unit": "名"
+ },
+ {
+  "pid": "lower_p218_left",
+  "owner": "小諸藩",
+  "field": "砲兵隊",
+  "ident": "小諸砲兵隊砲門",
+  "parsed": 2.0,
+  "raw": "砲兵隊　四斤施條炮二門",
+  "unit": "門"
+ },
+ {
+  "pid": "lower_p218_left",
+  "owner": "小諸藩",
+  "field": "人夫共人員",
+  "ident": "小諸砲兵隊人夫共",
+  "parsed": 26.0,
+  "raw": "人夫トモ二十六人",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p218_right",
+  "owner": "古河藩",
+  "field": "知事",
+  "ident": "古河藩知事員數",
+  "parsed": 1.0,
+  "raw": "知事　一人",
+  "unit": "persons"
+ },
+ {
+  "pid": "lower_p218_right",
+  "owner": "古河藩",
+  "field": "大參事",
+  "ident": "古河藩大參事員數",
+  "parsed": 2.0,
+  "raw": "大參事　二人",
+  "unit": "persons"
+ },
+ {
+  "pid": "lower_p218_right",
+  "owner": "古河藩",
+  "field": "權大參事",
+  "ident": "古河藩權大參事員數",
+  "parsed": 6.0,
+  "raw": "權大參事　六人",
+  "unit": "persons"
+ },
+ {
+  "pid": "lower_p218_right",
+  "owner": "古河藩",
+  "field": "少參事",
+  "ident": "古河藩少參事員數",
+  "parsed": 3.0,
+  "raw": "少參事　三人",
+  "unit": "persons"
+ },
+ {
+  "pid": "lower_p225_left",
+  "owner": "安志藩",
+  "field": "知事",
+  "ident": "安志知事",
+  "parsed": 1.0,
+  "raw": "知事　一人",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p225_left",
+  "owner": "安志藩",
+  "field": "大參事",
+  "ident": "安志大參事",
+  "parsed": 1.0,
+  "raw": "大參事　一人",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p225_left",
+  "owner": "安志藩",
+  "field": "權大參事",
+  "ident": "安志權大參事",
+  "parsed": 2.0,
+  "raw": "權大參事　二人",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p225_left",
+  "owner": "安志藩",
+  "field": "少參事",
+  "ident": "安志少參事",
+  "parsed": 2.0,
+  "raw": "少參事　二人",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p225_left",
+  "owner": "安志藩",
+  "field": "兵隊",
+  "ident": "安志兵隊",
+  "parsed": 1.0,
+  "raw": "兵隊　一小隊　役員トモ六十人",
+  "unit": "小隊"
+ },
+ {
+  "pid": "lower_p225_left",
+  "owner": "淺尾藩",
+  "field": "知事",
+  "ident": "淺尾知事",
+  "parsed": 1.0,
+  "raw": "知事　一人",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p225_left",
+  "owner": "淺尾藩",
+  "field": "大參事",
+  "ident": "淺尾大參事",
+  "parsed": 1.0,
+  "raw": "大參事　一人",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p225_left",
+  "owner": "淺尾藩",
+  "field": "權大參事",
+  "ident": "淺尾權大參事",
+  "parsed": 2.0,
+  "raw": "權大參事　二人",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p225_left",
+  "owner": "淺尾藩",
+  "field": "少參事",
+  "ident": "淺尾少參事",
+  "parsed": 1.0,
+  "raw": "少參事　一人",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p225_left",
+  "owner": "淺尾藩",
+  "field": "權少參事",
+  "ident": "淺尾權少參事",
+  "parsed": 2.0,
+  "raw": "權少參事　二人",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p227_right",
+  "owner": "佐賀藩",
+  "field": "大隊數",
+  "ident": "佐賀藩六大隊",
+  "parsed": 6.0,
+  "raw": "六大隊",
+  "unit": "大隊"
+ },
+ {
+  "pid": "lower_p227_right",
+  "owner": "佐賀藩",
+  "field": "砲數",
+  "ident": "佐賀藩砲三十六門",
+  "parsed": 36.0,
+  "raw": "砲三十六門",
+  "unit": "門"
+ },
+ {
+  "pid": "lower_p227_right",
+  "owner": "佐賀藩",
+  "field": "士官",
+  "ident": "佐賀藩士官員數",
+  "parsed": 864.0,
+  "raw": "士官八百六十四員",
+  "unit": "員"
+ },
+ {
+  "pid": "lower_p227_right",
+  "owner": "佐賀藩",
+  "field": "砲士",
+  "ident": "佐賀藩砲士人數",
+  "parsed": 180.0,
+  "raw": "砲士百八拾人",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p227_right",
+  "owner": "佐賀藩",
+  "field": "兵士",
+  "ident": "佐賀藩兵士人數",
+  "parsed": 1440.0,
+  "raw": "兵士千四百四十人",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p227_right",
+  "owner": "佐賀藩",
+  "field": "砲卒",
+  "ident": "佐賀藩砲卒人數",
+  "parsed": 108.0,
+  "raw": "砲卒百八人",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p227_right",
+  "owner": "佐賀藩",
+  "field": "兵卒",
+  "ident": "佐賀藩兵卒人數",
+  "parsed": 260.0,
+  "raw": "兵卒貳百六十人",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p227_right",
+  "owner": "佐賀藩",
+  "field": "藥卒",
+  "ident": "佐賀藩藥卒人數",
+  "parsed": 120.0,
+  "raw": "樂卒百貳十人",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p234_left",
+  "owner": "宮津藩",
+  "field": "權大參事",
+  "ident": "宮津權大參事",
+  "parsed": 5.0,
+  "raw": "權大參事　五人",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p234_left",
+  "owner": "宮津藩",
+  "field": "少參事",
+  "ident": "宮津少參事",
+  "parsed": 4.0,
+  "raw": "少參事　四人",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p234_left",
+  "owner": "宮津藩",
+  "field": "權少參事",
+  "ident": "宮津權少參事",
+  "parsed": 4.0,
+  "raw": "權少參事　四人",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p234_left",
+  "owner": "宮津藩",
+  "field": "兵隊（士族）",
+  "ident": "宮津兵隊士族",
+  "parsed": 449.0,
+  "raw": "兵隊　四百四十九人　士族",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p234_left",
+  "owner": "宮津藩",
+  "field": "兵隊（卒）",
+  "ident": "宮津兵隊卒",
+  "parsed": 239.0,
+  "raw": "二百三十九人　卒",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p234_left",
+  "owner": "水口藩",
+  "field": "大參事",
+  "ident": "水口大參事",
+  "parsed": 1.0,
+  "raw": "大參事　一人　中村栗翁",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p234_left",
+  "owner": "水口藩",
+  "field": "權大參事",
+  "ident": "水口權大參事",
+  "parsed": 2.0,
+  "raw": "權大參事　二人　加藤精一　岡田正和",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p234_left",
+  "owner": "水口藩",
+  "field": "少參事",
+  "ident": "水口少參事",
+  "parsed": 2.0,
+  "raw": "少參事　二人　佃　極",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p234_left",
+  "owner": "水口藩",
+  "field": "鬪虎隊",
+  "ident": "水口鬪虎隊",
+  "parsed": 50.0,
+  "raw": "鬪虎隊　一小隊五十人",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p234_left",
+  "owner": "水口藩",
+  "field": "敢死隊",
+  "ident": "水口敢死隊",
+  "parsed": 50.0,
+  "raw": "敢死隊　一小隊五十人",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p234_left",
+  "owner": "水口藩",
+  "field": "礮隊",
+  "ident": "水口礮隊",
+  "parsed": 24.0,
+  "raw": "礮隊　一分隊二十四人",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p234_right",
+  "owner": "三春藩",
+  "field": "銃兵",
+  "ident": "銃兵",
+  "parsed": 5.0,
+  "raw": "銃兵　五小隊",
+  "unit": "小隊"
+ },
+ {
+  "pid": "lower_p234_right",
+  "owner": "三春藩",
+  "field": "銃兵一隊人員",
+  "ident": "銃兵編制註",
+  "parsed": 60.0,
+  "raw": "一隊六十人　但二十人不足",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p234_right",
+  "owner": "三春藩",
+  "field": "役司",
+  "ident": "銃兵役司",
+  "parsed": 8.0,
+  "raw": "役司八人",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p234_right",
+  "owner": "三春藩",
+  "field": "大砲隊",
+  "ident": "大砲隊",
+  "parsed": 1.5,
+  "raw": "大砲隊　一分半隊",
+  "unit": "分隊"
+ },
+ {
+  "pid": "lower_p234_right",
+  "owner": "三春藩",
+  "field": "大砲隊一分隊人員",
+  "ident": "大砲隊編制註",
+  "parsed": 16.0,
+  "raw": "一分隊十六人ノ積",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p234_right",
+  "owner": "三春藩",
+  "field": "役司",
+  "ident": "大砲隊役司",
+  "parsed": 2.0,
+  "raw": "役司二人",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p234_right",
+  "owner": "宮津藩",
+  "field": "大參事",
+  "ident": "宮津藩大參事",
+  "parsed": 1.0,
+  "raw": "大參事　一人",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p235_right",
+  "owner": "水口藩",
+  "field": "鼓笛手",
+  "ident": "水口鼓笛手",
+  "parsed": 20.0,
+  "raw": "鼓笛手　二十人",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p235_right",
+  "owner": "水口藩",
+  "field": "隊長以下役員",
+  "ident": "水口隊長以下役員",
+  "parsed": 28.0,
+  "raw": "隊長以下役員　二十八人",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p235_right",
+  "owner": "水口藩",
+  "field": "器械方",
+  "ident": "水口器械方",
+  "parsed": 10.0,
+  "raw": "器械方　十人",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p235_right",
+  "owner": "壬生藩",
+  "field": "大參事",
+  "ident": "壬生大參事",
+  "parsed": 1.0,
+  "raw": "大參事　一人",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p235_right",
+  "owner": "壬生藩",
+  "field": "權大參事",
+  "ident": "壬生權大參事",
+  "parsed": 5.0,
+  "raw": "權大參事　五人",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p235_right",
+  "owner": "壬生藩",
+  "field": "少參事",
+  "ident": "壬生少參事",
+  "parsed": 5.0,
+  "raw": "少參事　五人",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p235_right",
+  "owner": "壬生藩",
+  "field": "權少參事",
+  "ident": "壬生權少參事",
+  "parsed": 5.0,
+  "raw": "權少參事　五人",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p235_right",
+  "owner": "壬生藩",
+  "field": "兵隊",
+  "ident": "壬生兵隊",
+  "parsed": 12.0,
+  "raw": "兵隊　十二小隊但一隊三十人",
+  "unit": "小隊"
+ },
+ {
+  "pid": "lower_p235_right",
+  "owner": "壬生藩",
+  "field": "兵隊合計",
+  "ident": "壬生兵隊合計三百六十人",
+  "parsed": 360.0,
+  "raw": "合三百六十人　四隊但一隊九十人",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p235_right",
+  "owner": "壬生藩",
+  "field": "遊兵隊",
+  "ident": "壬生遊兵隊",
+  "parsed": 28.0,
+  "raw": "遊兵隊　二十八人",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p238_left",
+  "owner": "新發田藩",
+  "field": "步兵",
+  "ident": "新發田步兵三大隊",
+  "parsed": 3.0,
+  "raw": "步兵　三大隊",
+  "unit": "大隊"
+ },
+ {
+  "pid": "lower_p238_left",
+  "owner": "新發田藩",
+  "field": "砲兵",
+  "ident": "新發田砲兵二百人",
+  "parsed": 200.0,
+  "raw": "砲兵　二百人",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p238_left",
+  "owner": "嶋原藩",
+  "field": "大少參事",
+  "ident": "嶋原大少參事八人",
+  "parsed": 8.0,
+  "raw": "大少參事　八人",
+  "unit": "人"
+ },
+ {
+  "pid": "lower_p238_left",
+  "owner": "嶋原藩",
+  "field": "常備兵",
+  "ident": "嶋原常備兵四小隊",
+  "parsed": 4.0,
+  "raw": "常備兵　四小隊",
+  "unit": "小隊"
+ },
+ {
+  "pid": "lower_p238_left",
+  "owner": "嶋原藩",
+  "field": "豫備",
+  "ident": "嶋原豫備七小隊",
+  "parsed": 7.0,
+  "raw": "豫備　七小隊",
+  "unit": "小隊"
+ },
+ {
+  "pid": "lower_p238_left",
+  "owner": "嶋原藩",
+  "field": "炮隊",
+  "ident": "嶋原炮隊三隊",
+  "parsed": 3.0,
+  "raw": "炮隊　三隊",
+  "unit": "隊"
+ },
+ {
+  "pid": "lower_p238_right",
+  "owner": "靜岡藩",
+  "field": "本書頁番号四百五十二",
+  "ident": "本書頁番号四百五十二",
+  "parsed": 452.0,
+  "raw": "四百五十二",
+  "unit": ""
+ },
+ {
+  "pid": "upper_p018_left",
+  "owner": "嚴原藩",
+  "field": "米",
+  "ident": "館中入費米",
+  "parsed": 77.26988,
+  "raw": "一 米七拾七石貳斗六升九合八勺八才",
+  "unit": "石"
+ },
+ {
+  "pid": "upper_p018_left",
+  "owner": "嚴原藩",
+  "field": "此精米",
+  "ident": "館中入費此精米",
+  "parsed": 69.54289,
+  "raw": "此精米六拾九石五斗四升貳合八勺九才",
+  "unit": "石"
+ },
+ {
+  "pid": "upper_p018_left",
+  "owner": "嚴原藩",
+  "field": "錢",
+  "ident": "館中入費錢",
+  "parsed": 5935143.0,
+  "raw": "一 錢五千九百三拾五貫百四拾三文",
+  "unit": "文"
+ },
+ {
+  "pid": "upper_p018_left",
+  "owner": "嚴原藩",
+  "field": "米",
+  "ident": "筆墨紙代米",
+  "parsed": 49.29518,
+  "raw": "〃 米四拾九石貳斗九升五合壹勺八才",
+  "unit": "石"
+ },
+ {
+  "pid": "upper_p018_left",
+  "owner": "嚴原藩",
+  "field": "錢",
+  "ident": "筆墨紙代錢",
+  "parsed": 3669375.0,
+  "raw": "〃 錢三千六百六拾九貫三百七拾五文",
+  "unit": "文"
+ },
+ {
+  "pid": "upper_p018_left",
+  "owner": "嚴原藩",
+  "field": "米",
+  "ident": "普請入用米",
+  "parsed": 27.9747,
+  "raw": "〃 米貳拾七石九斗七升四合七勺",
+  "unit": "石"
+ },
+ {
+  "pid": "upper_p018_left",
+  "owner": "嚴原藩",
+  "field": "錢",
+  "ident": "普請入用錢",
+  "parsed": 2265768.0,
+  "raw": "〃 錢貳千貳百六拾五貫七百六拾八文",
+  "unit": "文"
+ },
+ {
+  "pid": "upper_p018_right",
+  "owner": "嚴原藩",
+  "field": "同",
+  "ident": "同五千七百六拾貫文",
+  "parsed": 5760.0,
+  "raw": "、同五千七百六拾貫文",
+  "unit": "貫文"
+ },
+ {
+  "pid": "upper_p018_right",
+  "owner": "嚴原藩",
+  "field": "（同）",
+  "ident": "三千四百五拾貫文",
+  "parsed": 3450.0,
+  "raw": "、三千四百五拾貫文",
+  "unit": "貫文"
+ },
+ {
+  "pid": "upper_p018_right",
+  "owner": "嚴原藩",
+  "field": "同",
+  "ident": "同貳千三百四貫文",
+  "parsed": 2304.0,
+  "raw": "同貳千三百四貫文",
+  "unit": "貫文"
+ },
+ {
+  "pid": "upper_p018_right",
+  "owner": "嚴原藩",
+  "field": "米",
+  "ident": "米貳拾石四斗壹升四合八勺壹才",
+  "parsed": 20.41481,
+  "raw": "、米貳拾石四斗壹升四合八勺壹才",
+  "unit": "石"
+ },
+ {
+  "pid": "upper_p018_right",
+  "owner": "嚴原藩",
+  "field": "錢",
+  "ident": "錢貳千九百四拾六貫六百文",
+  "parsed": 2946.6,
+  "raw": "、錢貳千九百四拾六貫六百文",
+  "unit": "貫文"
+ },
+ {
+  "pid": "upper_p018_right",
+  "owner": "嚴原藩",
+  "field": "錢",
+  "ident": "錢貳千三百四拾九貫七百五拾文",
+  "parsed": 2349.75,
+  "raw": "、錢貳千三百四拾九貫七百五拾文",
+  "unit": "貫文"
+ },
+ {
+  "pid": "upper_p019_left",
+  "owner": "嚴原藩",
+  "field": "米",
+  "ident": "通辨町役給米",
+  "parsed": 188.46541,
+  "raw": "一米百八拾八石四斗六升五合四勺壹才",
+  "unit": "石"
+ },
+ {
+  "pid": "upper_p019_left",
+  "owner": "嚴原藩",
+  "field": "合米",
+  "ident": "合米",
+  "parsed": 4615.65819,
+  "raw": "合米四千六百拾五石六斗五升八合壹勺九才",
+  "unit": "石"
+ },
+ {
+  "pid": "upper_p019_left",
+  "owner": "嚴原藩",
+  "field": "合錢",
+  "ident": "合錢",
+  "parsed": 27679.948,
+  "raw": "合／錢貳萬七千六百七拾九貫九百四拾八文／金ニシテ貳千七百六拾七兩九合九勺四才",
+  "unit": "貫"
+ },
+ {
+  "pid": "upper_p019_left",
+  "owner": "嚴原藩",
+  "field": "合金",
+  "ident": "合金",
+  "parsed": 2000.0,
+  "raw": "合金貳千兩",
+  "unit": "兩"
+ },
+ {
+  "pid": "upper_p019_left",
+  "owner": "嚴原藩",
+  "field": "合丹木",
+  "ident": "合丹木",
+  "parsed": 1450.0,
+  "raw": "合丹木千四百五拾斤",
+  "unit": "斤"
+ },
+ {
+  "pid": "upper_p019_left",
+  "owner": "嚴原藩",
+  "field": "合大豆",
+  "ident": "合大豆",
+  "parsed": 20.0,
+  "raw": "合大豆貳拾俵",
+  "unit": "俵"
+ },
+ {
+  "pid": "upper_p019_left",
+  "owner": "嚴原藩",
+  "field": "合木綿",
+  "ident": "合木綿",
+  "parsed": 150.0,
+  "raw": "合木綿百五拾疋",
+  "unit": "疋"
+ },
+ {
+  "pid": "upper_p019_left",
+  "owner": "嚴原藩",
+  "field": "合銅",
+  "ident": "合銅",
+  "parsed": 1000.0,
+  "raw": "合銅千斤",
+  "unit": "斤"
+ },
+ {
+  "pid": "upper_p019_left",
+  "owner": "嚴原藩",
+  "field": "木綿",
+  "ident": "參判使入費木綿",
+  "parsed": 450.0,
+  "raw": "一木綿四百五拾尺",
+  "unit": "尺"
+ },
+ {
+  "pid": "upper_p019_left",
+  "owner": "嚴原藩",
+  "field": "米",
+  "ident": "參判使入費米",
+  "parsed": 62.10378,
+  "raw": "一米六拾貳石壹斗三合七勺八才",
+  "unit": "石"
+ },
+ {
+  "pid": "upper_p019_left",
+  "owner": "嚴原藩",
+  "field": "錢",
+  "ident": "參判使入費錢",
+  "parsed": 3344.748,
+  "raw": "一錢三千三拾四拾四貫七百四拾八文",
+  "unit": "貫"
+ },
+ {
+  "pid": "upper_p019_right",
+  "owner": "嚴原藩",
+  "field": "米",
+  "ident": "米高",
+  "parsed": 3323.9086,
+  "raw": "一米三千三百貳拾三石九斗八合六勺",
+  "unit": "石"
+ },
+ {
+  "pid": "upper_p019_right",
+  "owner": "嚴原藩",
+  "field": "此精米",
+  "ident": "此精米",
+  "parsed": 2991.51774,
+  "raw": "此精米貳千九百九拾壹石五斗壹升七合七勺四才",
+  "unit": "石"
+ },
+ {
+  "pid": "upper_p019_right",
+  "owner": "嚴原藩",
+  "field": "錢",
+  "ident": "錢高",
+  "parsed": 234567.0,
+  "raw": "一錢貳百三拾四貫五百六拾七文",
+  "unit": "文"
+ },
+ {
+  "pid": "upper_p019_right",
+  "owner": "嚴原藩",
+  "field": "米",
+  "ident": "小譯米在留役員給金",
+  "parsed": 1474.93661,
+  "raw": "〃米千四百七拾四石九斗三升六合六勺壹才",
+  "unit": "石"
+ },
+ {
+  "pid": "upper_p019_right",
+  "owner": "嚴原藩",
+  "field": "錢",
+  "ident": "小譯錢在留役員給金",
+  "parsed": 234567.0,
+  "raw": "〃錢貳百三拾四貫五百六拾七文",
+  "unit": "文"
+ },
+ {
+  "pid": "upper_p019_right",
+  "owner": "嚴原藩",
+  "field": "米",
+  "ident": "小譯米往來役員船中飯米",
+  "parsed": 393.15812,
+  "raw": "〃米三百九拾三石壹斗五升八合壹勺貳才",
+  "unit": "石"
+ },
+ {
+  "pid": "upper_p019_right",
+  "owner": "嚴原藩",
+  "field": "米",
+  "ident": "小譯同大船水夫留守扶持",
+  "parsed": 146.22656,
+  "raw": "〃同百四拾六石貳斗貳升六合五勺六才",
+  "unit": "石"
+ },
+ {
+  "pid": "upper_p019_right",
+  "owner": "嚴原藩",
+  "field": "米",
+  "ident": "小譯米大船賃米",
+  "parsed": 1309.58731,
+  "raw": "〃米千三百九石五斗八升七合三勺壹才",
+  "unit": "石"
+ },
+ {
+  "pid": "upper_p020_left",
+  "owner": "嚴原藩",
+  "field": "和漂民入費米高",
+  "ident": "和漂民入費米高總計",
+  "parsed": 80.00942,
+  "raw": "一米八拾石九合四勺貳才",
+  "unit": "石"
+ },
+ {
+  "pid": "upper_p020_left",
+  "owner": "嚴原藩",
+  "field": "和漂民入費錢高",
+  "ident": "和漂民入費錢高總計",
+  "parsed": 5486.822,
+  "raw": "一錢五千四百八拾六貫八百貳拾貳文",
+  "unit": "貫文"
+ },
+ {
+  "pid": "upper_p020_left",
+  "owner": "嚴原藩",
+  "field": "和漂民朝鮮在留中入費米高",
+  "ident": "小譯在留入費米高",
+  "parsed": 5.10638,
+  "raw": "〃米五石壹斗六合三勺八才",
+  "unit": "石"
+ },
+ {
+  "pid": "upper_p020_left",
+  "owner": "嚴原藩",
+  "field": "和漂民朝鮮在留中入費錢高",
+  "ident": "小譯在留入費錢高",
+  "parsed": 1668.988,
+  "raw": "〃錢千六百六拾八貫九百八拾八文",
+  "unit": "貫文"
+ },
+ {
+  "pid": "upper_p020_left",
+  "owner": "嚴原藩",
+  "field": "別段差渡人夫飯米高",
+  "ident": "小譯人夫飯米高",
+  "parsed": 37.75626,
+  "raw": "〃米三拾七石七斗五升六合貳勺六才",
+  "unit": "石"
+ },
+ {
+  "pid": "upper_p020_left",
+  "owner": "嚴原藩",
+  "field": "別段差渡人夫賃銀高",
+  "ident": "小譯人夫賃銀高",
+  "parsed": 169.834,
+  "raw": "〃錢百六拾九貫八百三拾四文",
+  "unit": "貫文"
+ },
+ {
+  "pid": "upper_p020_left",
+  "owner": "嚴原藩",
+  "field": "續項米高",
+  "ident": "小譯續米高八石",
+  "parsed": 8.57777,
+  "raw": "〃米八石五斗七升七合七勺七才",
+  "unit": "石"
+ },
+ {
+  "pid": "upper_p020_right",
+  "owner": "嚴原藩",
+  "field": "木綿",
+  "ident": "判事贈木綿",
+  "parsed": 450.0,
+  "raw": "〃木綿四百五拾疋",
+  "unit": "疋"
+ },
+ {
+  "pid": "upper_p020_right",
+  "owner": "嚴原藩",
+  "field": "米",
+  "ident": "小通事贈米",
+  "parsed": 3.53333,
+  "raw": "〃米三石五斗三升三合三勺三才",
+  "unit": "石"
+ },
+ {
+  "pid": "upper_p020_right",
+  "owner": "嚴原藩",
+  "field": "錢",
+  "ident": "在館中諸入費錢",
+  "parsed": 899687.0,
+  "raw": "〃錢八百九拾九貫六百八拾七文",
+  "unit": "文"
+ },
+ {
+  "pid": "upper_p020_right",
+  "owner": "嚴原藩",
+  "field": "米",
+  "ident": "人夫飯米",
+  "parsed": 19.18888,
+  "raw": "〃米拾九石壹斗八升八合八勺八才",
+  "unit": "石"
+ },
+ {
+  "pid": "upper_p020_right",
+  "owner": "嚴原藩",
+  "field": "錢",
+  "ident": "人夫賃銀錢",
+  "parsed": 589061.0,
+  "raw": "〃錢五百八拾九貫六拾壹文",
+  "unit": "文"
+ },
+ {
+  "pid": "upper_p020_right",
+  "owner": "嚴原藩",
+  "field": "米",
+  "ident": "水夫飯米",
+  "parsed": 24.74546,
+  "raw": "〃米貳拾四石七斗四升五合四勺六才",
+  "unit": "石"
+ },
+ {
+  "pid": "upper_p020_right",
+  "owner": "嚴原藩",
+  "field": "同（米）",
+  "ident": "同拾四石六斗三升六合壹勺壹才",
+  "parsed": 14.63611,
+  "raw": "〃同拾四石六斗三升六合壹勺壹才",
+  "unit": "石"
+ },
+ {
+  "pid": "upper_p020_right",
+  "owner": "嚴原藩",
+  "field": "錢",
+  "ident": "錢千五百四拾六貫文",
+  "parsed": 1546000.0,
+  "raw": "〃錢千五百四拾六貫文",
+  "unit": "文"
+ },
+ {
+  "pid": "upper_p021_left",
+  "owner": "嚴原藩",
+  "field": "米",
+  "ident": "譯官逗留中米",
+  "parsed": 220.64587,
+  "raw": "〃米貳百貳拾石六斗四升五合八勺七才",
+  "unit": "koku"
+ },
+ {
+  "pid": "upper_p021_left",
+  "owner": "嚴原藩",
+  "field": "錢",
+  "ident": "譯官逗留中錢",
+  "parsed": 6653.765,
+  "raw": "〃錢六千六百五拾三貫七百六拾五文",
+  "unit": "kan (貫文)"
+ },
+ {
+  "pid": "upper_p021_left",
+  "owner": "嚴原藩",
+  "field": "米",
+  "ident": "譯官迎米",
+  "parsed": 16.45227,
+  "raw": "〃米拾六石四斗五升貳合貳勺七才",
+  "unit": "koku"
+ },
+ {
+  "pid": "upper_p021_left",
+  "owner": "嚴原藩",
+  "field": "錢",
+  "ident": "譯官迎錢",
+  "parsed": 843.894,
+  "raw": "〃錢八百四拾三貫八百九拾四文",
+  "unit": "kan (貫文)"
+ },
+ {
+  "pid": "upper_p021_left",
+  "owner": "嚴原藩",
+  "field": "米",
+  "ident": "譯官送米",
+  "parsed": 48.47687,
+  "raw": "〃米四拾八石四斗七升六合八勺七才",
+  "unit": "koku"
+ },
+ {
+  "pid": "upper_p021_left",
+  "owner": "嚴原藩",
+  "field": "錢",
+  "ident": "譯官送錢",
+  "parsed": 1380.044,
+  "raw": "〃錢千三百八拾貫四拾四文",
+  "unit": "kan (貫文)"
+ },
+ {
+  "pid": "upper_p021_left",
+  "owner": "嚴原藩",
+  "field": "錢",
+  "ident": "堂上以下進物錢",
+  "parsed": 2103.297,
+  "raw": "〃錢貳千百三貫貳百九拾七文",
+  "unit": "kan (貫文)"
+ },
+ {
+  "pid": "upper_p021_left",
+  "owner": "嚴原藩",
+  "field": "銅",
+  "ident": "堂上以下進物銅",
+  "parsed": 8413.0,
+  "raw": "銅八千四百拾三斤壹勺八才",
+  "unit": "kin (斤)"
+ },
+ {
+  "pid": "upper_p021_right",
+  "owner": "嚴原藩",
+  "field": "別段差渡役員宛行米",
+  "ident": "別段差渡役員宛行米",
+  "parsed": 14.56901,
+  "raw": "〃同拾四石五斗六升九合壹才",
+  "unit": "石"
+ },
+ {
+  "pid": "upper_p021_right",
+  "owner": "嚴原藩",
+  "field": "和漂民護送使宛行米",
+  "ident": "和漂民護送使宛行米",
+  "parsed": 14.0,
+  "raw": "〃同拾四石",
+  "unit": "石"
+ },
+ {
+  "pid": "upper_p021_right",
+  "owner": "嚴原藩",
+  "field": "和漂民護送使宛行錢",
+  "ident": "和漂民護送使宛行錢",
+  "parsed": 768.0,
+  "raw": "〃錢七百六拾八貫文",
+  "unit": "貫文"
+ },
+ {
+  "pid": "upper_p021_right",
+  "owner": "嚴原藩",
+  "field": "漂民駕船護送使乘船船賃錢",
+  "ident": "漂民駕船船賃錢",
+  "parsed": 2888.0,
+  "raw": "〃同貳千八百八拾八貫文",
+  "unit": "貫文"
+ },
+ {
+  "pid": "upper_p021_right",
+  "owner": "嚴原藩",
+  "field": "譯官渡來入費米",
+  "ident": "譯官渡來入費米",
+  "parsed": 523.82509,
+  "raw": "一米五百貳拾三石八斗貳升五合九才",
+  "unit": "石"
+ },
+ {
+  "pid": "upper_p021_right",
+  "owner": "嚴原藩",
+  "field": "譯官渡來入費錢",
+  "ident": "譯官渡來入費錢",
+  "parsed": 26846.544,
+  "raw": "一錢貳萬六千八百四拾六貫五百四拾四文",
+  "unit": "貫文"
+ }
+]

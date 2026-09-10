@@ -1,0 +1,452 @@
+[
+  {
+    "id": "anno-komoro_lower_p218_left-00",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "拾二小隊　五百七拾六人　一小隊役員トモ五拾六人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "十二小隊　五百七十六人　一小隊役員とも五十六人"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Twelve platoons; 576 men. One platoon, officers included, 56 men."
+      },
+      {
+        "purpose": "identifying",
+        "value": "古河兵隊小隊"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p218_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2560,1029,95,1681"
+      }
+    }
+  },
+  {
+    "id": "anno-komoro_lower_p218_left-01",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "礮隊四組　二拾八人　一組役員トモ九人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "砲隊四組　二十八人　一組役員とも九人"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Artillery: four batteries; 28 men. One battery, officers included, 9 men."
+      },
+      {
+        "purpose": "identifying",
+        "value": "古河礮隊"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p218_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2430,1026,93,1299"
+      }
+    }
+  },
+  {
+    "id": "anno-komoro_lower_p218_left-02",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "○小　諸　藩"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "○小諸藩"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Circle marker: Komoro Domain — begins Komoro's block; everything to its right belongs to the preceding domain."
+      },
+      {
+        "purpose": "identifying",
+        "value": "小諸藩標"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p218_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2283,1362,109,571"
+      }
+    }
+  },
+  {
+    "id": "anno-komoro_lower_p218_left-03",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "知事　一人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "知事　一人"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Governor (chiji): 1 person."
+      },
+      {
+        "purpose": "identifying",
+        "value": "小諸知事"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p218_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2162,1027,90,585"
+      }
+    }
+  },
+  {
+    "id": "anno-komoro_lower_p218_left-04",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "大參事　二人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "大参事　二人"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Senior councillor (daisanji): 2 persons."
+      },
+      {
+        "purpose": "identifying",
+        "value": "小諸大參事"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p218_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2028,1029,93,585"
+      }
+    }
+  },
+  {
+    "id": "anno-komoro_lower_p218_left-05",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "權大參事　一人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "権大参事　一人"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Acting senior councillor (gon-daisanji): 1 person."
+      },
+      {
+        "purpose": "identifying",
+        "value": "小諸權大參事"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p218_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1894,1027,94,586"
+      }
+    }
+  },
+  {
+    "id": "anno-komoro_lower_p218_left-06",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "少參事　二人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "少参事　二人"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Junior councillor (shosanji): 2 persons."
+      },
+      {
+        "purpose": "identifying",
+        "value": "小諸少參事"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p218_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1764,1028,90,585"
+      }
+    }
+  },
+  {
+    "id": "anno-komoro_lower_p218_left-07",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "兵隊"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "兵隊"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Troops — heading introducing Komoro's military returns; no figure of its own."
+      },
+      {
+        "purpose": "identifying",
+        "value": "小諸兵隊見出"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p218_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1635,1193,84,167"
+      }
+    }
+  },
+  {
+    "id": "anno-komoro_lower_p218_left-08",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "二小隊　百二十名　一小隊役員トモ八十一人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "二小隊　百二十名　一小隊役員とも八十一人"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Two platoons; 120 men. One platoon, officers included, 81 men."
+      },
+      {
+        "purpose": "identifying",
+        "value": "小諸兵隊小隊"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p218_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1500,1034,92,1419"
+      }
+    }
+  },
+  {
+    "id": "anno-komoro_lower_p218_left-09",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "役員　四十二名"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "役員　四十二名"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Officers: 42 men."
+      },
+      {
+        "purpose": "identifying",
+        "value": "小諸兵隊役員"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p218_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1362,1110,92,586"
+      }
+    }
+  },
+  {
+    "id": "anno-komoro_lower_p218_left-10",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "合百六十二名"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "合わせて百六十二名"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Total: 162 men (120 rank and file plus 42 officers)."
+      },
+      {
+        "purpose": "identifying",
+        "value": "小諸兵隊合計"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p218_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1231,1026,93,503"
+      }
+    }
+  },
+  {
+    "id": "anno-komoro_lower_p218_left-11",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "砲兵隊　四斤施條炮二門"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "砲兵隊　四斤施条砲二門"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Artillery corps: two 4-kin rifled cannon."
+      },
+      {
+        "purpose": "identifying",
+        "value": "小諸砲兵隊砲門"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p218_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1086,1023,95,922"
+      }
+    }
+  },
+  {
+    "id": "anno-komoro_lower_p218_left-12",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "人夫トモ二十六人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "人夫とも二十六人"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Twenty-six persons, labourers included (the artillery corps' complement)."
+      },
+      {
+        "purpose": "identifying",
+        "value": "小諸砲兵隊人夫共"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p218_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:955,1111,92,668"
+      }
+    }
+  },
+  {
+    "id": "anno-komoro_lower_p218_left-13",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "藩制一覽表第九（小諸）"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "藩制一覧表第九（小諸）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Running header: Hansei ichiran, Table Nine (Komoro) — provenance for the leaf."
+      },
+      {
+        "purpose": "identifying",
+        "value": "柱題藩制一覽表第九小諸"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p218_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:838,1281,76,579"
+      }
+    }
+  },
+  {
+    "id": "anno-komoro_lower_p218_left-14",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "四百十三"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "四百十三"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Printed book-page number 413."
+      },
+      {
+        "purpose": "identifying",
+        "value": "丁付四百十三"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p218_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:819,3128,71,213"
+      }
+    }
+  }
+]

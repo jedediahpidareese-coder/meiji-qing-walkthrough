@@ -1,0 +1,782 @@
+[
+  {
+    "id": "anno-miharu_lower_p234_right-00",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "藩制一覽表第九（宮津）"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "藩制一覧表第九（宮津）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Running header: Overview of Domain Institutions, Fascicle 9 (Miyazu). Provenance only — it names the domain whose entry opens on this sheet, not the domain that fills it."
+      },
+      {
+        "purpose": "identifying",
+        "value": "藩制一覽表第九（宮津）"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p234_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2215,1217,71,579"
+      }
+    }
+  },
+  {
+    "id": "anno-miharu_lower_p234_right-01",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "四百四十四"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "四百四十四"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Printed page number in the outer margin: 444."
+      },
+      {
+        "purpose": "identifying",
+        "value": "印刷頁四百四十四"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p234_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2213,3057,67,268"
+      }
+    }
+  },
+  {
+    "id": "anno-miharu_lower_p234_right-02",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "正權大參事　不詳"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "正権大参事　不詳"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Full and acting senior councillors (sei/gon daisanji): the number is not recorded. The names themselves are printed in the lower register of this sheet — one daisanji and six gon-daisanji."
+      },
+      {
+        "purpose": "identifying",
+        "value": "正權大參事"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p234_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2082,963,85,668"
+      }
+    }
+  },
+  {
+    "id": "anno-miharu_lower_p234_right-03",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "少參事　大見勇記"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "少参事　大見勇記"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Junior councillor (shōsanji): Ōmi Yūki."
+      },
+      {
+        "purpose": "identifying",
+        "value": "少參事大見勇記"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p234_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1946,962,91,1085"
+      }
+    }
+  },
+  {
+    "id": "anno-miharu_lower_p234_right-04",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "秋田主計"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "秋田主計"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Junior councillor (shōsanji), under the 少參事 heading in the column to the right: Akita Kazue."
+      },
+      {
+        "purpose": "identifying",
+        "value": "少參事秋田主計"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p234_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1814,1466,74,580"
+      }
+    }
+  },
+  {
+    "id": "anno-miharu_lower_p234_right-05",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "一員衞ニ作ル"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "一（本）は員衞に作る"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Editorial variant note on the preceding name: one copy writes the given name as 員衞 (also read Kazue)."
+      },
+      {
+        "purpose": "identifying",
+        "value": "秋田主計異名註"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p234_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1888,1817,56,382"
+      }
+    }
+  },
+  {
+    "id": "anno-miharu_lower_p234_right-06",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "瀧田湊"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "滝田湊"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Junior councillor (shōsanji), under the same 少參事 heading: Takita Minato."
+      },
+      {
+        "purpose": "identifying",
+        "value": "少參事瀧田湊"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p234_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1676,1466,86,586"
+      }
+    }
+  },
+  {
+    "id": "anno-miharu_lower_p234_right-07",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "權少參事　不破幾馬"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "権少参事　不破幾馬"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Acting junior councillor (gon-shōsanji): Fuwa Ikuma."
+      },
+      {
+        "purpose": "identifying",
+        "value": "權少參事不破幾馬"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p234_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1538,967,88,1085"
+      }
+    }
+  },
+  {
+    "id": "anno-miharu_lower_p234_right-08",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "東嘉內"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "東嘉内"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Acting junior councillor (gon-shōsanji), under the 權少參事 heading two columns to the right: Azuma Kanai."
+      },
+      {
+        "purpose": "identifying",
+        "value": "權少參事東嘉内"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p234_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1406,1468,87,589"
+      }
+    }
+  },
+  {
+    "id": "anno-miharu_lower_p234_right-09",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "熊田嘉膳"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "熊田嘉膳"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Acting junior councillor (gon-shōsanji), under the same 權少參事 heading: Kumada Kazen."
+      },
+      {
+        "purpose": "identifying",
+        "value": "權少參事熊田嘉膳"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p234_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1271,1467,88,586"
+      }
+    }
+  },
+  {
+    "id": "anno-miharu_lower_p234_right-10",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "一善ニ作ル"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "一（本）は善に作る"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Editorial variant note on the preceding name: one copy writes 善 in place of 膳."
+      },
+      {
+        "purpose": "identifying",
+        "value": "熊田嘉膳異名註"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p234_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1287,2073,72,315"
+      }
+    }
+  },
+  {
+    "id": "anno-miharu_lower_p234_right-11",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "銃兵　五小隊"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "銃兵　五小隊"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Riflemen: five companies (shōtai)."
+      },
+      {
+        "purpose": "identifying",
+        "value": "銃兵"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p234_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1133,969,86,501"
+      }
+    }
+  },
+  {
+    "id": "anno-miharu_lower_p234_right-12",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "一隊六十人　但二十人不足"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "一隊六十人　但し二十人不足"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Double-column note: one company is 60 men, but the unit is 20 men short. Five companies at 60 would be 300 men; taking the shortfall as a shortfall of the whole leaves 280. The note does not say whether the 20 are short of the whole or short per company, so the 280 is a reading, not a printed figure."
+      },
+      {
+        "purpose": "identifying",
+        "value": "銃兵編制註"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p234_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1117,1491,119,460"
+      }
+    }
+  },
+  {
+    "id": "anno-miharu_lower_p234_right-13",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "役司八人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "役司八人"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Unit officers of the riflemen: 8 persons."
+      },
+      {
+        "purpose": "identifying",
+        "value": "銃兵役司"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p234_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:998,1057,87,331"
+      }
+    }
+  },
+  {
+    "id": "anno-miharu_lower_p234_right-14",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "大砲隊　一分半隊"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "大砲隊　一分半隊"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Artillery corps: one and a half sections (buntai)."
+      },
+      {
+        "purpose": "identifying",
+        "value": "大砲隊"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p234_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:864,973,89,666"
+      }
+    }
+  },
+  {
+    "id": "anno-miharu_lower_p234_right-15",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "一分隊十六人ノ積"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "一分隊十六人の積り"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Note: one section is reckoned at 16 men. One and a half sections therefore comes to 24 men."
+      },
+      {
+        "purpose": "identifying",
+        "value": "大砲隊編制註"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p234_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:880,1658,73,531"
+      }
+    }
+  },
+  {
+    "id": "anno-miharu_lower_p234_right-16",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "役司二人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "役司二人"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Unit officers of the artillery corps: 2 persons."
+      },
+      {
+        "purpose": "identifying",
+        "value": "大砲隊役司"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p234_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:733,1058,87,329"
+      }
+    }
+  },
+  {
+    "id": "anno-miharu_lower_p234_right-17",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "○宮津藩"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "○宮津藩"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Maru-marker opening the entry for Miyazu Domain. Everything to its right on this sheet belongs to Miharu; the one column to its left is Miyazu's."
+      },
+      {
+        "purpose": "identifying",
+        "value": "宮津藩標記"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p234_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:584,1313,107,563"
+      }
+    }
+  },
+  {
+    "id": "anno-miharu_lower_p234_right-18",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "大參事　一人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "大参事　一人"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Senior councillor (daisanji): 1 person. Miyazu's entry continues on printed page 445."
+      },
+      {
+        "purpose": "identifying",
+        "value": "宮津藩大參事"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p234_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:459,979,88,580"
+      }
+    }
+  },
+  {
+    "id": "anno-miharu_lower_p234_right-19",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "大參事　秋田千柄"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "大参事　秋田千柄"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Senior councillor (daisanji): Akita Chigara."
+      },
+      {
+        "purpose": "identifying",
+        "value": "三春藩大參事秋田千柄"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p234_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2077,2471,87,1002"
+      }
+    }
+  },
+  {
+    "id": "anno-miharu_lower_p234_right-20",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "權大參事　細川可柳"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "権大参事　細川可柳"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Acting senior councillor (gon-daisanji): Hosokawa Karyū."
+      },
+      {
+        "purpose": "identifying",
+        "value": "三春藩權大參事細川可柳"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p234_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1943,2470,91,1007"
+      }
+    }
+  },
+  {
+    "id": "anno-miharu_lower_p234_right-21",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "秋田彌十郎"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "秋田弥十郎"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Acting senior councillor (gon-daisanji), under the 權大參事 heading in the column to the right: Akita Yajūrō."
+      },
+      {
+        "purpose": "identifying",
+        "value": "三春藩權大參事秋田彌十郎"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p234_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1808,2892,85,584"
+      }
+    }
+  },
+  {
+    "id": "anno-miharu_lower_p234_right-22",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "奧村新一郎"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "奥村新一郎"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Acting senior councillor (gon-daisanji): Okumura Shin'ichirō."
+      },
+      {
+        "purpose": "identifying",
+        "value": "三春藩權大參事奧村新一郎"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p234_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1672,2893,87,589"
+      }
+    }
+  },
+  {
+    "id": "anno-miharu_lower_p234_right-23",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "秋田廣記"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "秋田広記"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Acting senior councillor (gon-daisanji): Akita Hiroki."
+      },
+      {
+        "purpose": "identifying",
+        "value": "三春藩權大參事秋田廣記"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p234_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1534,2897,88,579"
+      }
+    }
+  },
+  {
+    "id": "anno-miharu_lower_p234_right-24",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "山野權六"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "山野権六"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Acting senior councillor (gon-daisanji): Yamano Gonroku."
+      },
+      {
+        "purpose": "identifying",
+        "value": "三春藩權大參事山野權六"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p234_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1403,2897,88,584"
+      }
+    }
+  },
+  {
+    "id": "anno-miharu_lower_p234_right-25",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "湊潤藏"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "湊潤蔵"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Acting senior councillor (gon-daisanji): Minato Junzō."
+      },
+      {
+        "purpose": "identifying",
+        "value": "三春藩權大參事湊潤藏"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p234_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1269,2894,87,589"
+      }
+    }
+  }
+]

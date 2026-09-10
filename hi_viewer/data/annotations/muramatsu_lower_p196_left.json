@@ -1,0 +1,662 @@
+[
+  {
+    "id": "anno-muramatsu_lower_p196_left-00",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "未編制兵隊　三小隊　一隊六十人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "未編制兵隊　三小隊　一隊六十人／みへんせいへいたい　さんしょうたい　いったいろくじゅうにん"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Unincorporated troops: three platoons, sixty men to the platoon, that is 180 men. The gloss 一隊六十人 is set in smaller type after 三小隊. This column stands to the RIGHT of the ○村松藩 marker, so it closes Murakami Domain's military return, which begins on the facing leaf (lower_p196_right) with 兵隊　二小隊　一隊六十人, 役員　三十二人 and 喇叭手　八人."
+      },
+      {
+        "purpose": "identifying",
+        "value": "村上未編制兵隊"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p196_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2628,1011,94,1089"
+      }
+    }
+  },
+  {
+    "id": "anno-muramatsu_lower_p196_left-01",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "○村松藩"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "○村松藩／むらまつはん"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Maru-marker opening the block of Muramatsu Domain (Echigo province, Hori house). Everything to its left on this leaf as far as the ○村岡藩 marker is Muramatsu's; everything to its right closes the preceding domain, Murakami. The name prints with the ordinary 村, not the variant 邨."
+      },
+      {
+        "purpose": "identifying",
+        "value": "○村松藩"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p196_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2480,1346,106,559"
+      }
+    }
+  },
+  {
+    "id": "anno-muramatsu_lower_p196_left-02",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "大參事　一人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "大参事　一人／だいさんじ　いちにん"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Senior councillor (daisanji): 1 post. The single appointee is named in the register below."
+      },
+      {
+        "purpose": "identifying",
+        "value": "村松大參事"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p196_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2359,1009,94,576"
+      }
+    }
+  },
+  {
+    "id": "anno-muramatsu_lower_p196_left-03",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "近藤安五郎"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "近藤安五郎／こんどう やすごろう"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Senior councillor Kondō Yasugorō, the sole appointee, printed in the upper name register directly beneath the 大參事 heading. The column has no lower-register name, matching the printed count of one."
+      },
+      {
+        "purpose": "identifying",
+        "value": "村松大參事近藤安五郎"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p196_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2347,2011,86,586"
+      }
+    }
+  },
+  {
+    "id": "anno-muramatsu_lower_p196_left-04",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "權大參事　四人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "権大参事　四人／ごんだいさんじ　よにん"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Acting senior councillor (gon-daisanji): 4 posts. Two of the four are named in this column's upper and lower registers; the roster continues leftward into the next column, which prints no heading of its own."
+      },
+      {
+        "purpose": "identifying",
+        "value": "村松權大參事"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p196_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2232,1004,90,580"
+      }
+    }
+  },
+  {
+    "id": "anno-muramatsu_lower_p196_left-05",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "松井蔀"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "松井蔀／まつい しとみ"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Acting senior councillor Matsui Shitomi, first of the four, printed in the upper name register beneath the 權大參事 heading."
+      },
+      {
+        "purpose": "identifying",
+        "value": "村松權大參事松井蔀"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p196_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2215,2017,87,578"
+      }
+    }
+  },
+  {
+    "id": "anno-muramatsu_lower_p196_left-06",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "野口大吉"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "野口大吉／のぐち だいきち"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Acting senior councillor Noguchi Daikichi, second of the four, printed in the lower name register under Matsui Shitomi."
+      },
+      {
+        "purpose": "identifying",
+        "value": "村松權大參事野口大吉"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p196_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2198,2936,90,582"
+      }
+    }
+  },
+  {
+    "id": "anno-muramatsu_lower_p196_left-07",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "兒島泉"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "児島泉／こじま いずみ"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Acting senior councillor Kojima Izumi, third of the four. This column prints no heading of its own — its ink begins only in the name register at y2010 — so it continues the 權大參事 roster leftward from the previous column."
+      },
+      {
+        "purpose": "identifying",
+        "value": "村松權大參事兒島泉"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p196_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2079,2002,91,587"
+      }
+    }
+  },
+  {
+    "id": "anno-muramatsu_lower_p196_left-08",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "治運"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "治運／じうん（読み未詳）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Acting senior councillor, name printed as the two characters 治運 (Jiun; the reading is not certain from the print alone), fourth and last of the four. It sits in the lower register of the unheaded continuation column, the two glyphs set at the head and the foot of the name slot. With Matsui, Noguchi and Kojima this completes the printed count of 四人."
+      },
+      {
+        "purpose": "identifying",
+        "value": "村松權大參事治運"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p196_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2064,2935,89,577"
+      }
+    }
+  },
+  {
+    "id": "anno-muramatsu_lower_p196_left-09",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "少參事　二人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "少参事　二人／しょうさんじ　ににん"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Junior councillor (shōsanji): 2 posts, both named in this column's upper and lower registers."
+      },
+      {
+        "purpose": "identifying",
+        "value": "村松少參事"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p196_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1962,1003,92,575"
+      }
+    }
+  },
+  {
+    "id": "anno-muramatsu_lower_p196_left-10",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "狩野與一"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "狩野与一／かのう よいち"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Junior councillor Kanō Yoichi, upper-register appointee of the 少參事 column. The final glyph is the single horizontal stroke 一, only 11 px tall."
+      },
+      {
+        "purpose": "identifying",
+        "value": "村松少參事狩野與一"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p196_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1944,2011,88,553"
+      }
+    }
+  },
+  {
+    "id": "anno-muramatsu_lower_p196_left-11",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "小野但見"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "小野但見／おの ただみ"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Junior councillor Ono Tadami, lower-register appointee of the 少參事 column. The two names match the printed count of 二人."
+      },
+      {
+        "purpose": "identifying",
+        "value": "村松少參事小野但見"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p196_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1928,2933,90,578"
+      }
+    }
+  },
+  {
+    "id": "anno-muramatsu_lower_p196_left-12",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "權少參事　一人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "権少参事　一人／ごんしょうさんじ　いちにん"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Acting junior councillor (gon-shōsanji): 1 post, named below."
+      },
+      {
+        "purpose": "identifying",
+        "value": "村松權少參事"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p196_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1829,1000,93,579"
+      }
+    }
+  },
+  {
+    "id": "anno-muramatsu_lower_p196_left-13",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "小玉收輔"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "小玉収輔／こだま しゅうすけ"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Acting junior councillor Kodama Shūsuke, the sole appointee; the column prints no lower-register name, matching the count of one. Muramatsu's four office columns give 1 + 4 + 2 + 1 = 8 posts, and the leaf prints exactly eight names."
+      },
+      {
+        "purpose": "identifying",
+        "value": "村松權少參事小玉收輔"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p196_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1809,2010,88,583"
+      }
+    }
+  },
+  {
+    "id": "anno-muramatsu_lower_p196_left-14",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "兵隊　千百二人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "兵隊　千百二人／へいたい　せんひゃくににん"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Troops: 1,102 men. The leading numeral is 千 — the slanted stroke sits on top of the cross — not 十, so the figure is one thousand one hundred and two. Muramatsu's return gives a single undifferentiated total, with no platoon breakdown and no shizoku/sotsu split."
+      },
+      {
+        "purpose": "identifying",
+        "value": "村松兵隊"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p196_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1695,999,96,662"
+      }
+    }
+  },
+  {
+    "id": "anno-muramatsu_lower_p196_left-15",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "○村岡藩"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "○村岡藩／むらおかはん"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Maru-marker opening the block of Muraoka Domain (Tajima province, Yamana house). Everything to its left on this leaf is Muraoka's; everything to its right, back as far as the ○村松藩 marker, is Muramatsu's. The name prints here with the ordinary 村, not the variant 邨 used for this domain elsewhere in the survey."
+      },
+      {
+        "purpose": "identifying",
+        "value": "○村岡藩"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p196_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1549,1337,107,553"
+      }
+    }
+  },
+  {
+    "id": "anno-muramatsu_lower_p196_left-16",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "大參事　一人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "大参事　一人／だいさんじ　いちにん"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Senior councillor (daisanji): 1 post. No officeholder's name is printed — Muraoka's entry gives counts only, with the name registers left blank the whole way down the leaf."
+      },
+      {
+        "purpose": "identifying",
+        "value": "村岡大參事"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p196_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1427,998,90,579"
+      }
+    }
+  },
+  {
+    "id": "anno-muramatsu_lower_p196_left-17",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "權大參事　三人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "権大参事　三人／ごんだいさんじ　さんにん"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Acting senior councillor (gon-daisanji): 3 posts. No names are given."
+      },
+      {
+        "purpose": "identifying",
+        "value": "村岡權大參事"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p196_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1298,996,87,577"
+      }
+    }
+  },
+  {
+    "id": "anno-muramatsu_lower_p196_left-18",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "正權少參事　二人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "正権少参事　二人／せいごんしょうさんじ　ににん"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Full and acting junior councillors (shōsanji and gon-shōsanji) taken together: 2 posts. Muraoka collapses the two grades under a single heading rather than printing 少參事 and 權少參事 separately as Muramatsu does. No names are given. Muraoka's three office columns give 1 + 3 + 2 = 6 posts in all."
+      },
+      {
+        "purpose": "identifying",
+        "value": "村岡正權少參事"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p196_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1165,996,87,660"
+      }
+    }
+  },
+  {
+    "id": "anno-muramatsu_lower_p196_left-19",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "兵隊　士族四十人　卒族六十人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "兵隊　士族四十人　卒族六十人／へいたい　しぞくよんじゅうにん　そつぞくろくじゅうにん"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Troops: 40 shizoku and 60 sotsu, 100 men in all. The heading 兵隊 sits over a two-run warichu split, 士族四十人 in the right-hand run (read first) and 卒族六十人 in the left. Muraoka is one of the domains that reports its force by status rather than by platoon."
+      },
+      {
+        "purpose": "identifying",
+        "value": "村岡兵隊"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p196_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1011,991,120,806"
+      }
+    }
+  },
+  {
+    "id": "anno-muramatsu_lower_p196_left-20",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "藩制一覽表第九（村松、村岡）"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "藩制一覧表 第九（村松、村岡）／はんせいいちらんひょう だいきゅう（むらまつ、むらおか）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Outer-margin running header, set in smaller type: Survey of Domain Administration, Fascicle 9 (Muramatsu, Muraoka). Provenance only. It names the two domains whose maru-markers open on this leaf and says nothing about Murakami, whose military return occupies the rightmost column."
+      },
+      {
+        "purpose": "identifying",
+        "value": "藩制一覽表第九（村松、村岡）"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p196_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:903,1240,76,708"
+      }
+    }
+  },
+  {
+    "id": "anno-muramatsu_lower_p196_left-21",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "三百六十九"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "三百六十九／さんびゃくろくじゅうきゅう"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Printed book-page number 369 in the outer margin. The facing leaf, lower_p196_right, prints 368. Not data."
+      },
+      {
+        "purpose": "identifying",
+        "value": "三百六十九"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p196_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:883,3088,68,266"
+      }
+    }
+  }
+]

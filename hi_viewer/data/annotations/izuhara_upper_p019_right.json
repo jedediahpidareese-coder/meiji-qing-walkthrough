@@ -1,0 +1,452 @@
+[
+  {
+    "id": "anno-izuhara_upper_p019_right-00",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "藩制一覽表第一（嚴原）"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "藩制一覧表第一（厳原）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Table of Domain Institutions, Fascicle One (Izuhara)"
+      },
+      {
+        "purpose": "identifying",
+        "value": "藩制一覽表第一（嚴原）"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p019_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2219,1350,82,577"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p019_right-01",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "十二"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "十二"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Page 12 (printed book-page number in the outer margin)"
+      },
+      {
+        "purpose": "identifying",
+        "value": "丁付十二"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p019_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2187,3184,70,114"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p019_right-02",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "一米三千三百貳拾三石九斗八合六勺"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "一、米 三千三百二十三石九斗八合六勺"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Item: rice, 3,323.9086 koku"
+      },
+      {
+        "purpose": "identifying",
+        "value": "米高"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p019_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2079,1119,106,1320"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p019_right-03",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "此精米貳千九百九拾壹石五斗壹升七合七勺四才"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "此の精米 二千九百九十一石五斗一升七合七勺四才"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "The same expressed as polished rice: 2,991.51774 koku (nine-tenths of the 3,323.9086 koku above)"
+      },
+      {
+        "purpose": "identifying",
+        "value": "此精米"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p019_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1935,1259,116,1759"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p019_right-04",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "一錢貳百三拾四貫五百六拾七文"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "一、銭 二百三十四貫五百六十七文"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Item: cash, 234 kan 567 mon (234,567 mon)"
+      },
+      {
+        "purpose": "identifying",
+        "value": "錢高"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p019_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1815,1117,105,1149"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p019_right-05",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "小譯"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "小訳"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Itemized breakdown (heading for the four sub-items that follow)"
+      },
+      {
+        "purpose": "identifying",
+        "value": "小譯"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p019_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1703,1260,81,163"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p019_right-06",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "〃米千四百七拾四石九斗三升六合六勺壹才"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "〃 米 千四百七十四石九斗三升六合六勺一才"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Ditto: rice, 1,474.93661 koku"
+      },
+      {
+        "purpose": "identifying",
+        "value": "小譯米在留役員給金"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p019_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1531,1270,116,1579"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p019_right-07",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "〃錢貳百三拾四貫五百六拾七文"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "〃 銭 二百三十四貫五百六十七文"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Ditto: cash, 234 kan 567 mon (234,567 mon)"
+      },
+      {
+        "purpose": "identifying",
+        "value": "小譯錢在留役員給金"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p019_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1406,1271,103,1157"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p019_right-08",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "但和館在留役員給金米一ヶ年凡如斯"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "但し、和館在留役員給金米 一ヶ年凡そ斯くの如し"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Note: the annual salary money and rice for officials resident at the Wakan (the Japan House at Pusan) is roughly as above"
+      },
+      {
+        "purpose": "identifying",
+        "value": "但書在留役員給金"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p019_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1265,1421,109,1341"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p019_right-09",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "〃米三百九拾三石壹斗五升八合壹勺貳才"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "〃 米 三百九十三石一斗五升八合一勺二才"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Ditto: rice, 393.15812 koku"
+      },
+      {
+        "purpose": "identifying",
+        "value": "小譯米往來役員船中飯米"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p019_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1135,1265,108,1496"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p019_right-10",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "但和館往來役員船中飯米且大小船水夫飯米凡如斯"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "但し、和館往来役員船中飯米、且つ大小船水夫飯米 凡そ斯くの如し"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Note: the shipboard meal rice for officials travelling to and from the Wakan, together with the meal rice for the crews of the large and small vessels, is roughly as above"
+      },
+      {
+        "purpose": "identifying",
+        "value": "但書往來役員船中飯米"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p019_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:983,1417,124,1843"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p019_right-11",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "〃同百四拾六石貳斗貳升六合五勺六才"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "〃 同 百四十六石二斗二升六合五勺六才"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Ditto, same commodity (rice): 146.22656 koku"
+      },
+      {
+        "purpose": "identifying",
+        "value": "小譯同大船水夫留守扶持"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p019_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:865,1260,107,1415"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p019_right-12",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "但和館往來大船水夫留守扶持如斯"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "但し、和館往来大船水夫留守扶持 斯くの如し"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Note: the maintenance allowance (fuchi) for the crew of the large vessel that plies to and from the Wakan, paid over their absence, is as above"
+      },
+      {
+        "purpose": "identifying",
+        "value": "但書大船水夫留守扶持"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p019_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:725,1410,107,1258"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p019_right-13",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "〃米千三百九石五斗八升七合三勺壹才"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "〃 米 千三百九石五斗八升七合三勺一才"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Ditto: rice, 1,309.58731 koku"
+      },
+      {
+        "purpose": "identifying",
+        "value": "小譯米大船賃米"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p019_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:590,1258,110,1405"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p019_right-14",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "但右同斷大船賃米高如斯"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "但し、右同断 大船賃米高 斯くの如し"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Note: likewise, the rice paid for hire of the large vessel amounts to the above"
+      },
+      {
+        "purpose": "identifying",
+        "value": "但書大船賃米高"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p019_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:466,1412,99,917"
+      }
+    }
+  }
+]

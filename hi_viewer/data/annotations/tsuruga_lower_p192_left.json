@@ -1,0 +1,872 @@
+[
+  {
+    "id": "anno-tsuruga_lower_p192_left-00",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "靑木久兵衞"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "青木久兵衛（あおき きゅうべえ）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Aoki Kyūbee — the fifth of Tsurumaki Domain's five gon-daisanji (acting senior councillors); the first four are printed on the facing recto"
+      },
+      {
+        "purpose": "identifying",
+        "value": "鶴牧藩權大參事靑木久兵衞"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p192_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2605,1992,84,593"
+      }
+    }
+  },
+  {
+    "id": "anno-tsuruga_lower_p192_left-01",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "少參事　一人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "少参事　一人"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Shō-sanji (junior councillor): 1 man"
+      },
+      {
+        "purpose": "identifying",
+        "value": "鶴牧藩少參事人數"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p192_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2482,992,86,582"
+      }
+    }
+  },
+  {
+    "id": "anno-tsuruga_lower_p192_left-02",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "石井文藏"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "石井文蔵（いしい ぶんぞう）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Ishii Bunzō — the one shō-sanji of Tsurumaki Domain"
+      },
+      {
+        "purpose": "identifying",
+        "value": "鶴牧藩少參事石井文藏"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p192_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2473,2002,84,584"
+      }
+    }
+  },
+  {
+    "id": "anno-tsuruga_lower_p192_left-03",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "權少參事　五人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "権少参事　五人"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Gon-shōsanji (acting junior councillor): 5 men"
+      },
+      {
+        "purpose": "identifying",
+        "value": "鶴牧藩權少參事人數"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p192_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2345,990,88,580"
+      }
+    }
+  },
+  {
+    "id": "anno-tsuruga_lower_p192_left-04",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "豐田愼藏"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "豊田慎蔵（とよだ しんぞう）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Toyoda Shinzō — first of the five gon-shōsanji"
+      },
+      {
+        "purpose": "identifying",
+        "value": "鶴牧藩權少參事豐田愼藏"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p192_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2338,2000,87,583"
+      }
+    }
+  },
+  {
+    "id": "anno-tsuruga_lower_p192_left-05",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "大多和文平"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "大多和文平（おおたわ ぶんぺい）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Ōtawa Bunpei — fourth of the five gon-shōsanji, printed in the lower register"
+      },
+      {
+        "purpose": "identifying",
+        "value": "鶴牧藩權少參事大多和文平"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p192_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2326,2922,91,582"
+      }
+    }
+  },
+  {
+    "id": "anno-tsuruga_lower_p192_left-06",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "小幡治兵衞"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "小幡治兵衛（おばた じへえ）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Obata Jihee — second of the five gon-shōsanji"
+      },
+      {
+        "purpose": "identifying",
+        "value": "鶴牧藩權少參事小幡治兵衞"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p192_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2202,2001,89,584"
+      }
+    }
+  },
+  {
+    "id": "anno-tsuruga_lower_p192_left-07",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "關甫"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "関甫（せき はじめ）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Seki Hajime — fifth of the five gon-shōsanji, printed in the lower register; the two glyphs are set far apart, 關 at the top of the column and 甫 at its foot"
+      },
+      {
+        "purpose": "identifying",
+        "value": "鶴牧藩權少參事關甫"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p192_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2195,2923,84,582"
+      }
+    }
+  },
+  {
+    "id": "anno-tsuruga_lower_p192_left-08",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "本多要"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "本多要（ほんだ かなめ）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Honda Kaname — third of the five gon-shōsanji"
+      },
+      {
+        "purpose": "identifying",
+        "value": "鶴牧藩權少參事本多要"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p192_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2069,2001,91,584"
+      }
+    }
+  },
+  {
+    "id": "anno-tsuruga_lower_p192_left-09",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "兵隊　百二十人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "兵隊　百二十人"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Troops: 120 men"
+      },
+      {
+        "purpose": "identifying",
+        "value": "鶴牧藩兵隊"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p192_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1942,993,86,649"
+      }
+    }
+  },
+  {
+    "id": "anno-tsuruga_lower_p192_left-10",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "○敦賀藩"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "○敦賀藩（つるがはん）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Maru-marker opening the entry for Tsuruga Domain (Echizen province); everything to its left on this page belongs to Tsuruga, everything to its right to Tsurumaki"
+      },
+      {
+        "purpose": "identifying",
+        "value": "敦賀藩マル印"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p192_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1795,1329,105,563"
+      }
+    }
+  },
+  {
+    "id": "anno-tsuruga_lower_p192_left-11",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "大參事"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "大参事"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Daisanji (senior councillor) — office heading; Tsuruga prints no head-count beneath it"
+      },
+      {
+        "purpose": "identifying",
+        "value": "敦賀藩大參事職名"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p192_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1676,996,84,248"
+      }
+    }
+  },
+  {
+    "id": "anno-tsuruga_lower_p192_left-12",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "寺町四郎左衞門"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "寺町四郎左衛門（てらまち しろうざえもん）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Teramachi Shirōzaemon — daisanji of Tsuruga Domain"
+      },
+      {
+        "purpose": "identifying",
+        "value": "敦賀藩大參事寺町四郎左衞門"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p192_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1666,2003,87,579"
+      }
+    }
+  },
+  {
+    "id": "anno-tsuruga_lower_p192_left-13",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "權少參事"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "権少参事"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Gon-shōsanji (acting junior councillor) — office heading in the lower register; the two names under it stand in the columns to its left"
+      },
+      {
+        "purpose": "identifying",
+        "value": "敦賀藩權少參事職名"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p192_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1660,2757,84,333"
+      }
+    }
+  },
+  {
+    "id": "anno-tsuruga_lower_p192_left-14",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "權大參事"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "権大参事"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Gon-daisanji (acting senior councillor) — office heading"
+      },
+      {
+        "purpose": "identifying",
+        "value": "敦賀藩權大參事職名"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p192_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1542,995,84,332"
+      }
+    }
+  },
+  {
+    "id": "anno-tsuruga_lower_p192_left-15",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "寺町元之進"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "寺町元之進（てらまち げんのしん）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Teramachi Gennoshin — first of the two gon-daisanji"
+      },
+      {
+        "purpose": "identifying",
+        "value": "敦賀藩權大參事寺町元之進"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p192_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1532,2004,86,582"
+      }
+    }
+  },
+  {
+    "id": "anno-tsuruga_lower_p192_left-16",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "三浦多仲"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "三浦多仲（みうら たちゅう）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Miura Tachū — first of the two gon-shōsanji"
+      },
+      {
+        "purpose": "identifying",
+        "value": "敦賀藩權少參事三浦多仲"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p192_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1521,2929,86,579"
+      }
+    }
+  },
+  {
+    "id": "anno-tsuruga_lower_p192_left-17",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "平山小太郎"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "平山小太郎（ひらやま こたろう）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Hirayama Kotarō — second of the two gon-daisanji"
+      },
+      {
+        "purpose": "identifying",
+        "value": "敦賀藩權大參事平山小太郎"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p192_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1400,2003,85,583"
+      }
+    }
+  },
+  {
+    "id": "anno-tsuruga_lower_p192_left-18",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "丹羽九十九"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "丹羽九十九（にわ つくも）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Niwa Tsukumo — second of the two gon-shōsanji; the middle glyph is a plain 十 (ten), not 千"
+      },
+      {
+        "purpose": "identifying",
+        "value": "敦賀藩權少參事丹羽九十九"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p192_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1388,2924,89,585"
+      }
+    }
+  },
+  {
+    "id": "anno-tsuruga_lower_p192_left-19",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "少參事"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "少参事"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Shō-sanji (junior councillor) — office heading in the upper register"
+      },
+      {
+        "purpose": "identifying",
+        "value": "敦賀藩少參事職名上段"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p192_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1275,997,87,246"
+      }
+    }
+  },
+  {
+    "id": "anno-tsuruga_lower_p192_left-20",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "眞田五郎左衞門"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "真田五郎左衛門（さなだ ごろうざえもん）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Sanada Gorōzaemon — first shō-sanji"
+      },
+      {
+        "purpose": "identifying",
+        "value": "敦賀藩少參事眞田五郎左衞門"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p192_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1265,2000,87,583"
+      }
+    }
+  },
+  {
+    "id": "anno-tsuruga_lower_p192_left-21",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "少參事"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "少参事"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Shō-sanji — a second office heading in the lower register, introducing the one man whose tenure the warichu below queries"
+      },
+      {
+        "purpose": "identifying",
+        "value": "敦賀藩少參事職名下段"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p192_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1258,2760,86,247"
+      }
+    }
+  },
+  {
+    "id": "anno-tsuruga_lower_p192_left-22",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "公用役兼"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "公用役兼"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Small-type note at the head of the column: 'also serving as kōyō-yaku' (the domain's public-affairs/liaison post). It stands over Nagata Shin's column; the type is 43-46px against 55-63px for the full-size office headings, so it is an annotation, not an office heading of its own"
+      },
+      {
+        "purpose": "identifying",
+        "value": "敦賀藩公用役兼註記"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p192_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1150,1667,70,267"
+      }
+    }
+  },
+  {
+    "id": "anno-tsuruga_lower_p192_left-23",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "永田新"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "永田新（ながた しん）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Nagata Shin — second shō-sanji, with the concurrent kōyō-yaku note over his column"
+      },
+      {
+        "purpose": "identifying",
+        "value": "敦賀藩少參事永田新"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p192_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1129,2005,85,582"
+      }
+    }
+  },
+  {
+    "id": "anno-tsuruga_lower_p192_left-24",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "加藤淸右衞門"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "加藤清右衛門（かとう せいえもん）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Katō Seiemon — the shō-sanji named under the second heading, the subject of the warichu to his left"
+      },
+      {
+        "purpose": "identifying",
+        "value": "敦賀藩少參事加藤淸右衞門"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p192_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1120,2927,86,582"
+      }
+    }
+  },
+  {
+    "id": "anno-tsuruga_lower_p192_left-25",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "都筑記𨥈"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "都筑記𨥈（つづき ―／名の読み不詳）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Tsuzuki (given name of two characters, reading not established) — third shō-sanji. The final character is printed as 金 plus 己; there is no settled kana reading for it."
+      },
+      {
+        "purpose": "identifying",
+        "value": "敦賀藩少參事都筑記鈕"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p192_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:987,2004,94,580"
+      }
+    }
+  },
+  {
+    "id": "anno-tsuruga_lower_p192_left-26",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "右家令申付候ニ付少參事ヲ兼候哉不分明トノ屆書"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "右は家令を申し付け候に付き、少参事を兼ね候や不分明との届書"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Two-column warichu note: 'Since the man named above has been appointed house steward (karei), the domain's report states that it is unclear whether he still holds the post of shō-sanji concurrently.' It refers to Katō Seiemon in the column to its right"
+      },
+      {
+        "purpose": "identifying",
+        "value": "敦賀藩加藤淸右衞門割註"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p192_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:964,2676,128,751"
+      }
+    }
+  },
+  {
+    "id": "anno-tsuruga_lower_p192_left-27",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "藩制一覽表第九（敦賀）"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "藩制一覧表第九（敦賀）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Running header in the left margin: 'Hansei ichiran-hyō, Fascicle 9 (Tsuruga)'. This is the page's provenance line. It names Tsuruga only, even though Tsurumaki's closing entries are still printed at the top right of the page."
+      },
+      {
+        "purpose": "identifying",
+        "value": "藩制一覽表第九敦賀柱書"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p192_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:878,1250,72,577"
+      }
+    }
+  },
+  {
+    "id": "anno-tsuruga_lower_p192_left-28",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "三百六十一"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "三百六十一（361）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Printed book-page number in the bottom margin: 361"
+      },
+      {
+        "purpose": "identifying",
+        "value": "版心丁付三百六十一"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p192_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:860,3096,70,245"
+      }
+    }
+  }
+]

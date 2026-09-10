@@ -1,0 +1,542 @@
+[
+  {
+    "id": "anno-tsuruta_lower_p193_right-00",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "藩制一覽表第九（鶴田、名古屋）"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "藩制一覧表第九（鶴田、名古屋）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Han System Overview Table, Fascicle 9 (Tsuruta, Nagoya) — the running header. It is provenance for the sheet and names both of the domains printed on it."
+      },
+      {
+        "purpose": "identifying",
+        "value": "藩制一覽表第九"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p193_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2144,1278,72,761"
+      }
+    }
+  },
+  {
+    "id": "anno-tsuruta_lower_p193_right-01",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "三百六十二"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "三百六十二（362）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "362 — the printed book-page number in the bottom margin of the right-hand column."
+      },
+      {
+        "purpose": "identifying",
+        "value": "本書頁番号"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p193_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2136,3122,70,261"
+      }
+    }
+  },
+  {
+    "id": "anno-tsuruta_lower_p193_right-02",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "○鶴田藩"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "○鶴田藩"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Maru-marker opening the entry for Tsuruta Domain. Everything to its left as far as the Nagoya marker belongs to Tsuruta."
+      },
+      {
+        "purpose": "identifying",
+        "value": "○鶴田藩"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p193_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1996,1361,111,562"
+      }
+    }
+  },
+  {
+    "id": "anno-tsuruta_lower_p193_right-03",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "（校正者曰重複ナルモ姓名記載ニ付省略セス）"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "（校正者曰く、重複なるも姓名記載につき省略せず）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Proofreader's note, set in small type in five sub-columns above the Tsuruta block: \"The proofreader states: although this duplicates an earlier entry, it has not been omitted, because it records the personal names.\" The duplication is real — fascicle 8 already gives Tsuruta's councillor counts, and this fascicle-9 sheet adds the names behind them."
+      },
+      {
+        "purpose": "identifying",
+        "value": "校正者註記"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p193_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1682,674,283,270"
+      }
+    }
+  },
+  {
+    "id": "anno-tsuruta_lower_p193_right-04",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "大參事　尾關秀　伊藤三郎"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "大参事　尾関秀・伊藤三郎"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Senior councillors (daisanji): Ozeki Shū (尾關秀) and Itō Saburō (伊藤三郎), two men. Given-name readings are tentative; the kanji are certain."
+      },
+      {
+        "purpose": "identifying",
+        "value": "鶴田大參事"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p193_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1862,1031,98,2510"
+      }
+    }
+  },
+  {
+    "id": "anno-tsuruta_lower_p193_right-05",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "權大參事　野島亨　河鰭新"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "権大参事　野島亨・河鰭新"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Acting senior councillors (gon-daisanji): Nojima Tōru (野島亨) and Kawabata Shin (河鰭新), two men. 河鰭 is a court-noble surname; given-name readings are tentative."
+      },
+      {
+        "purpose": "identifying",
+        "value": "鶴田權大參事"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p193_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1724,1033,99,2508"
+      }
+    }
+  },
+  {
+    "id": "anno-tsuruta_lower_p193_right-06",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "少參事　寺田與　河村弘"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "少参事　寺田與・河村弘"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Junior councillors (shōsanji): Terada Yo (寺田與) and Kawamura Hiroshi (河村弘). Two of the three junior councillors; the third stands in the unlabelled column immediately to the left."
+      },
+      {
+        "purpose": "identifying",
+        "value": "鶴田少參事"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p193_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1591,1034,97,2509"
+      }
+    }
+  },
+  {
+    "id": "anno-tsuruta_lower_p193_right-07",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "岡尾靖"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "岡尾靖"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Okao Yasushi (岡尾靖), the third junior councillor. This column prints no office label — the row projection over its x-window is empty above the name — because it continues the 少參事 list from the column to its right. Tsuruta's junior councillors therefore total three, which matches the count recorded in fascicle 8."
+      },
+      {
+        "purpose": "identifying",
+        "value": "鶴田少參事續"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p193_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1460,2035,88,586"
+      }
+    }
+  },
+  {
+    "id": "anno-tsuruta_lower_p193_right-08",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "權少參事　與津實　岡村郡太"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "権少参事　與津實・岡村郡太"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Acting junior councillors (gon-shōsanji): Yotsu Minoru (與津實) and Okamura Gunta (岡村郡太). Two of the four; the remaining two stand in the unlabelled column to the left."
+      },
+      {
+        "purpose": "identifying",
+        "value": "鶴田權少參事"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p193_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1322,1032,99,2511"
+      }
+    }
+  },
+  {
+    "id": "anno-tsuruta_lower_p193_right-09",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "服部傳　伊藤篤藏"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "服部傳・伊藤篤藏"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Hattori Tsutae (服部傳) and Itō Tokuzō (伊藤篤藏), the third and fourth acting junior councillors. No office label prints above this column; it continues the 權少參事 list, bringing that office to four men, as fascicle 8 records."
+      },
+      {
+        "purpose": "identifying",
+        "value": "鶴田權少參事續"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p193_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1193,2040,89,1501"
+      }
+    }
+  },
+  {
+    "id": "anno-tsuruta_lower_p193_right-10",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "○名古屋藩"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "○名古屋藩"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Maru-marker opening the entry for Nagoya Domain. Everything to its left on this page belongs to Nagoya."
+      },
+      {
+        "purpose": "identifying",
+        "value": "○名古屋藩"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p193_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1051,1369,107,608"
+      }
+    }
+  },
+  {
+    "id": "anno-tsuruta_lower_p193_right-11",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "大參事　二人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "大参事　二人（2人）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Senior councillors (daisanji): 2 persons. Nagoya's officials are given as counts only, without names."
+      },
+      {
+        "purpose": "identifying",
+        "value": "名古屋大參事"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p193_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:929,1032,91,583"
+      }
+    }
+  },
+  {
+    "id": "anno-tsuruta_lower_p193_right-12",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "權大參事　六人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "権大参事　六人（6人）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Acting senior councillors (gon-daisanji): 6 persons. The numeral has the top lid of 六 and is not 八."
+      },
+      {
+        "purpose": "identifying",
+        "value": "名古屋權大參事"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p193_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:795,1032,91,584"
+      }
+    }
+  },
+  {
+    "id": "anno-tsuruta_lower_p193_right-13",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "少參事　五人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "少参事　五人（5人）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Junior councillors (shōsanji): 5 persons."
+      },
+      {
+        "purpose": "identifying",
+        "value": "名古屋少參事"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p193_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:661,1035,91,584"
+      }
+    }
+  },
+  {
+    "id": "anno-tsuruta_lower_p193_right-14",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "權少參事　十一人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "権少参事　十一人（11人）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Acting junior councillors (gon-shōsanji): 11 persons. With the three offices to its right this makes 24 councillors for Nagoya."
+      },
+      {
+        "purpose": "identifying",
+        "value": "名古屋權少參事"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p193_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:527,1035,88,672"
+      }
+    }
+  },
+  {
+    "id": "anno-tsuruta_lower_p193_right-15",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "兵隊"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "兵隊"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "\"Troops\" — a two-glyph heading centred over the two sub-columns below it. No figure is printed against the heading itself, so it holds no value of its own; the shizoku and sotsu lines beneath it hold the numbers."
+      },
+      {
+        "purpose": "identifying",
+        "value": "名古屋兵隊"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p193_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:395,1034,84,167"
+      }
+    }
+  },
+  {
+    "id": "anno-tsuruta_lower_p193_right-16",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "士族兵　二千四百八十人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "士族兵　二千四百八十人（2,480人）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Shizoku troops: 2,480 persons. The right-hand of the two troop sub-columns under the 兵隊 heading; the two share a top edge at y=1371."
+      },
+      {
+        "purpose": "identifying",
+        "value": "名古屋士族兵"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p193_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:437,1371,61,684"
+      }
+    }
+  },
+  {
+    "id": "anno-tsuruta_lower_p193_right-17",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "卒族兵　四千七百二十人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "卒族兵　四千七百二十人（4,720人）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Sotsu troops: 4,720 persons. The left-hand troop sub-column. Added to the 2,480 shizoku troops this gives 7,200 men, a figure the page itself does not print."
+      },
+      {
+        "purpose": "identifying",
+        "value": "名古屋卒族兵"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p193_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:376,1371,61,684"
+      }
+    }
+  }
+]

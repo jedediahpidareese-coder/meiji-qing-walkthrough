@@ -47,57 +47,38 @@ A page is DONE when its `(volume,pdf_page,page_side)` is present in `pages.json`
 running out mid-batch leaves the workflow's finished pages cached; re-launch to finish the batch, or just run
 the next `--batch` (pages.json already has the applied ones).
 
-## ⏸ PAUSED MID-BATCH 2026-08-30 — the fascicle-1 gap batch (READ THIS FIRST)
-
-Jed approved annotating all 21 un-imaged fascicle-1 half-leaves (see "the residual is 21 fascicle-1
-half-leaves" below). The batch was launched and then **stopped for a machine restart**, not because
-anything went wrong.
-
-**Nothing is lost — the completed agent output is banked on disk**, independent of whether the
-session survives:
-`_expansion/_BANKED_fasc1gap_2026-08-30.json` (628 KB) holds **all 21 proposals** and **12 verifies**.
-- `complete[]` — 12 pages with BOTH halves, ready to apply:
-  lower p031L, p202L, p215R, p219R, p228L, p236R, p237L, p241R, p242L; upper p032R, p040L, **p044L**.
-- `proposal_only[]` — 9 pages still needing their adversarial-verify half:
-  upper p027R, p041R, p045L, p045R, p046R, p047R, p048L, p049L, p100R.
-
-**To resume:**
-1. Same session still alive → `Workflow({scriptPath: "outputs/scripts/_batch_fasc1gap.js",
-   resumeFromRunId: "wf_c57b521a-757"})`. The 33 finished agents replay from cache; only the 9
-   missing verifies run live.
-2. Session gone → re-run `Workflow({scriptPath: "outputs/scripts/_batch_fasc1gap.js"})`. It re-runs
-   all 21 from scratch, so prefer applying the 12 banked pages FIRST — the generator's
-   `located_in_viewer()` guard then skips them and only the remaining 9 are annotated.
-
-Batch inputs (both committed, both reusable):
-- seed `outputs/scripts/new_pages_fasc1_gap.json` (21 pages, built from MASTER)
-- script `outputs/scripts/_batch_fasc1gap.js` (generated; LF-only, 21 pages verified in-script)
-
-**Jed's ruling on what to do with the values these agents return** (asked and answered 2026-08-30):
-a value that lands in an EMPTY dataset cell goes straight in — there is nothing to disagree with;
-only a reading that CONFLICTS with a value MASTER already holds gets collected for adjudication,
-like the existing 301 candidates. Expect very few conflicts: MASTER holds one row per page and the
-pages print about fifteen values each.
-
-After the batch: the normal chain — apply → QA sweep → integrate → crops → VER bump → robocopy →
-push → force Pages build → verify live. Live now is VER `20260711hi90`, 834 pages / 281 domains;
-these 21 pages should take it to 855 / 283 (庭瀬藩 and 西大路藩 are the two new domains).
-
 ## ▶ ✅ EXPANSION COMPLETE — STATE AS OF 2026-08-30 (read this first)
-- **The 647-page worklist is at ZERO: 647/647 done.** `hi_expand_gen_newpages_wf.py --batch=1`
-  reports `remaining=0`. There are no more batches to run.
-- **834 pages / 281 domains — DEPLOYED and live-verified at VER `20260711hi90`**
-  (deploy commit `f77b87de`). Volume split vol1:401 / vol2:433. The count fell 283→281 because two
-  viewer domains were the same han under a second name; see "Coverage reconciled" below.
-- **Final verification, all passing:** 834 pages == 834 annotations == 834 crops-manifest entries;
-  sequences contiguous 1-834; no empty `volume`; no missing images; QA CLEAN (structural 0/0/0/0,
-  numeric 0/5,532, fascicle 0, book_page 0); ZERO orthographic duplicate domains; zero positional
-  parentheticals.
-- **`analytic_wide.csv` is BACK IN SYNC with MASTER — 286 rows, rebuilt 2026-08-29** (commit
-  `803a047`). `build_analytic_wide.py` is SAFE TO RUN again; see "The build dropped every
-  hand-adjudicated correction" below.
-- **MASTER candidates: 301** (213 substantive + 88 precision_only). COLLECT-ONLY except the 5 applied 2026-08-05 and the 15 applied
-  2026-08-16 — see `MASTER_ADJUDICATION_2026-08-05.md` and `CORRECTIONS_LOG.md`.
+- **855 pages / 283 domains — DEPLOYED and live-verified at VER `20260711hi91`**
+  (deploy commit `e51dbdce`). The 647-page worklist is at zero AND the 21 fascicle-1 pages it
+  could never see are now in too.
+- **The fascicle-1 gap is CLOSED.** 21 half-leaves were invisible to `worklist_full.json` because
+  MASTER held exactly one row for each — the worklist was built from MASTER's own page references,
+  so a page MASTER had barely transcribed looked like a page with nothing on it. Reading them
+  recovered **284 values MASTER never carried** and filled **90 empty `analytic_wide` cells**.
+  庭瀬藩 and 西大路藩 entered the viewer for the first time (281 → 283).
+- **Every viewer domain has a dataset row, and every MASTER domain key resolves.**
+  `build_analytic_wide.py` reports `Unresolved master-CSV domain names: []`.
+- **Verification:** 855 pages == 855 annotations == 855 crops; sequences contiguous; QA CLEAN
+  first pass (structural 0/0/0/0, numeric 0/5532, fascicle 0, book_page 0); orthographic duplicate
+  groups 0; positional parentheticals 0; persons-per-household 4.03–5.55 across every domain the
+  batch touched.
+- **Held back for adjudication, NOT applied:** `outputs/hansei_ichiran_reocr/_ADJUDICATE_2026-08-30_fasc1gap.md`
+  — 4 value conflicts, 2 cross-page disagreements, 3 `hi_infantry_persons` moves.
+
+### ⚠️ Three import traps this batch exposed — re-read before any future bulk MASTER import
+1. **Agents emit `parsed` with comma thousands ("3,071"); MASTER stores bare numbers** and the
+   build truncates at the comma, so 3,071 silently becomes 3. Strip commas and assert none survive.
+2. **Never dedup on (domain, field) without the page.** 西大路人口 appears on two pages with two
+   different values (9,106 and 768); a page-blind key discarded the real population. Keep both and
+   report the disagreement.
+3. **A page's `合計人口` / bare `人口` is sometimes the SHIZOKU+SOTSU sub-total, not the domain
+   total** — and `合計人口` outranks `人口` in the `hi_jinkou` whitelist, so it captures the column.
+   新見藩 read 0.39 persons/household and 西大路藩 0.34 before this was caught. **Test every
+   candidate against 士族+卒族, and sanity-check persons-per-household (expect ~4–6).**
+   Relabel to `士卒族*`; never change the value.
+
+Also: **the build's fill-only overlay reads the EXISTING `analytic_wide.csv`**, so one bad rebuild
+contaminates the next even after MASTER is rolled back. Restore a known-clean copy before rebuilding.
 
 ### Coverage reconciled — the viewer and the dataset now agree (2026-08-30)
 The "300 domains" in the old goal line was a PLANNING ESTIMATE, never a count; do not measure

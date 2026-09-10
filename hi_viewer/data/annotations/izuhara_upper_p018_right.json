@@ -1,0 +1,452 @@
+[
+  {
+    "id": "anno-izuhara_upper_p018_right-00",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "藩制一覽表第一（嚴原）"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "はんせいいちらんひょう だいいち（いづはら）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Han System Overview Table, Fascicle One (Izuhara). Running header naming the survey and the domain whose return this page belongs to."
+      },
+      {
+        "purpose": "identifying",
+        "value": "柱書藩制一覽表第一嚴原"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p018_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2185,1364,78,576"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p018_right-01",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "、同五千七百六拾貫文"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "同 五千七百六十貫文"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Ditto (same expenditure head as the preceding entry): 5,760 kanmon in cash."
+      },
+      {
+        "purpose": "identifying",
+        "value": "同五千七百六拾貫文"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p018_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2056,1291,88,818"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p018_right-02",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "、三千四百五拾貫文"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "三千四百五十貫文"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "3,450 kanmon in cash, a further item under the same expenditure head."
+      },
+      {
+        "purpose": "identifying",
+        "value": "三千四百五拾貫文"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p018_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1923,1373,89,740"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p018_right-03",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "但他領漂民凡一ヶ年六巡与見右之漂民最合ニシテ凡三度ニテ迎"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "但し、他領漂民およそ一ヶ年六巡と見、右の漂民もやいにして、およそ三度にて迎え"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Note (first column): castaways from other domains are reckoned at about six rounds a year; those castaways being taken together, they are fetched in about three journeys ..."
+      },
+      {
+        "purpose": "identifying",
+        "value": "但書他領漂民迎船賃（上）"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p018_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1755,1441,125,2344"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p018_right-04",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "取候見迎使乘船三艘往來借入之船賃凡如斯"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "取り候、見迎使乗船三艘往来借入の船賃、およそかくのごとし"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Note (continued): ... and taken in. The hire of the three vessels boarded by the receiving envoys, for the outward and return voyages, is roughly as shown above."
+      },
+      {
+        "purpose": "identifying",
+        "value": "但書他領漂民迎船賃下"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p018_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1634,1436,112,1593"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p018_right-05",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "同貳千三百四貫文"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "同 二千三百四貫文"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Ditto: 2,304 kanmon in cash."
+      },
+      {
+        "purpose": "identifying",
+        "value": "同貳千三百四貫文"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p018_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1524,1347,92,672"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p018_right-06",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "但右漂民六巡之內乘船破損凡三艘と見積船長崎ニテ借入船賃右"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "但し、右漂民六巡の内、乗船破損およそ三艘と見積り、船長崎にて借入、船賃右"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Note (first column): of the said six castaway rounds, the vessels boarded were damaged, estimated at about three vessels; boats were hired at Nagasaki, and the boat hire is as ..."
+      },
+      {
+        "purpose": "identifying",
+        "value": "但書破損船借入（上）"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p018_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1352,1435,129,2338"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p018_right-07",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "同斷"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "同断"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Note (continued): ... the same as above. Two-glyph wrap closing the preceding note."
+      },
+      {
+        "purpose": "identifying",
+        "value": "但書破損船借入下"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p018_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1268,1433,77,166"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p018_right-08",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "、米貳拾石四斗壹升四合八勺壹才"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "米 二十石四斗一升四合八勺一才"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Rice: 20.41481 koku (20 koku, 4 to, 1 sho, 4 go, 8 shaku, 1 sai)."
+      },
+      {
+        "purpose": "identifying",
+        "value": "米貳拾石四斗壹升四合八勺壹才"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p018_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1096,1278,124,1241"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p018_right-09",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "、錢貳千九百四拾六貫六百文"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "銭 二千九百四十六貫六百文"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Cash: 2,946 kan 600 mon (2,946.6 kanmon)."
+      },
+      {
+        "purpose": "identifying",
+        "value": "錢貳千九百四拾六貫六百文"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p018_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:984,1275,102,1071"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p018_right-10",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "但右漂民六巡三度ニテ長崎ゟ迎取候と見迎送トシテ同所に召仕"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "但し、右漂民六巡、三度にて長崎より迎え取り候と、見迎え送りとして同所に召し仕い"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Note (first column): the said castaways, in three of the six rounds, are fetched from Nagasaki; and as reception and escort, employed at that same place ..."
+      },
+      {
+        "purpose": "identifying",
+        "value": "但書漂民迎送宛行（上）"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p018_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:821,1427,123,2334"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p018_right-11",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "候中士三人警固卒族拾貳人通詞且船附之者ニ至宛行之分尤朝鮮"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "候中士三人、警固卒族十二人、通詞、且つ船付の者に至る宛行の分、尤も朝鮮"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Note (continued): ... three middle-rank samurai, twelve sotsu-rank guards, interpreters, and even the ship's crew — this being the allowance paid to them. Moreover, when [returning them] to Korea ..."
+      },
+      {
+        "purpose": "identifying",
+        "value": "但書漂民迎送宛行中"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p018_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:686,1424,124,2346"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p018_right-12",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "國に送還之節召仕候警固之者宛行共右同斷"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "国に送還の節、召し仕い候警固の者宛行とも右同断"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Note (continued): ... the Korean state for repatriation, the allowances for the guards employed on that occasion are likewise the same as above."
+      },
+      {
+        "purpose": "identifying",
+        "value": "但書漂民迎送宛行下"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p018_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:566,1420,111,1593"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p018_right-13",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "、錢貳千三百四拾九貫七百五拾文"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "銭 二千三百四十九貫七百五十文"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Cash: 2,349 kan 750 mon (2,349.75 kanmon). A new line-item whose explanatory note continues onto the facing half-page."
+      },
+      {
+        "purpose": "identifying",
+        "value": "錢貳千三百四拾九貫七百五拾文"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p018_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:439,1264,108,1244"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p018_right-14",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "十"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "十"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Printed book-page number in the lower margin: 10."
+      },
+      {
+        "purpose": "identifying",
+        "value": "丁付十"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p018_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2163,3200,67,63"
+      }
+    }
+  }
+]

@@ -1,0 +1,482 @@
+[
+  {
+    "id": "anno-minakuchi_lower_p234_left-00",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "權大參事　五人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "権大参事（ごんだいさんじ）五人"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Provisional senior councillors (gon-dai-sanji): five men. This column lies to the RIGHT of the ○水口藩 marker, so it belongs to the preceding domain, Miyazu (宮津藩), whose block opened on the facing leaf. No names are printed for Miyazu's officials — only headcounts."
+      },
+      {
+        "purpose": "identifying",
+        "value": "宮津權大參事"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p234_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2577,974,90,584"
+      }
+    }
+  },
+  {
+    "id": "anno-minakuchi_lower_p234_left-01",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "少參事　四人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "少参事（しょうさんじ）四人"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Junior councillors (shō-sanji): four men. Right of the ○水口藩 marker, so it belongs to Miyazu (宮津藩), not Minakuchi."
+      },
+      {
+        "purpose": "identifying",
+        "value": "宮津少參事"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p234_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2445,973,88,584"
+      }
+    }
+  },
+  {
+    "id": "anno-minakuchi_lower_p234_left-02",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "權少參事　四人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "権少参事（ごんしょうさんじ）四人"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Provisional junior councillors (gon-shō-sanji): four men. Right of the ○水口藩 marker, so it belongs to Miyazu (宮津藩). With the 大參事 one man recorded on the facing leaf, Miyazu's councillor establishment totals fourteen."
+      },
+      {
+        "purpose": "identifying",
+        "value": "宮津權少參事"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p234_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2309,972,91,588"
+      }
+    }
+  },
+  {
+    "id": "anno-minakuchi_lower_p234_left-03",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "兵隊　四百四十九人　士族"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "兵隊（へいたい）四百四十九人　士族（しぞく）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Troops: 449 men of shizoku (former samurai) status. The label 兵隊 heads this column and governs both halves of the split; the sotsu half prints as a separate run to the left. Right of the ○水口藩 marker, so it belongs to Miyazu (宮津藩). Against Miyazu's fascicle-7 shizoku population of 2,298 persons, these 449 soldiers are 19.5 percent."
+      },
+      {
+        "purpose": "identifying",
+        "value": "宮津兵隊士族"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p234_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2169,973,95,1009"
+      }
+    }
+  },
+  {
+    "id": "anno-minakuchi_lower_p234_left-04",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "二百三十九人　卒"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "二百三十九人　卒（そつ）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Troops: 239 men of sotsu (lower retainer) status — the left half of the 兵隊 split, the shizoku half standing to its right. Right of the ○水口藩 marker, so it belongs to Miyazu (宮津藩). The two halves sum to 688 troops; the source prints no total. MASTER's fascicle-7 row for 宮津藩 records 兵隊 二百三十九人, i.e. this sotsu figure alone."
+      },
+      {
+        "purpose": "identifying",
+        "value": "宮津兵隊卒"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p234_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2031,1235,89,660"
+      }
+    }
+  },
+  {
+    "id": "anno-minakuchi_lower_p234_left-05",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "○水口藩"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "○水口藩（みなくちはん）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "The domain boundary marker opening Minakuchi (水口藩), a 25,000-koku domain of the Katō house in Ōmi province. Everything to the left of this circle is Minakuchi; everything to the right belongs to the preceding domain, Miyazu (宮津藩)."
+      },
+      {
+        "purpose": "identifying",
+        "value": "水口藩丸印"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p234_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1890,1318,104,558"
+      }
+    }
+  },
+  {
+    "id": "anno-minakuchi_lower_p234_left-06",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "大參事　一人　中村栗翁"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "大参事（だいさんじ）一人 — 中村栗翁（なかむら りつおう）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Senior councillor (dai-sanji) of Minakuchi: one man, Nakamura Ritsuō. First column left of the ○水口藩 marker."
+      },
+      {
+        "purpose": "identifying",
+        "value": "水口大參事"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p234_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1761,979,95,1593"
+      }
+    }
+  },
+  {
+    "id": "anno-minakuchi_lower_p234_left-07",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "權大參事　二人　加藤精一　岡田正和"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "権大参事（ごんだいさんじ）二人 — 加藤精一（かとう せいいち）・岡田正和（おかだ まさかず）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Provisional senior councillors (gon-dai-sanji) of Minakuchi: two men, Katō Seiichi and Okada Masakazu, printed as two four-slot name blocks in the same column. The printed count of two matches the two names. Katō is the surname of the ruling house of Minakuchi."
+      },
+      {
+        "purpose": "identifying",
+        "value": "水口權大參事"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p234_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1626,979,98,2514"
+      }
+    }
+  },
+  {
+    "id": "anno-minakuchi_lower_p234_left-08",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "少參事　二人　佃　極"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "少参事（しょうさんじ）二人 — 佃極（つくだ きわむ）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Junior councillors (shō-sanji) of Minakuchi: two men, but only one name is printed — Tsukuda Kiwamu, set in slots one and four of a four-slot name block (the layout used for a one-glyph surname with a one-glyph given name). The second name is absent from the leaf. Two small marks are printed beside this column's numeral; they are boxed separately."
+      },
+      {
+        "purpose": "identifying",
+        "value": "水口少參事"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p234_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1495,981,84,1584"
+      }
+    }
+  },
+  {
+    "id": "anno-minakuchi_lower_p234_left-09",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "〔傍點二點〕"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "少参事欄の数字「二」の右傍に打たれた小さな二点（傍点）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Two small marks — a wedge above a dot — printed immediately to the right of the numeral 二 in the 少參事 column. They are crisp, type-weight ink and are the only such marks on the leaf, so they are printed matter rather than a blemish; their editorial meaning cannot be established from this page alone. They stand beside the one place on the leaf where the count and the names disagree: 少參事 gives a count of two with one name, while the 權少參事 column to its left gives two names with no count."
+      },
+      {
+        "purpose": "identifying",
+        "value": "少參事欄傍點"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p234_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1579,1394,35,66"
+      }
+    }
+  },
+  {
+    "id": "anno-minakuchi_lower_p234_left-10",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "權少參事　井碕與山　今村　昇"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "権少参事（ごんしょうさんじ）— 井碕與山（いさき よざん）・今村昇（いまむら のぼる）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Provisional junior councillors (gon-shō-sanji) of Minakuchi: two names are printed, Isaki Yozan and Imamura Noboru, but NO headcount appears — the slot every other office column on this leaf uses for its 「N人」 figure is blank here. Recorded as printed; the count is supplied by neither this leaf nor its neighbour."
+      },
+      {
+        "purpose": "identifying",
+        "value": "水口權少參事"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p234_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1362,979,94,2514"
+      }
+    }
+  },
+  {
+    "id": "anno-minakuchi_lower_p234_left-11",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "鬪虎隊　一小隊五十人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "闘虎隊（とうこたい）一小隊五十人"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "The Tōko-tai (\"Fighting Tiger corps\") of Minakuchi: one company (shōtai) of fifty men. With the Kanshi-tai below it, this is one of the two fifty-man companies that MASTER's fascicle-7 entry for 水口藩 records anonymously as 二小隊 一小隊五十人."
+      },
+      {
+        "purpose": "identifying",
+        "value": "水口鬪虎隊"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p234_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1234,1230,90,836"
+      }
+    }
+  },
+  {
+    "id": "anno-minakuchi_lower_p234_left-12",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "敢死隊　一小隊五十人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "敢死隊（かんしたい）一小隊五十人"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "The Kanshi-tai (\"Dare-to-Die corps\") of Minakuchi: one company (shōtai) of fifty men. Together with the Tōko-tai this gives Minakuchi 100 infantry in two companies, matching the domain's fascicle-7 return exactly."
+      },
+      {
+        "purpose": "identifying",
+        "value": "水口敢死隊"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p234_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1104,1232,87,835"
+      }
+    }
+  },
+  {
+    "id": "anno-minakuchi_lower_p234_left-13",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "礮隊　一分隊二十四人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "礮隊（＝砲隊、ほうたい）一分隊二十四人"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Artillery corps of Minakuchi: one section (buntai) of twenty-four men. 礮 is the older form of 砲 (cannon), verified glyph by glyph. MASTER's fascicle-7 row for 水口藩 records 砲隊 二十四人, the same twenty-four men under the modern character."
+      },
+      {
+        "purpose": "identifying",
+        "value": "水口礮隊"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p234_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:969,1234,90,935"
+      }
+    }
+  },
+  {
+    "id": "anno-minakuchi_lower_p234_left-14",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "藩制一覽表第九（水口）"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "藩制一覧表 第九冊（水口藩）— 欄外の柱書き"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Running header in the outer margin: Domain Survey (Hansei Ichiran), ninth fascicle, Minakuchi section. This is a provenance label, not data. It names Minakuchi, the domain whose block opens on this leaf at the ○水口藩 marker."
+      },
+      {
+        "purpose": "identifying",
+        "value": "柱書藩制一覧表第九水口"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p234_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:854,1238,73,580"
+      }
+    }
+  },
+  {
+    "id": "anno-minakuchi_lower_p234_left-15",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "四百四十五"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "四百四十五（丁数）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "The printed book-page number in the outer margin: 445. It sits in the same margin column as the running header, lower down. The facing leaf carries 444 and the next recorded leaf in this fascicle, 三日月藩, carries 447."
+      },
+      {
+        "purpose": "identifying",
+        "value": "丁數四百四十五"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p234_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:843,3082,73,262"
+      }
+    }
+  }
+]

@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "anno-shizuoka_lower_p238_right-00",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "藩制一覽表第九（新發田）"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "藩制一覧表 第九（新発田）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Survey of Domain Institutions, Fascicle 9 (Shibata)"
+      },
+      {
+        "purpose": "identifying",
+        "value": "頁頭藩制一覽表第九新發田"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p238_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2222,1296,82,630"
+      }
+    }
+  },
+  {
+    "id": "anno-shizuoka_lower_p238_right-01",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "四百五十二"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "四百五十二（452）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Printed book page 452"
+      },
+      {
+        "purpose": "identifying",
+        "value": "本書頁番号四百五十二"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p238_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2222,3137,82,257"
+      }
+    }
+  },
+  {
+    "id": "anno-shizuoka_lower_p238_right-02",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "平岡四郎"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "平岡四郎（ひらおか しろう）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Hiraoka Shirō, junior councillor (少參事) of Shizuoka"
+      },
+      {
+        "purpose": "identifying",
+        "value": "靜岡平岡四郎"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p238_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2091,1459,92,581"
+      }
+    }
+  },
+  {
+    "id": "anno-shizuoka_lower_p238_right-03",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "小栗尚三"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "小栗尚三（おぐり しょうぞう）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Oguri Shōzō, junior councillor (少參事) of Shizuoka"
+      },
+      {
+        "purpose": "identifying",
+        "value": "靜岡小栗尚三"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p238_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2091,2218,92,571"
+      }
+    }
+  },
+  {
+    "id": "anno-shizuoka_lower_p238_right-04",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "藤澤長太郎"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "藤沢長太郎（ふじさわ ちょうたろう）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Fujisawa Chōtarō, junior councillor (少參事) of Shizuoka"
+      },
+      {
+        "purpose": "identifying",
+        "value": "靜岡藤澤長太郎"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p238_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2091,2969,92,583"
+      }
+    }
+  },
+  {
+    "id": "anno-shizuoka_lower_p238_right-05",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "江原素六"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "江原素六（えばら そろく）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Ebara Soroku, junior councillor (少參事) of Shizuoka"
+      },
+      {
+        "purpose": "identifying",
+        "value": "靜岡江原素六"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p238_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1957,1458,93,582"
+      }
+    }
+  },
+  {
+    "id": "anno-shizuoka_lower_p238_right-06",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "大久保樫軒"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "大久保樫軒（おおくぼ かしけん）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Ōkubo Kashiken, junior councillor (少參事) of Shizuoka. The fourth glyph is the one uncertain character on the leaf; read as 樫 from its 土 base and 臤 upper element."
+      },
+      {
+        "purpose": "identifying",
+        "value": "靜岡大久保樫軒"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p238_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1957,2215,93,581"
+      }
+    }
+  },
+  {
+    "id": "anno-shizuoka_lower_p238_right-07",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "中臺信太郎"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "中台信太郎（なかだい しんたろう）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Nakadai Shintarō, junior councillor (少參事) of Shizuoka"
+      },
+      {
+        "purpose": "identifying",
+        "value": "靜岡中臺信太郎"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p238_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1957,2973,93,581"
+      }
+    }
+  },
+  {
+    "id": "anno-shizuoka_lower_p238_right-08",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "向山黄村"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "向山黄村（むこうやま こうそん）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Mukōyama Kōson, junior councillor (少參事) of Shizuoka"
+      },
+      {
+        "purpose": "identifying",
+        "value": "靜岡向山黄村"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p238_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1826,1453,90,585"
+      }
+    }
+  },
+  {
+    "id": "anno-shizuoka_lower_p238_right-09",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "河田熙"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "河田熙（かわだ ひろし）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Kawada Hiroshi, junior councillor (少參事) of Shizuoka"
+      },
+      {
+        "purpose": "identifying",
+        "value": "靜岡河田熙"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p238_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1826,2214,90,582"
+      }
+    }
+  },
+  {
+    "id": "anno-shizuoka_lower_p238_right-10",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "朝倉藤十郎"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "朝倉藤十郎（あさくら とうじゅうろう）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Asakura Tōjūrō, junior councillor (少參事) of Shizuoka"
+      },
+      {
+        "purpose": "identifying",
+        "value": "靜岡朝倉藤十郎"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p238_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1826,2969,90,584"
+      }
+    }
+  },
+  {
+    "id": "anno-shizuoka_lower_p238_right-11",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "權少參事"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "権少参事（ごんしょうさんじ）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Gon-shōsanji (acting junior councillor) — rank heading governing its own column and the six headingless columns to its left, from 杉浦八郎五郎 through 石川渡: twenty men in all"
+      },
+      {
+        "purpose": "identifying",
+        "value": "靜岡權少參事欄"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p238_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1693,1039,102,331"
+      }
+    }
+  },
+  {
+    "id": "anno-shizuoka_lower_p238_right-12",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "杉浦八郎五郎"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "杉浦八郎五郎（すぎうら はちろうごろう）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Sugiura Hachirogoro, acting junior councillor of Shizuoka"
+      },
+      {
+        "purpose": "identifying",
+        "value": "靜岡杉浦八郎五郎"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p238_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1693,1463,102,579"
+      }
+    }
+  },
+  {
+    "id": "anno-shizuoka_lower_p238_right-13",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "小林庄次郎"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "小林庄次郎（こばやし しょうじろう）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Kobayashi Shojiro, acting junior councillor of Shizuoka"
+      },
+      {
+        "purpose": "identifying",
+        "value": "靜岡小林庄次郎"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p238_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1693,2219,102,582"
+      }
+    }
+  },
+  {
+    "id": "anno-shizuoka_lower_p238_right-14",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "矢田堀喜六"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "矢田堀喜六（やたぼり きろく）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Yatabori Kiroku, acting junior councillor of Shizuoka"
+      },
+      {
+        "purpose": "identifying",
+        "value": "靜岡矢田堀喜六"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p238_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1693,2972,102,581"
+      }
+    }
+  },
+  {
+    "id": "anno-shizuoka_lower_p238_right-15",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "今堀登代太郎"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "今堀登代太郎（いまほり とよたろう）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Imahori Toyotaro, acting junior councillor of Shizuoka"
+      },
+      {
+        "purpose": "identifying",
+        "value": "靜岡今堀登代太郎"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p238_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1563,1455,95,583"
+      }
+    }
+  },
+  {
+    "id": "anno-shizuoka_lower_p238_right-16",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "石川周二"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "石川周二（いしかわ しゅうじ）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Ishikawa Shuji, acting junior councillor of Shizuoka"
+      },
+      {
+        "purpose": "identifying",
+        "value": "靜岡石川周二"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p238_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1563,2215,95,573"
+      }
+    }
+  },
+  {
+    "id": "anno-shizuoka_lower_p238_right-17",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "依田素一"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "依田素一（よだ そいち）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Yoda Soichi, acting junior councillor of Shizuoka"
+      },
+      {
+        "purpose": "identifying",
+        "value": "靜岡依田素一"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p238_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1563,2971,95,555"
+      }
+    }
+  },
+  {
+    "id": "anno-shizuoka_lower_p238_right-18",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "淵邊德藏"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "淵辺徳蔵（ふちべ とくぞう）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Fuchibe Tokuzo, acting junior councillor of Shizuoka"
+      },
+      {
+        "purpose": "identifying",
+        "value": "靜岡淵邊德藏"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p238_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1427,1459,90,582"
+      }
+    }
+  },
+  {
+    "id": "anno-shizuoka_lower_p238_right-19",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "川上服二郎"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "川上服二郎（かわかみ ふくじろう）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Kawakami Fukujiro, acting junior councillor of Shizuoka"
+      },
+      {
+        "purpose": "identifying",
+        "value": "靜岡川上服二郎"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p238_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1427,2215,90,581"
+      }
+    }
+  },
+  {
+    "id": "anno-shizuoka_lower_p238_right-20",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "高力晴江"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "高力晴江（こうりき はるえ）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Koriki Harue, acting junior councillor of Shizuoka"
+      },
+      {
+        "purpose": "identifying",
+        "value": "靜岡高力晴江"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p238_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1427,2973,90,579"
+      }
+    }
+  },
+  {
+    "id": "anno-shizuoka_lower_p238_right-21",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "中村勘作"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "中村勘作（なかむら かんさく）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Nakamura Kansaku, acting junior councillor of Shizuoka"
+      },
+      {
+        "purpose": "identifying",
+        "value": "靜岡中村勘作"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p238_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1288,1457,108,581"
+      }
+    }
+  },
+  {
+    "id": "anno-shizuoka_lower_p238_right-22",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "多田銑三郎"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "多田銑三郎（ただ せんざぶろう）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Tada Senzaburo, acting junior councillor of Shizuoka"
+      },
+      {
+        "purpose": "identifying",
+        "value": "靜岡多田銑三郎"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p238_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1288,2214,108,579"
+      }
+    }
+  },
+  {
+    "id": "anno-shizuoka_lower_p238_right-23",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "福岡久"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "福岡久（ふくおか ひさし）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Fukuoka Hisashi, acting junior councillor of Shizuoka"
+      },
+      {
+        "purpose": "identifying",
+        "value": "靜岡福岡久"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p238_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1288,2969,108,584"
+      }
+    }
+  },
+  {
+    "id": "anno-shizuoka_lower_p238_right-24",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "根立蘆水"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "根立蘆水（ねだち ろすい）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Nedachi Rosui, acting junior councillor of Shizuoka"
+      },
+      {
+        "purpose": "identifying",
+        "value": "靜岡根立蘆水"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p238_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1157,1457,95,582"
+      }
+    }
+  },
+  {
+    "id": "anno-shizuoka_lower_p238_right-25",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "深山宇平太"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "深山宇平太（みやま うへいた）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Miyama Uheita, acting junior councillor of Shizuoka"
+      },
+      {
+        "purpose": "identifying",
+        "value": "靜岡深山宇平太"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p238_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1157,2217,95,577"
+      }
+    }
+  },
+  {
+    "id": "anno-shizuoka_lower_p238_right-26",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "宮田文吾"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "宮田文吾（みやた ぶんご）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Miyata Bungo, acting junior councillor of Shizuoka"
+      },
+      {
+        "purpose": "identifying",
+        "value": "靜岡宮田文吾"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p238_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1157,2973,95,584"
+      }
+    }
+  },
+  {
+    "id": "anno-shizuoka_lower_p238_right-27",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "宮重丹下"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "宮重丹下（みやしげ たんげ）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Miyashige Tange, acting junior councillor of Shizuoka"
+      },
+      {
+        "purpose": "identifying",
+        "value": "靜岡宮重丹下"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p238_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1017,1459,104,582"
+      }
+    }
+  },
+  {
+    "id": "anno-shizuoka_lower_p238_right-28",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "西吉十郎"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "西吉十郎（にし きちじゅうろう）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Nishi Kichijuro, acting junior councillor of Shizuoka"
+      },
+      {
+        "purpose": "identifying",
+        "value": "靜岡西吉十郎"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p238_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1017,2216,104,580"
+      }
+    }
+  },
+  {
+    "id": "anno-shizuoka_lower_p238_right-29",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "牧野田三"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "牧野田三（まきの たぞう）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Makino Tazo, acting junior councillor of Shizuoka"
+      },
+      {
+        "purpose": "identifying",
+        "value": "靜岡牧野田三"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p238_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1017,2970,104,580"
+      }
+    }
+  },
+  {
+    "id": "anno-shizuoka_lower_p238_right-30",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "小林甚六郎"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "小林甚六郎（こばやし じんろくろう）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Kobayashi Jinrokuro, acting junior councillor of Shizuoka"
+      },
+      {
+        "purpose": "identifying",
+        "value": "靜岡小林甚六郎"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p238_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:892,1463,88,580"
+      }
+    }
+  },
+  {
+    "id": "anno-shizuoka_lower_p238_right-31",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "石川渡"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "石川渡（いしかわ わたる）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Ishikawa Wataru, acting junior councillor of Shizuoka — the last Shizuoka entry on the leaf; the block below it is blank"
+      },
+      {
+        "purpose": "identifying",
+        "value": "靜岡石川渡"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p238_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:892,2222,88,579"
+      }
+    }
+  },
+  {
+    "id": "anno-shizuoka_lower_p238_right-32",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "○新發田藩"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "○新発田藩（しばたはん）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Marker opening the block for Shibata domain (Echigo, 100,000 koku, Mizoguchi house)"
+      },
+      {
+        "purpose": "identifying",
+        "value": "新發田藩マル印"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p238_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:755,1371,101,605"
+      }
+    }
+  },
+  {
+    "id": "anno-shizuoka_lower_p238_right-33",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "大參事"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "大参事（だいさんじ）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Daisanji (senior councillor) — rank heading for 溝口伊織 and 窪田平兵衞"
+      },
+      {
+        "purpose": "identifying",
+        "value": "新發田大參事欄"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p238_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:624,1039,91,246"
+      }
+    }
+  },
+  {
+    "id": "anno-shizuoka_lower_p238_right-34",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "溝口伊織"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "溝口伊織（みぞぐち いおり）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Mizoguchi Iori, senior councillor of Shibata"
+      },
+      {
+        "purpose": "identifying",
+        "value": "新發田溝口伊織"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p238_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:624,1442,91,578"
+      }
+    }
+  },
+  {
+    "id": "anno-shizuoka_lower_p238_right-35",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "窪田平兵衞"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "窪田平兵衛（くぼた へいべえ）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Kubota Heibee, senior councillor of Shibata"
+      },
+      {
+        "purpose": "identifying",
+        "value": "新發田窪田平兵衞"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p238_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:624,2214,91,583"
+      }
+    }
+  },
+  {
+    "id": "anno-shizuoka_lower_p238_right-36",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "權大參事"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "権大参事（ごんだいさんじ）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Gon-daisanji (acting senior councillor) — rank heading for 溝口甚太郎, 速水八彌 and 溝口半兵衞"
+      },
+      {
+        "purpose": "identifying",
+        "value": "新發田權大參事欄"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p238_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:480,1042,103,330"
+      }
+    }
+  },
+  {
+    "id": "anno-shizuoka_lower_p238_right-37",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "溝口甚太郎"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "溝口甚太郎（みぞぐち じんたろう）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Mizoguchi Jintaro, acting senior councillor of Shibata"
+      },
+      {
+        "purpose": "identifying",
+        "value": "新發田溝口甚太郎"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p238_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:480,1462,103,578"
+      }
+    }
+  },
+  {
+    "id": "anno-shizuoka_lower_p238_right-38",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "速水八彌"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "速水八弥（はやみ はちや）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Hayami Hachiya, acting senior councillor of Shibata"
+      },
+      {
+        "purpose": "identifying",
+        "value": "新發田速水八彌"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p238_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:480,2214,103,580"
+      }
+    }
+  },
+  {
+    "id": "anno-shizuoka_lower_p238_right-39",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "溝口半兵衞"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "溝口半兵衛（みぞぐち はんべえ）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Mizoguchi Hanbee, acting senior councillor of Shibata"
+      },
+      {
+        "purpose": "identifying",
+        "value": "新發田溝口半兵衞"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p238_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:480,2971,103,584"
+      }
+    }
+  }
+]

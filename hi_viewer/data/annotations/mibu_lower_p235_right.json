@@ -1,0 +1,572 @@
+[
+  {
+    "id": "anno-mibu_lower_p235_right-00",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "藩制一覽表第九（壬生）"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "はんせいいちらんひょう だいきゅう（みぶ）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Running head: Domain Survey Table (Hansei ichiran), ninth fascicle — (Mibu). Printed in the outer (right) margin of this recto leaf; it names the domain whose block opens on this leaf and does not cover the Minakuchi material at the right edge."
+      },
+      {
+        "purpose": "identifying",
+        "value": "柱藩制一覽表第九壬生"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p235_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2245,1224,72,576"
+      }
+    }
+  },
+  {
+    "id": "anno-mibu_lower_p235_right-01",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "四百四十六"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "よんひゃくよんじゅうろく（四四六）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Printed book-page number in the lower margin: 446."
+      },
+      {
+        "purpose": "identifying",
+        "value": "丁付四百四十六"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p235_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2235,3065,69,264"
+      }
+    }
+  },
+  {
+    "id": "anno-mibu_lower_p235_right-02",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "鼓笛手　二十人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "こてきしゅ　にじゅうにん"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Drum-and-fife corps: 20 men. (Minakuchi domain's military return, overflowing right of the Mibu marker; it belongs to the previous domain.)"
+      },
+      {
+        "purpose": "identifying",
+        "value": "水口鼓笛手"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p235_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2117,1219,85,586"
+      }
+    }
+  },
+  {
+    "id": "anno-mibu_lower_p235_right-03",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "隊長以下役員　二十八人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "たいちょういかやくいん　にじゅうはちにん"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Unit officers, from company commander downward: 28 men. (Minakuchi military overflow.)"
+      },
+      {
+        "purpose": "identifying",
+        "value": "水口隊長以下役員"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p235_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1985,1218,89,923"
+      }
+    }
+  },
+  {
+    "id": "anno-mibu_lower_p235_right-04",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "器械方　十人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "きかいかた　じゅうにん"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Ordnance and equipment section: 10 men. (Minakuchi military overflow; the last of that domain's columns before the Mibu marker.)"
+      },
+      {
+        "purpose": "identifying",
+        "value": "水口器械方"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p235_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1852,1221,90,498"
+      }
+    }
+  },
+  {
+    "id": "anno-mibu_lower_p235_right-05",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "○壬生藩"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "まるじるし　みぶはん"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Domain marker: Mibu domain (Shimotsuke province, present-day Tochigi). Everything to the left of this circle belongs to Mibu; everything to its right belongs to Minakuchi."
+      },
+      {
+        "purpose": "identifying",
+        "value": "壬生藩マル記號"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p235_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1707,1307,106,559"
+      }
+    }
+  },
+  {
+    "id": "anno-mibu_lower_p235_right-06",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "大參事　一人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "だいさんじ　いちにん"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Grand Councillor (daisanji): 1 post, and one incumbent is named directly below in the same column."
+      },
+      {
+        "purpose": "identifying",
+        "value": "壬生大參事"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p235_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1583,973,86,579"
+      }
+    }
+  },
+  {
+    "id": "anno-mibu_lower_p235_right-07",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "大島金七郎"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "おおしま きんしちろう"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Ōshima Kinshichirō, the Grand Councillor; his name hangs below the 大參事 heading in the same column."
+      },
+      {
+        "purpose": "identifying",
+        "value": "壬生大參事大島金七郎"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p235_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1574,1981,88,584"
+      }
+    }
+  },
+  {
+    "id": "anno-mibu_lower_p235_right-08",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "權大參事　五人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "ごんだいさんじ　ごにん"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Provisional Grand Councillor (gon-daisanji): 5 posts, and all five incumbents are named on this leaf. The list runs column by column leftward, upper name band then lower: Watanabe Ippei and Takasu Kashiba in this column, Yamaga Sandayū and Masuda Shōtarō in the next column left, Fukushima Watari in the one after."
+      },
+      {
+        "purpose": "identifying",
+        "value": "壬生權大參事"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p235_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1453,970,88,582"
+      }
+    }
+  },
+  {
+    "id": "anno-mibu_lower_p235_right-09",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "渡邊一平"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "わたなべ いっぺい"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Watanabe Ippei, first of the five named Provisional Grand Councillors; upper name band of the 權大參事 column."
+      },
+      {
+        "purpose": "identifying",
+        "value": "壬生權大參事一人目渡邊一平"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p235_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1443,1974,88,583"
+      }
+    }
+  },
+  {
+    "id": "anno-mibu_lower_p235_right-10",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "高須嘉司馬"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "たかす かしば"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Takasu Kashiba, second of the five named Provisional Grand Councillors; lower name band of the same column (given-name reading uncertain)."
+      },
+      {
+        "purpose": "identifying",
+        "value": "壬生權大參事二人目高須嘉司馬"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p235_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1442,2898,79,587"
+      }
+    }
+  },
+  {
+    "id": "anno-mibu_lower_p235_right-11",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "山家三太夫"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "やまが さんだゆう"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Yamaga Sandayū, third of the five named Provisional Grand Councillors; upper name band of the first unheaded name column left of the 權大參事 heading."
+      },
+      {
+        "purpose": "identifying",
+        "value": "壬生權大參事三人目山家三太夫"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p235_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1308,1973,87,588"
+      }
+    }
+  },
+  {
+    "id": "anno-mibu_lower_p235_right-12",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "公議人　増田鏘太郎"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "こうぎにん　ますだ しょうたろう"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Masuda Shōtarō, fourth of the five named Provisional Grand Councillors, carrying the small-type side label 公議人 (kōginin) — the domain's delegate to the Kōgisho deliberative assembly. The label is a concurrent-post annotation, not a rank heading: it prints in the name band beside his column, not in the upper band where 大參事, 權大參事, 少參事 and 權少參事 all sit."
+      },
+      {
+        "purpose": "identifying",
+        "value": "壬生公議人増田鏘太郎"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p235_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1303,2757,137,729"
+      }
+    }
+  },
+  {
+    "id": "anno-mibu_lower_p235_right-13",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "福島渡理"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "ふくしま わたり"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Fukushima Watari, fifth of the five named Provisional Grand Councillors; the leftmost name column of this rank block, one column pitch right of the 少參事 heading (given-name reading uncertain)."
+      },
+      {
+        "purpose": "identifying",
+        "value": "壬生權大參事四人目福島渡理"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p235_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1175,1972,89,584"
+      }
+    }
+  },
+  {
+    "id": "anno-mibu_lower_p235_right-14",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "少參事　五人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "しょうさんじ　ごにん"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Junior Councillor (shōsanji): 5 posts. No incumbents are named for this rank on the leaf."
+      },
+      {
+        "purpose": "identifying",
+        "value": "壬生少參事"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p235_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1053,971,87,583"
+      }
+    }
+  },
+  {
+    "id": "anno-mibu_lower_p235_right-15",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "權少參事　五人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "ごんしょうさんじ　ごにん"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Provisional Junior Councillor (gon-shōsanji): 5 posts. No incumbents are named for this rank on the leaf."
+      },
+      {
+        "purpose": "identifying",
+        "value": "壬生權少參事"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p235_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:917,971,86,581"
+      }
+    }
+  },
+  {
+    "id": "anno-mibu_lower_p235_right-16",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "兵隊　十二小隊但一隊三十人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "へいたい　じゅうにしょうたい、ただし いったい さんじゅうにん"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Infantry: 12 platoons; note, 30 men to a platoon. 12 x 30 = 360 men, matching the total printed in the next column."
+      },
+      {
+        "purpose": "identifying",
+        "value": "壬生兵隊"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p235_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:780,973,87,991"
+      }
+    }
+  },
+  {
+    "id": "anno-mibu_lower_p235_right-17",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "合三百六十人　四隊但一隊九十人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "あわせて さんびゃくろくじゅうにん　よんたい、ただし いったい きゅうじゅうにん"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Total: 360 men; four companies, note, 90 men to a company. Both figures reconcile with the preceding column: 12 platoons x 30 = 360 and 4 companies x 90 = 360, so the same force is stated in two groupings. The total covers the 兵隊 only, not the 遊兵隊 in the next column left."
+      },
+      {
+        "purpose": "identifying",
+        "value": "壬生兵隊合計三百六十人"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p235_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:644,1054,91,1165"
+      }
+    }
+  },
+  {
+    "id": "anno-mibu_lower_p235_right-18",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "遊兵隊　二十八人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "ゆうへいたい　にじゅうはちにん"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Skirmisher corps (yūheitai): 28 men. This corps sits outside the 360-man total printed in the preceding column, so Mibu's strength on this leaf comes to 360 + 28 = 388 men."
+      },
+      {
+        "purpose": "identifying",
+        "value": "壬生遊兵隊"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p235_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:510,969,93,666"
+      }
+    }
+  }
+]

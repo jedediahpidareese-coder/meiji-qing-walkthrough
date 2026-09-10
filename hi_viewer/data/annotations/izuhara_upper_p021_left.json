@@ -1,0 +1,452 @@
+[
+  {
+    "id": "anno-izuhara_upper_p021_left-00",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "小譯"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "小訳（小訳官使）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Heading: the lesser interpreter-envoy mission — the smaller of the two grades of Korean 譯官 (interpreter-official) embassy received by Tsushima. Every column to its left on this page falls under it."
+      },
+      {
+        "purpose": "identifying",
+        "value": "小譯（見出）"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p021_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2672,1225,82,163"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p021_left-01",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "〃米貳百貳拾石六斗四升五合八勺七才"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "〃 米 二百二十石六斗四升五合八勺七才"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "[ditto item mark] Rice: 220 koku 6 to 4 shō 5 gō 8 shaku 7 sai (220.64587 koku)"
+      },
+      {
+        "purpose": "identifying",
+        "value": "譯官逗留中米"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p021_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2512,1319,104,1413"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p021_left-02",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "〃錢六千六百五拾三貫七百六拾五文"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "〃 銭 六千六百五十三貫七百六十五文"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "[ditto item mark] Cash: 6,653 kan 765 mon"
+      },
+      {
+        "purpose": "identifying",
+        "value": "譯官逗留中錢"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p021_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2382,1319,100,1329"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p021_left-03",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "但譯官逗留中五日次方諸入用之分如斯"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "但し、訳官逗留中の五日次方（五日ごとの支給係）諸入用の分は斯くの如し"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Note: this is the portion covering all expenses of the five-day provisioning office during the interpreter-officials' stay. It qualifies the rice and cash figures immediately to its right."
+      },
+      {
+        "purpose": "identifying",
+        "value": "但譯官逗留中五日次方諸入用之分如斯"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p021_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2251,1471,103,1428"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p021_left-04",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "〃米拾六石四斗五升貳合貳勺七才"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "〃 米 十六石四斗五升二合二勺七才"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "[ditto item mark] Rice: 16 koku 4 to 5 shō 2 gō 2 shaku 7 sai (16.45227 koku)"
+      },
+      {
+        "purpose": "identifying",
+        "value": "譯官迎米"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p021_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2128,1317,101,1245"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p021_left-05",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "〃錢八百四拾三貫八百九拾四文"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "〃 銭 八百四十三貫八百九十四文"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "[ditto item mark] Cash: 843 kan 894 mon"
+      },
+      {
+        "purpose": "identifying",
+        "value": "譯官迎錢"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p021_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1996,1319,99,1158"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p021_left-06",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "但譯官迎五日次方諸入用如斯"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "但し、訳官迎えの五日次方諸入用は斯くの如し"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Note: these are all expenses of the five-day provisioning office for receiving the interpreter-officials. It qualifies the rice and cash figures immediately to its right."
+      },
+      {
+        "purpose": "identifying",
+        "value": "但譯官迎五日次方諸入用如斯"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p021_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1858,1471,102,1091"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p021_left-07",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "〃米四拾八石四斗七升六合八勺七才"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "〃 米 四十八石四斗七升六合八勺七才"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "[ditto item mark] Rice: 48 koku 4 to 7 shō 6 gō 8 shaku 7 sai (48.47687 koku)"
+      },
+      {
+        "purpose": "identifying",
+        "value": "譯官送米"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p021_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1721,1314,106,1330"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p021_left-08",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "〃錢千三百八拾貫四拾四文"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "〃 銭 千三百八十貫四十四文"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "[ditto item mark] Cash: 1,380 kan 44 mon"
+      },
+      {
+        "purpose": "identifying",
+        "value": "譯官送錢"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p021_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1593,1312,98,996"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p021_left-09",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "但送五日次方諸入用如斯"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "但し、送りの五日次方諸入用は斯くの如し"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Note: these are all expenses of the five-day provisioning office for sending the interpreter-officials off. It qualifies the rice and cash figures immediately to its right."
+      },
+      {
+        "purpose": "identifying",
+        "value": "但送五日次方諸入用如斯"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p021_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1460,1473,98,919"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p021_left-10",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "〃錢貳千百三貫貳百九拾七文"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "〃 銭 二千百三貫二百九十七文"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "[ditto item mark] Cash: 2,103 kan 297 mon"
+      },
+      {
+        "purpose": "identifying",
+        "value": "堂上以下進物錢"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p021_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1328,1307,98,1080"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p021_left-11",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "銅八千四百拾三斤壹勺八才"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "銅 八千四百十三斤一勺八才"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Copper: 8,413 kin, plus a trailing 1 shaku 8 sai. A small editorial ママ (sic) is printed beside each of those two sub-unit glyphs, flagging the manuscript's use of koku sub-unit names after a weight unit; only the 8,413 kin is parsed here."
+      },
+      {
+        "purpose": "identifying",
+        "value": "堂上以下進物銅"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p021_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1193,1377,117,1008"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p021_left-12",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "但堂上以下に定式相與候諸品代リ銅ヲ以テ相渡候分如斯"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "但し、堂上以下に定式相与え候諸品の代わりに銅をもって相渡し候分は斯くの如し"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Note: this is the portion handed over in copper in place of the goods customarily presented to the 堂上 (senior Korean interpreter-officials) and those of lower rank. It qualifies the cash and copper figures immediately to its right."
+      },
+      {
+        "purpose": "identifying",
+        "value": "但堂上以下定式相與候諸品代銅相渡候分如斯"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p021_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1037,1462,121,2100"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p021_left-13",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "藩制一覽表第一（嚴原）"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "藩制一覧表第一（厳原）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Running header: Han System Survey Table, Fascicle One (Izuhara). Provenance line naming the fascicle and the domain whose entry this leaf belongs to."
+      },
+      {
+        "purpose": "identifying",
+        "value": "柱題（藩制一覽表第一嚴原）"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p021_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:956,1296,77,580"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p021_left-14",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "十七"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "十七"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Printed book-page number in the bottom margin: 17"
+      },
+      {
+        "purpose": "identifying",
+        "value": "本書頁番號（十七）"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p021_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:926,3139,70,120"
+      }
+    }
+  }
+]

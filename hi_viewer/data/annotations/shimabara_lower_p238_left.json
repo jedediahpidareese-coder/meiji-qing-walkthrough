@@ -1,0 +1,962 @@
+[
+  {
+    "id": "anno-shimabara_lower_p238_left-00",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "少參事　宮北鄕左衞門"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "少参事　宮北郷左衛門"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Junior councillor: Miyakita Gōzaemon"
+      },
+      {
+        "purpose": "identifying",
+        "value": "少參事宮北鄕左衞門（新發田藩分）"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p238_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2632,988,101,1007"
+      }
+    }
+  },
+  {
+    "id": "anno-shimabara_lower_p238_left-01",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "梶彈右衞門"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "梶弾右衛門"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Junior councillor: Kaji Dan'uemon"
+      },
+      {
+        "purpose": "identifying",
+        "value": "少參事梶彈右衞門（新發田藩分）"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p238_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2619,2162,93,590"
+      }
+    }
+  },
+  {
+    "id": "anno-shimabara_lower_p238_left-02",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "里村縫殿"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "里村縫殿"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Junior councillor: Satomura Nuidono"
+      },
+      {
+        "purpose": "identifying",
+        "value": "少參事里村縫殿（新發田藩分）"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p238_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2606,2925,94,583"
+      }
+    }
+  },
+  {
+    "id": "anno-shimabara_lower_p238_left-03",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "三浦彦太夫"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "三浦彦太夫"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Junior councillor: Miura Hikodayū (fourth name, overflowing into a new column)"
+      },
+      {
+        "purpose": "identifying",
+        "value": "少參事三浦彦太夫（新發田藩分）"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p238_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2498,1408,92,588"
+      }
+    }
+  },
+  {
+    "id": "anno-shimabara_lower_p238_left-04",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "權少參事　佐藤八右衞門"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "権少参事　佐藤八右衛門"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Acting junior councillor: Satō Hachiemon"
+      },
+      {
+        "purpose": "identifying",
+        "value": "權少參事佐藤八右衞門（新發田藩分）"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p238_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2364,985,104,1005"
+      }
+    }
+  },
+  {
+    "id": "anno-shimabara_lower_p238_left-05",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "久米三左衞門"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "久米三左衛門"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Acting junior councillor: Kume Sanzaemon"
+      },
+      {
+        "purpose": "identifying",
+        "value": "權少參事久米三左衞門（新發田藩分）"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p238_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2353,2159,92,588"
+      }
+    }
+  },
+  {
+    "id": "anno-shimabara_lower_p238_left-06",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "七里作左衞門"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "七里作左衛門"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Acting junior councillor: Shichiri Sakuzaemon"
+      },
+      {
+        "purpose": "identifying",
+        "value": "權少參事七里作左衞門（新發田藩分）"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p238_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2337,2918,93,583"
+      }
+    }
+  },
+  {
+    "id": "anno-shimabara_lower_p238_left-07",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "寺田惣次郎"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "寺田惣次郎"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Acting junior councillor: Terada Sōjirō"
+      },
+      {
+        "purpose": "identifying",
+        "value": "權少參事寺田惣次郎（新發田藩分）"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p238_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2234,1403,91,587"
+      }
+    }
+  },
+  {
+    "id": "anno-shimabara_lower_p238_left-08",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "山崎重三郎"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "山崎重三郎"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Acting junior councillor: Yamazaki Jūzaburō"
+      },
+      {
+        "purpose": "identifying",
+        "value": "權少參事山崎重三郎（新發田藩分）"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p238_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2221,2159,85,591"
+      }
+    }
+  },
+  {
+    "id": "anno-shimabara_lower_p238_left-09",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "寺田與一郎"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "寺田与一郎"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Acting junior councillor: Terada Yoichirō"
+      },
+      {
+        "purpose": "identifying",
+        "value": "權少參事寺田與一郎（新發田藩分）"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p238_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2209,2920,88,585"
+      }
+    }
+  },
+  {
+    "id": "anno-shimabara_lower_p238_left-10",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "相馬作左衞門"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "相馬作左衛門"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Acting junior councillor: Sōma Sakuzaemon"
+      },
+      {
+        "purpose": "identifying",
+        "value": "權少參事相馬作左衞門（新發田藩分）"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p238_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2096,1405,93,582"
+      }
+    }
+  },
+  {
+    "id": "anno-shimabara_lower_p238_left-11",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "山田吉太郎"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "山田吉太郎"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Acting junior councillor: Yamada Kichitarō"
+      },
+      {
+        "purpose": "identifying",
+        "value": "權少參事山田吉太郎（新發田藩分）"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p238_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2086,2160,87,587"
+      }
+    }
+  },
+  {
+    "id": "anno-shimabara_lower_p238_left-12",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "三宅助三郎"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "三宅助三郎"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Acting junior councillor: Miyake Sukesaburō"
+      },
+      {
+        "purpose": "identifying",
+        "value": "權少參事三宅助三郎（新發田藩分）"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p238_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2074,2919,87,586"
+      }
+    }
+  },
+  {
+    "id": "anno-shimabara_lower_p238_left-13",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "富樫萬吉"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "富樫万吉"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Acting junior councillor: Togashi Mankichi"
+      },
+      {
+        "purpose": "identifying",
+        "value": "權少參事富樫萬吉（新發田藩分）"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p238_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1962,1396,97,590"
+      }
+    }
+  },
+  {
+    "id": "anno-shimabara_lower_p238_left-14",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "速水織衞"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "速水織衛"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Acting junior councillor: Hayami Orie"
+      },
+      {
+        "purpose": "identifying",
+        "value": "權少參事速水織衞（新發田藩分）"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p238_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1947,2158,96,589"
+      }
+    }
+  },
+  {
+    "id": "anno-shimabara_lower_p238_left-15",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "遠藤勇二郎"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "遠藤勇二郎"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Acting junior councillor: Endō Yūjirō"
+      },
+      {
+        "purpose": "identifying",
+        "value": "權少參事遠藤勇二郎（新發田藩分）"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p238_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1936,2918,95,584"
+      }
+    }
+  },
+  {
+    "id": "anno-shimabara_lower_p238_left-16",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "步兵　三大隊"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "歩兵　三大隊"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Infantry: three battalions"
+      },
+      {
+        "purpose": "identifying",
+        "value": "新發田步兵三大隊"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p238_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1834,982,97,504"
+      }
+    }
+  },
+  {
+    "id": "anno-shimabara_lower_p238_left-17",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "一小隊六十人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "一小隊六十人"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Note in smaller type: one platoon comprises sixty men."
+      },
+      {
+        "purpose": "identifying",
+        "value": "新發田步兵一小隊六十人註"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p238_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1834,1504,97,396"
+      }
+    }
+  },
+  {
+    "id": "anno-shimabara_lower_p238_left-18",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "八小隊ヲ以一大隊トス"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "八小隊をもって一大隊とす"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Note in smaller type: eight platoons constitute one battalion. With the preceding note this makes 3 x 8 x 60 = 1,440 infantrymen; no total is printed."
+      },
+      {
+        "purpose": "identifying",
+        "value": "新發田步兵八小隊一大隊註"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p238_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1833,1974,80,673"
+      }
+    }
+  },
+  {
+    "id": "anno-shimabara_lower_p238_left-19",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "砲兵　二百人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "砲兵　二百人"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Artillery: 200 men"
+      },
+      {
+        "purpose": "identifying",
+        "value": "新發田砲兵二百人"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p238_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1700,978,98,502"
+      }
+    }
+  },
+  {
+    "id": "anno-shimabara_lower_p238_left-20",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "○嶋原藩"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "○島原藩"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Maru-marker opening the entry for Shimabara domain (Hizen). Everything to its left on this leaf belongs to Shimabara; everything to its right belongs to Shibata."
+      },
+      {
+        "purpose": "identifying",
+        "value": "嶋原藩丸印標記"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p238_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1549,1321,108,563"
+      }
+    }
+  },
+  {
+    "id": "anno-shimabara_lower_p238_left-21",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "大少參事　八人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "大少参事　八人"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Councillors of senior and junior grade: 8 persons. Only three of the eight are named on this leaf."
+      },
+      {
+        "purpose": "identifying",
+        "value": "嶋原大少參事八人"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p238_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1427,979,97,585"
+      }
+    }
+  },
+  {
+    "id": "anno-shimabara_lower_p238_left-22",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "常備兵　四小隊"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "常備兵　四小隊"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Standing troops: four platoons"
+      },
+      {
+        "purpose": "identifying",
+        "value": "嶋原常備兵四小隊"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p238_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1292,974,93,586"
+      }
+    }
+  },
+  {
+    "id": "anno-shimabara_lower_p238_left-23",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "一隊六十人　士官三十六人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "一隊六十人　士官三十六人"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Double-column warichu note: each company sixty men; officers, thirty-six persons. Four platoons at sixty men gives 240 rank and file."
+      },
+      {
+        "purpose": "identifying",
+        "value": "嶋原常備兵割註"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p238_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1256,1564,137,411"
+      }
+    }
+  },
+  {
+    "id": "anno-shimabara_lower_p238_left-24",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "大參事　松平定衞"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "大参事　松平定衛"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Senior councillor: Matsudaira Sadae"
+      },
+      {
+        "purpose": "identifying",
+        "value": "嶋原大參事松平定衞"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p238_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1256,2322,104,1177"
+      }
+    }
+  },
+  {
+    "id": "anno-shimabara_lower_p238_left-25",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "豫備　七小隊"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "予備　七小隊"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Reserves: seven platoons (no per-platoon strength printed)"
+      },
+      {
+        "purpose": "identifying",
+        "value": "嶋原豫備七小隊"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p238_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1155,973,94,589"
+      }
+    }
+  },
+  {
+    "id": "anno-shimabara_lower_p238_left-26",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "澁川勝廸"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "渋川勝迪"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Senior councillor: Shibukawa Katsumichi (second holder of the office)"
+      },
+      {
+        "purpose": "identifying",
+        "value": "嶋原大參事澁川勝廸"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p238_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1121,2909,91,588"
+      }
+    }
+  },
+  {
+    "id": "anno-shimabara_lower_p238_left-27",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "炮隊　三隊"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "砲隊　三隊"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Artillery corps: three units"
+      },
+      {
+        "purpose": "identifying",
+        "value": "嶋原炮隊三隊"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p238_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1026,970,91,504"
+      }
+    }
+  },
+  {
+    "id": "anno-shimabara_lower_p238_left-28",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "一隊二十人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "一隊二十人"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Note: each unit twenty men. Three units therefore give 60 artillerymen."
+      },
+      {
+        "purpose": "identifying",
+        "value": "嶋原炮隊一隊二十人註"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p238_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1034,1493,76,322"
+      }
+    }
+  },
+  {
+    "id": "anno-shimabara_lower_p238_left-29",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "權大參事　眞田幸成"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "権大参事　真田幸成"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Acting senior councillor: Sanada Yukishige"
+      },
+      {
+        "purpose": "identifying",
+        "value": "嶋原權大參事眞田幸成"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p238_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:991,2325,103,1169"
+      }
+    }
+  },
+  {
+    "id": "anno-shimabara_lower_p238_left-30",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "藩制一覽表第九（島原）"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "藩制一覧表第九（島原）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Running header: Hansei ichiran-hyō, fascicle nine (Shimabara). Provenance line naming the domain whose entry opens on this leaf."
+      },
+      {
+        "purpose": "identifying",
+        "value": "版心藩制一覽表第九島原"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p238_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:899,1228,82,579"
+      }
+    }
+  },
+  {
+    "id": "anno-shimabara_lower_p238_left-31",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "四百五十三"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "四百五十三"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Printed book page number: 453"
+      },
+      {
+        "purpose": "identifying",
+        "value": "丁付四百五十三"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p238_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:873,3071,71,265"
+      }
+    }
+  }
+]

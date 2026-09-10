@@ -1,0 +1,812 @@
+[
+  {
+    "id": "anno-usuki_lower_p197_left-00",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "○臼杵藩"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "○臼杵藩（うすきはん）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Domain marker: Usuki Domain"
+      },
+      {
+        "purpose": "identifying",
+        "value": "臼杵藩マーカー"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p197_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2614,1331,106,558"
+      }
+    }
+  },
+  {
+    "id": "anno-usuki_lower_p197_left-01",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "大參事　一人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "大参事　一人"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Senior councillor (daisanji): 1 person"
+      },
+      {
+        "purpose": "identifying",
+        "value": "臼杵大參事"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p197_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2492,988,89,583"
+      }
+    }
+  },
+  {
+    "id": "anno-usuki_lower_p197_left-02",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "權大參事　二人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "権大参事　二人"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Acting senior councillor (gon-daisanji): 2 persons"
+      },
+      {
+        "purpose": "identifying",
+        "value": "臼杵權大參事"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p197_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2363,986,86,580"
+      }
+    }
+  },
+  {
+    "id": "anno-usuki_lower_p197_left-03",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "少參事　三人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "少参事　三人"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Junior councillor (shosanji): 3 persons"
+      },
+      {
+        "purpose": "identifying",
+        "value": "臼杵少參事"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p197_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2233,988,86,575"
+      }
+    }
+  },
+  {
+    "id": "anno-usuki_lower_p197_left-04",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "權少參事　三人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "権少参事　三人"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Acting junior councillor (gon-shosanji): 3 persons"
+      },
+      {
+        "purpose": "identifying",
+        "value": "臼杵權少參事"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p197_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1968,986,88,575"
+      }
+    }
+  },
+  {
+    "id": "anno-usuki_lower_p197_left-05",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "兵員　九百人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "兵員　九百人"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Troop strength: 900 men"
+      },
+      {
+        "purpose": "identifying",
+        "value": "臼杵兵員"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p197_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1702,984,90,578"
+      }
+    }
+  },
+  {
+    "id": "anno-usuki_lower_p197_left-06",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "片岡秀重"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "片岡秀重（かたおか　ひでしげ）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Kataoka Hideshige (given-name reading tentative), the senior councillor of Usuki"
+      },
+      {
+        "purpose": "identifying",
+        "value": "臼杵大參事片岡秀重"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p197_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2479,1999,83,578"
+      }
+    }
+  },
+  {
+    "id": "anno-usuki_lower_p197_left-07",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "粟屋勝孝"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "粟屋勝孝（あわや　かつたか）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Awaya Katsutaka (given-name reading tentative), acting senior councillor of Usuki"
+      },
+      {
+        "purpose": "identifying",
+        "value": "臼杵權大參事粟屋勝孝"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p197_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2347,1995,83,578"
+      }
+    }
+  },
+  {
+    "id": "anno-usuki_lower_p197_left-08",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "村瀨十應"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "村瀬十応（むらせ　じゅうおう）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Murase Juo (given-name reading tentative), acting senior councillor of Usuki"
+      },
+      {
+        "purpose": "identifying",
+        "value": "臼杵權大參事村瀨十應"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p197_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2337,2915,84,583"
+      }
+    }
+  },
+  {
+    "id": "anno-usuki_lower_p197_left-09",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "加納孝"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "加納孝（かのう　たかし）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Kano Takashi (given-name reading tentative), junior councillor of Usuki"
+      },
+      {
+        "purpose": "identifying",
+        "value": "臼杵少參事加納孝"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p197_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2217,1990,86,578"
+      }
+    }
+  },
+  {
+    "id": "anno-usuki_lower_p197_left-10",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "後藤鈍臣"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "後藤鈍臣（ごとう　どんしん）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Goto Donshin (given-name reading tentative), junior councillor of Usuki"
+      },
+      {
+        "purpose": "identifying",
+        "value": "臼杵少參事後藤鈍臣"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p197_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2204,2910,86,583"
+      }
+    }
+  },
+  {
+    "id": "anno-usuki_lower_p197_left-11",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "岡部章"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "岡部章（おかべ　あきら）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Okabe Akira (given-name reading tentative), junior councillor of Usuki"
+      },
+      {
+        "purpose": "identifying",
+        "value": "臼杵少參事岡部章"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p197_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2086,1991,87,578"
+      }
+    }
+  },
+  {
+    "id": "anno-usuki_lower_p197_left-12",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "清水濯纓"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "清水濯纓（しみず　たくえい）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Shimizu Takuei (given-name reading tentative), acting junior councillor of Usuki"
+      },
+      {
+        "purpose": "identifying",
+        "value": "臼杵權少參事清水濯纓"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p197_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1949,1990,89,584"
+      }
+    }
+  },
+  {
+    "id": "anno-usuki_lower_p197_left-13",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "若林永與"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "若林永与（わかばやし　えいよ）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Wakabayashi Eiyo (given-name reading tentative), acting junior councillor of Usuki"
+      },
+      {
+        "purpose": "identifying",
+        "value": "臼杵權少參事若林永與"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p197_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1933,2917,90,578"
+      }
+    }
+  },
+  {
+    "id": "anno-usuki_lower_p197_left-14",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "橘朴"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "橘朴（たちばな　ぼく）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Tachibana Boku (given-name reading tentative), acting junior councillor of Usuki"
+      },
+      {
+        "purpose": "identifying",
+        "value": "臼杵權少參事橘朴"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p197_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1817,1990,90,579"
+      }
+    }
+  },
+  {
+    "id": "anno-usuki_lower_p197_left-15",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "○上田藩"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "○上田藩（うえだはん）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Domain marker: Ueda Domain"
+      },
+      {
+        "purpose": "identifying",
+        "value": "上田藩マーカー"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p197_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1553,1319,107,559"
+      }
+    }
+  },
+  {
+    "id": "anno-usuki_lower_p197_left-16",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "大參事　一人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "大参事　一人"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Senior councillor (daisanji): 1 person"
+      },
+      {
+        "purpose": "identifying",
+        "value": "上田大參事"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p197_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1434,981,90,576"
+      }
+    }
+  },
+  {
+    "id": "anno-usuki_lower_p197_left-17",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "權大參事　三人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "権大参事　三人"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Acting senior councillor (gon-daisanji): 3 persons"
+      },
+      {
+        "purpose": "identifying",
+        "value": "上田權大參事"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p197_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1302,980,88,574"
+      }
+    }
+  },
+  {
+    "id": "anno-usuki_lower_p197_left-18",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "少參事　五人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "少参事　五人"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Junior councillor (shosanji): 5 persons"
+      },
+      {
+        "purpose": "identifying",
+        "value": "上田少參事"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p197_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1037,980,86,570"
+      }
+    }
+  },
+  {
+    "id": "anno-usuki_lower_p197_left-19",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "師岡主鈴"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "師岡主鈴（もろおか　しゅれい）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Morooka Shurei (given-name reading tentative), the senior councillor of Ueda"
+      },
+      {
+        "purpose": "identifying",
+        "value": "上田大參事師岡主鈴"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p197_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1412,1990,89,579"
+      }
+    }
+  },
+  {
+    "id": "anno-usuki_lower_p197_left-20",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "藤井淡水"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "藤井淡水（ふじい　たんすい）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Fujii Tansui (given-name reading tentative), acting senior councillor of Ueda"
+      },
+      {
+        "purpose": "identifying",
+        "value": "上田權大參事藤井淡水"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p197_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1281,1983,90,580"
+      }
+    }
+  },
+  {
+    "id": "anno-usuki_lower_p197_left-21",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "山口平太郎"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "山口平太郎（やまぐち　へいたろう）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Yamaguchi Heitaro, acting senior councillor of Ueda"
+      },
+      {
+        "purpose": "identifying",
+        "value": "上田權大參事山口平太郎"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p197_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1267,2906,82,584"
+      }
+    }
+  },
+  {
+    "id": "anno-usuki_lower_p197_left-22",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "瀧澤省吾"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "滝沢省吾（たきざわ　しょうご）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Takizawa Shogo (given-name reading tentative), acting senior councillor of Ueda"
+      },
+      {
+        "purpose": "identifying",
+        "value": "上田權大參事瀧澤省吾"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p197_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1146,1989,89,583"
+      }
+    }
+  },
+  {
+    "id": "anno-usuki_lower_p197_left-23",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "大島齋"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "大島斎（おおしま　さい）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Oshima Sai (given-name reading tentative), junior councillor of Ueda"
+      },
+      {
+        "purpose": "identifying",
+        "value": "上田少參事大島齋"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p197_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1015,1986,88,580"
+      }
+    }
+  },
+  {
+    "id": "anno-usuki_lower_p197_left-24",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "久松新五左衞門"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "久松新五左衛門（ひさまつ　しんござえもん）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Hisamatsu Shingozaemon, junior councillor of Ueda"
+      },
+      {
+        "purpose": "identifying",
+        "value": "上田少參事久松新五左衞門"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p197_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:999,2904,88,581"
+      }
+    }
+  },
+  {
+    "id": "anno-usuki_lower_p197_left-25",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "藩制一覽表第九（臼杵、上田）"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "藩制一覧表第九（臼杵、上田）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Running header: Hansei Ichiran Table, Fascicle 9 (Usuki, Ueda)"
+      },
+      {
+        "purpose": "identifying",
+        "value": "柱題藩制一覽表第九（臼杵藩・上田藩分）"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p197_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:909,1233,76,698"
+      }
+    }
+  },
+  {
+    "id": "anno-usuki_lower_p197_left-26",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "三百七十一"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "三百七十一（371）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Printed book-page number: 371"
+      },
+      {
+        "purpose": "identifying",
+        "value": "版心丁付三百七十一（臼杵藩・上田藩分）"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p197_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:881,3070,70,250"
+      }
+    }
+  }
+]

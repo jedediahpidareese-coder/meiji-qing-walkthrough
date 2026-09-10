@@ -1,0 +1,452 @@
+[
+  {
+    "id": "anno-izuhara_upper_p020_left-00",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "但參判使一行在館中飯米且外向ニ差遣候音物銀其外一行中ニ旅"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "但し、參判使一行が館中に在留中の飯米、且つ外向きに差し遣わし候音物銀、その外、一行中に旅…"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Note: the ration rice for the Sanpanshi (vice-minister) envoy party while resident in the Japan House, together with the gift-silver dispatched for external presentation, and further, for the members of the party, trav— (the sentence continues in the next column)"
+      },
+      {
+        "purpose": "identifying",
+        "value": "但書參判使入費注記前段"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p020_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2642,1400,99,2348"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p020_left-01",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "粧限相與候分如斯"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "…粧に限り相與え候分、かくのごとし。"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "—elling outfit only: the portion granted is as above. (Completes the note begun in the column to the right; 旅 + 粧 = 旅粧, travel outfitting.)"
+      },
+      {
+        "purpose": "identifying",
+        "value": "但書參判使入費注記後段"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p020_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2514,1399,91,678"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p020_left-02",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "○和漂民入費"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "○和漂民入費（日本人漂流民に関する経費）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "○ Expenses for Japanese castaways (section heading; the circle marks a new expense category, not a domain)"
+      },
+      {
+        "purpose": "identifying",
+        "value": "和漂民入費標題"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p020_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2384,1154,86,501"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p020_left-03",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "一米八拾石九合四勺貳才"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "一、米　八十石九合四勺二才"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Item: rice, 80.00942 koku (total for the castaway-expense section)"
+      },
+      {
+        "purpose": "identifying",
+        "value": "和漂民入費米高總計"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p020_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2249,1091,88,897"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p020_left-04",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "一錢五千四百八拾六貫八百貳拾貳文"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "一、錢　五千四百八十六貫八百二十二文"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Item: cash, 5,486 kan 822 mon (total for the castaway-expense section)"
+      },
+      {
+        "purpose": "identifying",
+        "value": "和漂民入費錢高總計"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p020_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2113,1093,91,1320"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p020_left-05",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "小譯"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "小訳（内訳）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Breakdown — sub-itemization of the two totals above; the rice components that follow, together with two more on book page 十六, sum exactly to 80.00942 koku"
+      },
+      {
+        "purpose": "identifying",
+        "value": "小譯標題"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p020_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1982,1246,83,163"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p020_left-06",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "〃米五石壹斗六合三勺八才"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "同、米　五石一斗六合三勺八才"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Ditto item: rice, 5.10638 koku"
+      },
+      {
+        "purpose": "identifying",
+        "value": "小譯在留入費米高"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p020_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1842,1169,91,990"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p020_left-07",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "〃錢千六百六拾八貫九百八拾八文"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "同、錢　千六百六十八貫九百八十八文"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Ditto item: cash, 1,668 kan 988 mon"
+      },
+      {
+        "purpose": "identifying",
+        "value": "小譯在留入費錢高"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p020_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1704,1169,93,1245"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p020_left-08",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "但和漂民朝鮮國在留中諸入費凡如斯"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "但し、和漂民が朝鮮國に在留中の諸入費、おおよそかくのごとし。"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Note: the various expenses incurred while the Japanese castaways were resident in Korea come to roughly this."
+      },
+      {
+        "purpose": "identifying",
+        "value": "但書和漂民朝鮮在留入費注記"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p020_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1565,1411,96,1342"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p020_left-09",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "〃米三拾七石七斗五升六合貳勺六才"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "同、米　三十七石七斗五升六合二勺六才"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Ditto item: rice, 37.75626 koku"
+      },
+      {
+        "purpose": "identifying",
+        "value": "小譯人夫飯米高"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p020_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1435,1172,93,1329"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p020_left-10",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "〃錢百六拾九貫八百三拾四文"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "同、錢　百六十九貫八百三十四文"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Ditto item: cash, 169 kan 834 mon"
+      },
+      {
+        "purpose": "identifying",
+        "value": "小譯人夫賃銀高"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p020_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1304,1173,92,1075"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p020_left-11",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "但右同斷ニ付別段差渡候三拾人之人夫ニ相與候賃銀飯米之分如斯"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "但し、右同斷につき、別段差し渡し候三十人の人夫に相與え候賃銀・飯米の分、かくのごとし。"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Note: this being the same case as at right, the above is the wage-silver and ration rice granted to the thirty labourers dispatched separately."
+      },
+      {
+        "purpose": "identifying",
+        "value": "但書人夫賃銀飯米注記"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p020_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1153,1413,104,2349"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p020_left-12",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "〃米八石五斗七升七合七勺七才"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "同、米　八石五斗七升七合七勺七才"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Ditto item: rice, 8.57777 koku (its explanatory note runs onto book page 十六)"
+      },
+      {
+        "purpose": "identifying",
+        "value": "小譯續米高八石"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p020_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1033,1173,93,1160"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p020_left-13",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "藩制一覽表第一（嚴原）"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "藩制一覧表　第一（厳原）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Running header: Hansei Ichiran, Fascicle One (Izuhara) — provenance, naming the domain block this leaf belongs to"
+      },
+      {
+        "purpose": "identifying",
+        "value": "柱藩制一覽表第一嚴原"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p020_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:920,1329,74,580"
+      }
+    }
+  },
+  {
+    "id": "anno-izuhara_upper_p020_left-14",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "十五"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "十五"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Printed book-page number: 15"
+      },
+      {
+        "purpose": "identifying",
+        "value": "丁付十五"
+      }
+    ],
+    "target": {
+      "source": "images/upper_p020_left.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:907,3168,70,114"
+      }
+    }
+  }
+]

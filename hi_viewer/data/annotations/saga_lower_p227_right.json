@@ -1,0 +1,452 @@
+[
+  {
+    "id": "anno-saga_lower_p227_right-00",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "藩制一覽表第九（佐倉）"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "藩制一覧表第九（佐倉）"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Table of Domain Institutions, Fascicle Nine (Sakura)"
+      },
+      {
+        "purpose": "identifying",
+        "value": "頁見出藩制一覽表第九（佐倉）"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p227_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2190,1276,74,579"
+      }
+    }
+  },
+  {
+    "id": "anno-saga_lower_p227_right-01",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "前山淸一郎"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "前山清一郎"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Maeyama Seiichiro, a fourth gon-daisanji (assistant senior councillor); the name continues Saga's list from the preceding leaf"
+      },
+      {
+        "purpose": "identifying",
+        "value": "佐賀藩權大參事前山淸一郎"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p227_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2057,1693,87,586"
+      }
+    }
+  },
+  {
+    "id": "anno-saga_lower_p227_right-02",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "少參事以下審ナラス"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "少参事以下審らかならず"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Junior councillors (shosanji) and below: not ascertained"
+      },
+      {
+        "purpose": "identifying",
+        "value": "佐賀藩少參事以下審ナラス"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p227_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1919,1193,90,738"
+      }
+    }
+  },
+  {
+    "id": "anno-saga_lower_p227_right-03",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "六大隊"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "六大隊"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Six battalions"
+      },
+      {
+        "purpose": "identifying",
+        "value": "佐賀藩六大隊"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p227_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1789,1195,87,250"
+      }
+    }
+  },
+  {
+    "id": "anno-saga_lower_p227_right-04",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "內譯"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "内訳"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Breakdown (of which)"
+      },
+      {
+        "purpose": "identifying",
+        "value": "佐賀藩內譯"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p227_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1655,1199,84,164"
+      }
+    }
+  },
+  {
+    "id": "anno-saga_lower_p227_right-05",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "砲三十六門"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "砲三十六門"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Cannon: 36 pieces"
+      },
+      {
+        "purpose": "identifying",
+        "value": "佐賀藩砲三十六門"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p227_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1517,1200,86,417"
+      }
+    }
+  },
+  {
+    "id": "anno-saga_lower_p227_right-06",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "士官八百六十四員"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "士官八百六十四員"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Officers: 864"
+      },
+      {
+        "purpose": "identifying",
+        "value": "佐賀藩士官員數"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p227_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1387,1289,87,669"
+      }
+    }
+  },
+  {
+    "id": "anno-saga_lower_p227_right-07",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "砲士百八拾人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "砲士百八十人"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Gunners of samurai rank: 180 men"
+      },
+      {
+        "purpose": "identifying",
+        "value": "佐賀藩砲士人數"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p227_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1251,1287,88,501"
+      }
+    }
+  },
+  {
+    "id": "anno-saga_lower_p227_right-08",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "兵士千四百四十人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "兵士千四百四十人"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Infantry of samurai rank: 1,440 men"
+      },
+      {
+        "purpose": "identifying",
+        "value": "佐賀藩兵士人數"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p227_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1115,1290,88,669"
+      }
+    }
+  },
+  {
+    "id": "anno-saga_lower_p227_right-09",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "砲卒百八人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "砲卒百八人"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Artillery privates: 108 men"
+      },
+      {
+        "purpose": "identifying",
+        "value": "佐賀藩砲卒人數"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p227_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:977,1289,89,417"
+      }
+    }
+  },
+  {
+    "id": "anno-saga_lower_p227_right-10",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "兵卒貳百六十人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "兵卒二百六十人"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Infantry privates: 260 men"
+      },
+      {
+        "purpose": "identifying",
+        "value": "佐賀藩兵卒人數"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p227_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:842,1289,88,586"
+      }
+    }
+  },
+  {
+    "id": "anno-saga_lower_p227_right-11",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "樂卒百貳十人"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "楽卒百二十人"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Bandsmen (military-band privates): 120 men"
+      },
+      {
+        "purpose": "identifying",
+        "value": "佐賀藩藥卒人數"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p227_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:706,1291,88,503"
+      }
+    }
+  },
+  {
+    "id": "anno-saga_lower_p227_right-12",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "○佐倉藩"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "○佐倉藩"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "○ Sakura Domain, the maru-marker opening Sakura's entry"
+      },
+      {
+        "purpose": "identifying",
+        "value": "佐倉藩マル記號"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p227_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:566,1377,107,566"
+      }
+    }
+  },
+  {
+    "id": "anno-saga_lower_p227_right-13",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "知事"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "知事"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Governor (chiji); the incumbent's name continues on the facing leaf"
+      },
+      {
+        "purpose": "identifying",
+        "value": "佐倉藩知事"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p227_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:440,1291,87,167"
+      }
+    }
+  },
+  {
+    "id": "anno-saga_lower_p227_right-14",
+    "type": "Annotation",
+    "body": [
+      {
+        "purpose": "transcribing",
+        "value": "四百三十"
+      },
+      {
+        "purpose": "modern_jp_reading",
+        "value": "四百三十"
+      },
+      {
+        "purpose": "english_translation",
+        "value": "Printed page 430"
+      },
+      {
+        "purpose": "identifying",
+        "value": "頁數四百三十（佐倉藩分）"
+      }
+    ],
+    "target": {
+      "source": "images/lower_p227_right.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2191,3122,71,219"
+      }
+    }
+  }
+]
